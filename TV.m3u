@@ -9,6 +9,39 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD
 http://111.0.93.5:80/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
+#EXTINF:-1 group-title="港台",凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 group-title="港台",星空卫视
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 group-title="港台",翡翠台
+http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=78&ip=2
+#EXTINF:-1 group-title="港台"
+J2,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=74&ip=1
+#EXTINF:-1 group-title="港台"
+无线新闻台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=73&ip=1
+#EXTINF:-1 group-title="港台"
+有线新闻台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=62&ip=2
+#EXTINF:-1 group-title="港台"
+无线财经资讯台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=73&ip=2
+#EXTINF:-1 group-title="港台"
+TVB星河台（粤语）,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=76&ip=2
+#EXTINF:-1 group-title="港台"
+TVB星河台（国语）,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=76&ip=3
+#EXTINF:-1 group-title="港台"
+有线新闻,http://mott.cdn.cmi.chinamobile.com/livehls/MOB-SCC/index.m3u8
+#EXTINF:-1 group-title="港台"
+NOW新闻台,http://180.76.113.200:5588/msdl.php?id=NowXWTHD
+#EXTINF:-1 group-title="港台"
+NOW直播台,http://180.76.113.200:5588/msdl.php?id=NowZBT
+#EXTINF:-1 group-title="港台"
+Viu TV,http://danielwu.gz01.bdysite.com/iptv/?id=viutv
+#EXTINF:-1 group-title="港台"
+C+,http://mott.cdn.cmi.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
+#EXTINF:-1 group-title="港台"
+有线娱乐台,http://mott.cdn.cmi.chinamobile.com/livehls/MOB-CN/index.m3u8
+#EXTINF:-1 group-title="港台"
+财经资讯台,http://mott.cdn.cmi.chinamobile.com/livehls/MOB-NGW/index.m3u8
+
 #EXTINF:-1 group-title="港台",澳门互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 group-title="港台",澳门有线3台
@@ -45,12 +78,20 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="港台",VA澳洲台
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1 group-title="港台",中视HD
+http://180.76.113.200:5588/msdl.php?id=CTVHD
+#EXTINF:-1 group-title="港台",台视HD
+http://180.76.113.200:5588/msdl.php?id=TTVHD
+#EXTINF:-1 group-title="港台",华视
+http://180.76.113.200:5588/msdl.php?id=CTSHD
 #EXTINF:-1 group-title="港台",中天新闻
 http://111.13.111.192/211.75.9.37:20010/20011
 #EXTINF:-1 group-title="港台",中天新闻
 http://111.13.111.192/211.75.9.37:20060/20067
 #EXTINF:-1 group-title="港台",中天综合
 http://111.13.111.192/211.75.9.37:20000/20007
+#EXTINF:-1 group-title="港台",中天综合
+http://live.52ypp.com:81/tw.php?id=101
 #EXTINF:-1 group-title="港台",东森财经新闻
 http://111.13.111.192/211.75.9.37:20010/20017
 #EXTINF:-1 group-title="港台",东森戏剧
@@ -69,6 +110,8 @@ http://111.13.111.192/211.75.9.37:20040/20045
 http://111.13.111.192/211.75.9.37:20060/20063
 #EXTINF:-1 group-title="港台",CN卡通
 http://111.13.111.192/211.75.9.37:20040/20043
+#EXTINF:-1 group-title="港台",迪斯尼频道
+http://111.13.111.192/211.75.9.37:20040/20044
 #EXTINF:-1 group-title="港台",FOX 体育
 http://111.13.111.192/211.75.9.37:20060/20065
 #EXTINF:-1 group-title="港台",FOX电影
@@ -83,6 +126,12 @@ http://111.13.111.192/211.75.9.37:20060/20068
 http://111.13.111.192/211.75.9.37:20010/20013
 #EXTINF:-1 group-title="港台",动物星球
 http://111.13.111.192/211.75.9.37:20000/20002
+#EXTINF:-1 group-title="港台",三立都会台
+http://live.52ypp.com:81/tw.php?id=87
+#EXTINF:-1 group-title="港台",三立台湾台
+http://live.52ypp.com:81/tw.php?id=89
+#EXTINF:-1 group-title="港台",三立新闻台
+http://live.52ypp.com:81/tw.php?id=90
 #EXTINF:-1 group-title="港台",非凡商业
 http://111.13.111.192/211.75.9.37:20050/20052
 #EXTINF:-1 group-title="港台",非凡新闻
@@ -97,18 +146,28 @@ http://111.13.111.192/211.75.9.37:20060/20062
 http://111.13.111.192/211.75.9.37:20020/20024
 #EXTINF:-1 group-title="港台",纬来体育
 http://111.13.111.192/211.75.9.37:20060/20064
+#EXTINF:-1 group-title="港台",纬来体育
+http://live.52ypp.com:81/tw.php?id=92
 #EXTINF:-1 group-title="港台",纬来戏剧
 http://111.13.111.192/211.75.9.37:20040/20047
+#EXTINF:-1 group-title="港台",纬来戏剧
+http://live.52ypp.com:81/tw.php?id=93
 #EXTINF:-1 group-title="港台",纬来育乐
 http://111.13.111.192/211.75.9.37:20000/20004
+#EXTINF:-1 group-title="港台",纬来育乐
+http://live.52ypp.com:81/tw.php?id=94
 #EXTINF:-1 group-title="港台",纬来综合
 http://111.13.111.192/211.75.9.37:20000/20003
+#EXTINF:-1 group-title="港台",纬来综合
+http://live.52ypp.com:81/tw.php?id=95
 #EXTINF:-1 group-title="港台",纬来电影
 http://111.13.111.192/211.75.9.37:20020/20027
+#EXTINF:-1 group-title="港台",纬来电影
+http://live.52ypp.com:81/tw.php?id=96
 #EXTINF:-1 group-title="港台",卫视电影台
-http://111.13.111.192/211.75.9.37:20020/20026
+http://live.52ypp.com:81/tw.php?id=97
 #EXTINF:-1 group-title="港台",卫视中文台
-http://111.13.111.192/211.75.9.37:20000/20006
+http://live.52ypp.com:81/tw.php?id=98
 #EXTINF:-1 group-title="港台",年代新闻
 http://111.13.111.192/211.75.9.37:20010/20014
 #EXTINF:-1 group-title="港台",年代新闻
@@ -205,8 +264,6 @@ http://61.216.67.119/lifetv/LTV1/playlist.m3u8
 http://61.58.60.230:9319/live/125.m3u8
 #EXTINF:-1 group-title="英文频道",ACC
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
-#EXTINF:-1 group-title="英文频道",ABC
-https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 group-title="英文频道",ABC Comedy
 https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
 #EXTINF:-1 group-title="英文频道",ABC ME
