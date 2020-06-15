@@ -69,36 +69,16 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 group-title="中国",百事4K频道
 http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="欧美",NBC
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="欧美",NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)
-http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1 group-title="欧美",NBC 13 Des Moines IA (WHO-DT)
-http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
-#EXTINF:-1 group-title="欧美",NBC PA
-http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1 group-title="欧美",CBS新闻
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="欧美",FOX体育
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="欧美",美国之音
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0540_av-b.m3u8
-#EXTINF:-1 group-title="欧美",美国之音
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-#EXTINF:-1 group-title="欧美",加拿大中文电视台
-http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
-#EXTINF:-1 group-title="欧美",全美電視
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 group-title="欧美",新唐人美东臺
-https://live.ntdimg.com/live400/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人旧金山臺
-https://live.ntdimg.com/sflive990/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人美西臺
-https://live.ntdimg.com/uwlive990/playlist.m3u8
 #EXTINF:-1 group-title="港台",有線新聞
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+#EXTINF:-1 group-title="港台",凤凰中文
+http://live.centerch.com/fhzw.m3u8 
+#EXTINF:-1 group-title="港台",凤凰中文
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8 
+#EXTINF:-1 group-title="港台",凤凰中文
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8 
+#EXTINF:-1 group-title="港台",凤凰中文
+http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文
 http://125.210.152.21:9090/live/FHZW.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文
@@ -108,15 +88,32 @@ http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯
 http://125.210.152.21:9090/live/FHZX.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8 
+#EXTINF:-1 group-title="港台",凤凰资讯HD
+http://live.centerch.com/fhzx.m3u8
+#EXTINF:-1 group-title="港台",凤凰资讯HD
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8 
+#EXTINF:-1 group-title="港台",凤凰资讯HD
+http://125.210.152.18:9090/live/FHZX_1200.m3u8 
+#EXTINF:-1 group-title="港台",凤凰资讯HD
+http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 group-title="港台",凤凰资讯HD
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD
 http://111.0.93.5:80/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8 
 #EXTINF:-1 group-title="港台",凤凰资讯HD
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 group-title="港台",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="港台",TVB星河台
+#EXTINF:-1 group-title="港台",TVB星河台
+http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+#EXTINF:-1 group-title="港台",阳光卫视
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8 
 #EXTINF:-1 group-title="港台",澳门互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 group-title="港台",澳门有线3台
@@ -145,6 +142,10 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
 #EXTINF:-1 group-title="港台",香港卫视HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台",香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
+#EXTINF:-1 group-title="港台",香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港台",亚美卫视
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="港台",日本新闻
@@ -171,6 +172,10 @@ http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 group-title="港台",东森电影
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 group-title="港台",好莱坞电影
+http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 group-title="港台",好莱坞电影
+http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8 
 #EXTINF:-1 group-title="港台",国家地理
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 group-title="港台",FOX动作
@@ -196,11 +201,11 @@ http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
 #EXTINF:-1 group-title="台湾频道",台視
 https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",中天新聞
+http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8 
+#EXTINF:-1 group-title="台湾频道",中天新聞
+http://ddbb.228888888.xyz:8081/live/tw101.m3u8 
+#EXTINF:-1 group-title="台湾频道",中天新聞
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="台湾频道",中天綜合
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="台湾频道",中天綜合
-http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 group-title="台湾频道",中天綜合
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 group-title="台湾频道",中天綜合
@@ -209,14 +214,16 @@ http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 group-title="台湾频道",中天娛樂
 http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 group-title="台湾频道",中天娛樂
-http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 group-title="台湾频道",八大綜合
 http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 group-title="台湾频道",三立新聞
+http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8 
 #EXTINF:-1 group-title="台湾频道",三立新聞
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS新聞
+http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS新聞
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 group-title="台湾频道",原視
@@ -229,6 +236,68 @@ http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 #EXTINF:-1 group-title="台湾频道",人間衛視
 http://54.64.23.79:1935/live/vod/playlist.m3u8
+#EXTINF:-1 group-title="欧美",ABC NEWS
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8 
+#EXTINF:-1 group-title="欧美",FOX NEWS
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 group-title="欧美",FOX Business
+https://gma2.blab.email/espnu.m3u8 
+#EXTINF:-1 group-title="欧美",CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
+#EXTINF:-1 group-title="欧美",NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="欧美",NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1 group-title="欧美",NBC 13 Des Moines IA (WHO-DT)
+http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
+#EXTINF:-1 group-title="欧美",NBC PA
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 group-title="欧美",CBS新闻
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8 
+#EXTINF:-1 group-title="欧美",CBS新闻
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="欧美",FOX体育
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="欧美",美国之音
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0540_av-b.m3u8
+#EXTINF:-1 group-title="欧美",美国之音
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1 group-title="欧美",加拿大中文电视台
+http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
+#EXTINF:-1 group-title="欧美",全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 group-title="欧美",新唐人美东臺
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 group-title="欧美",新唐人旧金山臺
+https://live.ntdimg.com/sflive990/playlist.m3u8
+#EXTINF:-1 group-title="欧美",新唐人美西臺
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 group-title="英文频道",CBS Reality 
+http://persik.by/stream/6606/411484/10229.m3u8
+#EXTINF:-1 group-title="英文频道",NatGeo Wild 
+http://persik.by/stream/6606/411484/10446.m3u8  
+#EXTINF:-1 group-title="英文频道",Nat Geo HD
+rtmp://58.200.131.2/livetv/natlgeo
+#EXTINF:-1 group-title="英文频道",Nat Geo HD
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8  
+#EXTINF:-1 group-title="英文频道",Nat Geo HD 
+http://persik.by/stream/6606/411484/10243.m3u8 
+#EXTINF:-1 group-title="英文频道",Nickelodeon 
+http://persik.by/stream/6606/411484/45.m3u8 
+#EXTINF:-1 group-title="英文频道",BBC World News 
+http://persik.by/stream/6606/411484/46.m3u8  
+#EXTINF:-1 group-title="英文频道",Cartoon Network
+http://persik.by/stream/6606/411484/805.m3u8 
+#EXTINF:-1 group-title="英文频道",Cartoon Network 
+http://persik.by/stream/6606/411484/54.m3u8
+#EXTINF:-1 group-title="英文频道",Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8 
+#EXTINF:-1 group-title="英文频道",Bloomberg
+http://persik.by/stream/6606/411484/90.m3u8 
+#EXTINF:-1 group-title="英文频道",Bloomberg
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8 
 #EXTINF:-1 group-title="英文频道",ACC
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 #EXTINF:-1 group-title="英文频道",ABC Comedy
