@@ -69,8 +69,6 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 group-title="中国",百事4K频道
 http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="港台",有線新聞
-https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文
 http://live.centerch.com/fhzw.m3u8 
 #EXTINF:-1 group-title="港台",凤凰中文
@@ -110,7 +108,6 @@ http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 group-title="港台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="港台",TVB星河台
-#EXTINF:-1 group-title="港台",TVB星河台
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 group-title="港台",阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8 
@@ -122,12 +119,6 @@ http://202.175.127.77/live/show/ch3/index.m3u8
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 group-title="港台",澳门番薯TV
 http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-#EXTINF:-1 group-title="港台",韩国qrirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="港台",韩国BBS
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-#EXTINF:-1 group-title="港台",日本未知电视
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1 group-title="港台",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="港台",KKTV8
@@ -176,65 +167,63 @@ http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 group-title="港台",好莱坞电影
 http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8 
-#EXTINF:-1 group-title="港台",国家地理
-http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 group-title="港台",FOX动作
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="港台",FOX动作
 http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="港台",动物星球
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 group-title="粤语频道",香港开电視
+#EXTINF:-1 group-title="港台",香港开电視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="粤语频道",亞洲電視台
+#EXTINF:-1 group-title="港台",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
-#EXTINF:-1 group-title="粤语频道",有线新闻台
+#EXTINF:-1 group-title="港台",有线新闻台
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-#EXTINF:-1 group-title="粤语频道",翡翠台
+#EXTINF:-1 group-title="港台",翡翠台
 http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-title="粤语频道",明珠台
+#EXTINF:-1 group-title="港台",明珠台
 http://m.567it.com/Pearl.m3u8
-#EXTINF:-1 group-title="粤语频道",TVB星河频道
+#EXTINF:-1 group-title="港台",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-#EXTINF:-1 group-title="粤语频道",南方卫视
+#EXTINF:-1 group-title="港台",南方卫视
 http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
-#EXTINF:-1 group-title="台湾频道",台視
+#EXTINF:-1 group-title="港台",台視
 https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道",中天新聞
+#EXTINF:-1 group-title="港台",中天新聞
 http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8 
-#EXTINF:-1 group-title="台湾频道",中天新聞
+#EXTINF:-1 group-title="港台",中天新聞
 http://ddbb.228888888.xyz:8081/live/tw101.m3u8 
-#EXTINF:-1 group-title="台湾频道",中天新聞
+#EXTINF:-1 group-title="港台",中天新聞
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="台湾频道",中天綜合
+#EXTINF:-1 group-title="港台",中天綜合
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="台湾频道",中天綜合
+#EXTINF:-1 group-title="港台",中天綜合
 http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="台湾频道",中天娛樂
+#EXTINF:-1 group-title="港台",中天娛樂
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 group-title="台湾频道",中天娛樂
+#EXTINF:-1 group-title="港台",中天娛樂
 http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 group-title="台湾频道",八大綜合
+#EXTINF:-1 group-title="港台",八大綜合
 http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1 group-title="台湾频道",三立新聞
+#EXTINF:-1 group-title="港台",三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8 
-#EXTINF:-1 group-title="台湾频道",三立新聞
+#EXTINF:-1 group-title="港台",三立新聞
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1 group-title="台湾频道",三立新聞
+#EXTINF:-1 group-title="港台",三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 group-title="台湾频道",TVBS新聞
+#EXTINF:-1 group-title="港台",TVBS新聞
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
-#EXTINF:-1 group-title="台湾频道",TVBS新聞
+#EXTINF:-1 group-title="港台",TVBS新聞
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 group-title="台湾频道",原視
+#EXTINF:-1 group-title="港台",原視
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",大立電視
+#EXTINF:-1 group-title="港台",大立電視
 http://211.21.214.7:8808/live/dali/index.m3u8
-#EXTINF:-1 group-title="台湾频道",華藏衛視
+#EXTINF:-1 group-title="港台",華藏衛視
 http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道",信吉电視
+#EXTINF:-1 group-title="港台",信吉电視
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 group-title="台湾频道",人間衛視
+#EXTINF:-1 group-title="港台",人間衛視
 http://54.64.23.79:1935/live/vod/playlist.m3u8
 #EXTINF:-1 group-title="欧美",ABC NEWS
 https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8 
@@ -274,173 +263,175 @@ https://live.ntdimg.com/live400/playlist.m3u8
 https://live.ntdimg.com/sflive990/playlist.m3u8
 #EXTINF:-1 group-title="欧美",新唐人美西臺
 https://live.ntdimg.com/uwlive990/playlist.m3u8
-#EXTINF:-1 group-title="英文频道",CBS Reality 
+#EXTINF:-1 group-title="欧美",CBS Reality 
 http://persik.by/stream/6606/411484/10229.m3u8
-#EXTINF:-1 group-title="英文频道",NatGeo Wild 
+#EXTINF:-1 group-title="欧美",NatGeo Wild 
 http://persik.by/stream/6606/411484/10446.m3u8  
-#EXTINF:-1 group-title="英文频道",Nat Geo HD
+#EXTINF:-1 group-title="欧美",Nat Geo HD
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 group-title="欧美",Nat Geo HD
 rtmp://58.200.131.2/livetv/natlgeo
-#EXTINF:-1 group-title="英文频道",Nat Geo HD
+#EXTINF:-1 group-title="欧美",Nat Geo HD
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8  
-#EXTINF:-1 group-title="英文频道",Nat Geo HD 
+#EXTINF:-1 group-title="欧美",Nat Geo HD 
 http://persik.by/stream/6606/411484/10243.m3u8 
-#EXTINF:-1 group-title="英文频道",Nickelodeon 
+#EXTINF:-1 group-title="欧美",Nickelodeon 
 http://persik.by/stream/6606/411484/45.m3u8 
-#EXTINF:-1 group-title="英文频道",BBC World News 
+#EXTINF:-1 group-title="欧美",BBC World News 
 http://persik.by/stream/6606/411484/46.m3u8  
-#EXTINF:-1 group-title="英文频道",Cartoon Network
+#EXTINF:-1 group-title="欧美",Cartoon Network
 http://persik.by/stream/6606/411484/805.m3u8 
-#EXTINF:-1 group-title="英文频道",Cartoon Network 
+#EXTINF:-1 group-title="欧美",Cartoon Network 
 http://persik.by/stream/6606/411484/54.m3u8
-#EXTINF:-1 group-title="英文频道",Bloomberg
+#EXTINF:-1 group-title="欧美",Bloomberg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8 
-#EXTINF:-1 group-title="英文频道",Bloomberg
+#EXTINF:-1 group-title="欧美",Bloomberg
 http://persik.by/stream/6606/411484/90.m3u8 
-#EXTINF:-1 group-title="英文频道",Bloomberg
+#EXTINF:-1 group-title="欧美",Bloomberg
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8 
-#EXTINF:-1 group-title="英文频道",ACC
+#EXTINF:-1 group-title="欧美",ACC
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
-#EXTINF:-1 group-title="英文频道",ABC Comedy
+#EXTINF:-1 group-title="欧美",ABC Comedy
 https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
-#EXTINF:-1 group-title="英文频道",ABC ME
+#EXTINF:-1 group-title="欧美",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
-#EXTINF:-1 group-title="英文频道",ABC News 24
+#EXTINF:-1 group-title="欧美",ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="英文频道",ABC Kids
+#EXTINF:-1 group-title="欧美",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
-#EXTINF:-1 group-title="英文频道",Asian Food Network
+#EXTINF:-1 group-title="欧美",Asian Food Network
 https://vcdnjt.useetv.com/joss/15/afc/.m3u8
-#EXTINF:-1 group-title="英文频道",BBC News
+#EXTINF:-1 group-title="欧美",BBC News
 http://51.52.156.22:8888/http/004
-#EXTINF:-1 group-title="英文频道",BBC 4
+#EXTINF:-1 group-title="欧美",BBC 4
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 group-title="英文频道",ITV
+#EXTINF:-1 group-title="欧美",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 group-title="英文频道",ITV 2
+#EXTINF:-1 group-title="欧美",ITV 2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1 group-title="英文频道",ITV 3
+#EXTINF:-1 group-title="欧美",ITV 3
 http://51.52.156.22:8888/http/006
-#EXTINF:-1 group-title="英文频道",ITV 4
+#EXTINF:-1 group-title="欧美",ITV 4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 group-title="英文频道",4 Music
+#EXTINF:-1 group-title="欧美",4 Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
-#EXTINF:-1 group-title="英文频道",Box Hits
+#EXTINF:-1 group-title="欧美",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 group-title="英文频道",PBS America
+#EXTINF:-1 group-title="欧美",PBS America
 http://51.52.156.22:8888/http/012
-#EXTINF:-1 group-title="英文频道",Kiss
+#EXTINF:-1 group-title="欧美",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-#EXTINF:-1 group-title="英文频道",Kerrang!
+#EXTINF:-1 group-title="欧美",Kerrang!
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF:-1 group-title="英文频道",Magic
+#EXTINF:-1 group-title="欧美",Magic
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1 group-title="英文频道",The Box
+#EXTINF:-1 group-title="欧美",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 group-title="英文频道",RTé Jr
+#EXTINF:-1 group-title="欧美",RTé Jr
 https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
-#EXTINF:-1 group-title="英文频道",RTé News Now
+#EXTINF:-1 group-title="欧美",RTé News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
-#EXTINF:-1 group-title="英文频道",TG4
+#EXTINF:-1 group-title="欧美",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 group-title="英文频道",Discovery
+#EXTINF:-1 group-title="欧美",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-#EXTINF:-1 group-title="英文频道",Discovery Science
+#EXTINF:-1 group-title="欧美",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-#EXTINF:-1 group-title="英文频道",Discovery Turbo
+#EXTINF:-1 group-title="欧美",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 group-title="英文频道",Firstlight
+#EXTINF:-1 group-title="欧美",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
-#EXTINF:-1 group-title="英文频道",Māori TV
+#EXTINF:-1 group-title="欧美",Māori TV
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-#EXTINF:-1 group-title="英文频道",People TV
+#EXTINF:-1 group-title="欧美",People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1 group-title="英文频道",RedBull TV
+#EXTINF:-1 group-title="欧美",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="英文频道",TV5 Monde Asie
+#EXTINF:-1 group-title="欧美",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
-#EXTINF:-1 group-title="英文频道",TV5 Monde Pacifique
+#EXTINF:-1 group-title="欧美",TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 group-title="英文频道",TV5 Monde Style
+#EXTINF:-1 group-title="欧美",TV5 Monde Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 group-title="英文频道",Te Reo
+#EXTINF:-1 group-title="欧美",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
-#EXTINF:-1 group-title="英文频道",Trace Urban
+#EXTINF:-1 group-title="欧美",Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1 group-title="英文频道",Trace Latina
+#EXTINF:-1 group-title="欧美",Trace Latina
 http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-#EXTINF:-1 group-title="英文频道",Z Living
+#EXTINF:-1 group-title="欧美",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
-#EXTINF:-1 group-title="日韩频道",Arirang TV
+#EXTINF:-1 group-title="日韩",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",HallyPOP
+#EXTINF:-1 group-title="日韩",HallyPOP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
-#EXTINF:-1 group-title="日韩频道",NHK World Japan
+#EXTINF:-1 group-title="日韩",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 group-title="日韩频道",NHK 华语視界
+#EXTINF:-1 group-title="日韩",NHK 华语視界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",North Korea TV
+#EXTINF:-1 group-title="日韩",North Korea TV
 https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 group-title="日韩频道",MBC
+#EXTINF:-1 group-title="日韩",MBC
 http://211.54.140.36/hdmi
-#EXTINF:-1 group-title="日韩频道",SBS International
+#EXTINF:-1 group-title="日韩",SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1 group-title="日韩频道",SBS Plus
+#EXTINF:-1 group-title="日韩",SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1 group-title="日韩频道",SBS Star
+#EXTINF:-1 group-title="日韩",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-#EXTINF:-1 group-title="日韩频道",EBS
+#EXTINF:-1 group-title="日韩",EBS
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",EBS2
+#EXTINF:-1 group-title="日韩",EBS2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",EBS???1
+#EXTINF:-1 group-title="日韩",EBS???1
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 group-title="日韩频道",EBS???2
+#EXTINF:-1 group-title="日韩",EBS???2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 group-title="日韩频道",EBS English
+#EXTINF:-1 group-title="日韩",EBS English
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",EBS Kids
+#EXTINF:-1 group-title="日韩",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",JTBC GOLF&SPORTS
+#EXTINF:-1 group-title="日韩",JTBC GOLF&SPORTS
 http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
-#EXTINF:-1 group-title="日韩频道",JTBC Golf
+#EXTINF:-1 group-title="日韩",JTBC Golf
 http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
-#EXTINF:-1 group-title="日韩频道",YTN
+#EXTINF:-1 group-title="日韩",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",ArteTV
+#EXTINF:-1 group-title="日韩",ArteTV
 http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",BBS
+#EXTINF:-1 group-title="日韩",BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 group-title="日韩频道",CTS TV
+#EXTINF:-1 group-title="日韩",CTS TV
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-#EXTINF:-1 group-title="日韩频道",NBS
+#EXTINF:-1 group-title="日韩",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",TV
+#EXTINF:-1 group-title="日韩",TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",TV
+#EXTINF:-1 group-title="日韩",TV
 http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",tv
+#EXTINF:-1 group-title="日韩",tv
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",OBS W
+#EXTINF:-1 group-title="日韩",OBS W
 http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",jj
+#EXTINF:-1 group-title="日韩",jj
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 group-title="日韩频道",KCTV HD
+#EXTINF:-1 group-title="日韩",KCTV HD
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="日韩频道",TBS
+#EXTINF:-1 group-title="日韩",TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
-#EXTINF:-1 group-title="日韩频道",UBC
+#EXTINF:-1 group-title="日韩",UBC
 http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",TJB
+#EXTINF:-1 group-title="日韩",TJB
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="日韩频道",KBC
+#EXTINF:-1 group-title="日韩",KBC
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",TBC
+#EXTINF:-1 group-title="日韩",TBC
 http://221.157.125.239:1935/live/psike/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",CJB
+#EXTINF:-1 group-title="日韩",CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="日韩频道",日テレ NEWS24
+#EXTINF:-1 group-title="日韩",日テレ NEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 group-title="日韩频道",ウェザーニュース
+#EXTINF:-1 group-title="日韩",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="体育频道",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
