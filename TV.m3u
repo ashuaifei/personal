@@ -16,13 +16,18 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3
 #EXTINF:-1 group-title="中国",CCTV-4
 http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5
-http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
-#EXTINF:-1 group-title="中国",CCTV-5
 http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
+#EXTINF:-1 group-title="中国",CCTV-5
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5922040007130019836/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&stbId=004003FF0097495663008422F154756C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5922040007130019836&owchid=bestzb&owsid=4493204831454898328&AuthInfo=JTsQWGUKkYoHA3r5%2bkXSPuQaMGlkWO6F3ymwmvvczdEnJ7d0nBpY4SKNzz%2bDER9RtAmezz%2bxJYyCm2yZLH5njrC0RS2vVaRxLbhsLrwqpWU3PaOTS%2bq7kGToR8VkHaBa
+#EXTINF:-1 group-title="中国",CCTV-5
+http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5+
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5+
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 group-title="中国",CCTV-6
+http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 group-title="中国",CCTV-6http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5919402815101985320/index.m3u8?channel-id=bestzb&Contentid=5919402815101985320&livemode=1&stbId=004003FF0095627489008422F157709C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5919402815101985320&owchid=bestzb&owsid=4493204831454948501&AuthInfo=23lkxlHL7LQLd8R0Px2puYxgueDk8AH4pLB%2b911Vd8fTQLv2EzkFPm5B3N8jYPV%2fm4EEJcMk6wVUf8SCm8eW3k%2f8y%2bOg%2fDib8c6KA998vruZotfjzDf%2bSxqkRvqrFMfA
 #EXTINF:-1 group-title="中国",CCTV-6
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 #EXTINF:-1 group-title="中国",CCTV-6
@@ -69,6 +74,12 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 group-title="中国",百事4K频道
 http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 group-title="中国",东方卫视
+http://39.135.34.150:8080/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=1106497909461236159&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk%2B6a%2BY1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY%2B5
+#EXTINF:-1 group-title="中国",东方卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226161/1.m3u8
+#EXTINF:-1 group-title="港台",凤凰中文
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港台",凤凰中文
 http://live.centerch.com/fhzw.m3u8 
 #EXTINF:-1 group-title="港台",凤凰中文
@@ -105,12 +116,49 @@ http://111.0.93.5:80/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122859
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8 
 #EXTINF:-1 group-title="港台",凤凰资讯HD
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 group-title="港台",星空卫视
+http://144.48.240.144:2019/SunTv.php?name=XingKongTV
+#EXTINF:-1 group-title="港台",星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 group-title="港台",星空卫视http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港台",V音乐
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv 
+#EXTINF:-1 group-title="港台",V音乐
+http://144.48.240.144:2019/SunTv.php?name=ChannelV
+#EXTINF:-1 group-title="港台",V音乐
+https://www.fanmingming.cn/hls/channelv.m3u8 
+#EXTINF:-1 group-title="港台",V音乐
+rtmp://58.200.131.2:1935/livetv/channelv
+#EXTINF:-1 group-title="港台",MTV频道
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="港台",MTV频道http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港台",无线翡翠
+http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
+#EXTINF:-1 group-title="港台",互动新闻
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 group-title="港台",翡翠台
+http://danielwu.gz01.bdysite.com/iptv/?id=tvb
+#EXTINF:-1 group-title="港台",翡翠台http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港台",无线明珠
+http://144.48.240.144:2019/SunTv.php?name=XGMingZhu
+#EXTINF:-1 group-title="港台",明珠台
+http://144.48.240.144:2019/SunTv.php?name=XGMingZhu
+#EXTINF:-1 group-title="港台",明珠台http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港台",有線18台
+rtmp://xiaoyu.speedws.com/sat/hk041
 #EXTINF:-1 group-title="港台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="港台",TVB星河台
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 group-title="港台",阳光卫视
+http://144.48.240.144:2019/SunTv.php?name=SunShineTV
+#EXTINF:-1 group-title="港台",阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8 
+#EXTINF:-1 group-title="港台",澳门卫视
+http://144.48.240.144:2019/SunTv.php?name=MSTV
+#EXTINF:-1 group-title="港台",澳亚卫视
+http://144.48.240.144:2019/SunTv.php?name=MasTV
+#EXTINF:-1 group-title="港台",澳亚卫视http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港台",澳门互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 group-title="港台",澳门有线3台
@@ -132,19 +180,27 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title="港台",日本台
 http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
 #EXTINF:-1 group-title="港台",香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台",香港卫视HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港台",香港卫视HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
-#EXTINF:-1 group-title="港台",香港卫视HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港台",亚美卫视
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="港台",日本新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="港台",民视
+rtmp://xiaoyu.speedws.com/sat/tv051 
+#EXTINF:-1 group-title="港台",中视HD
+rtmp://xiaoyu.speedws.com/sat/tv091
 #EXTINF:-1 group-title="港台",中视HD
 http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="港台",中视HD
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="港台",台视
+rtmp://xiaoyu.speedws.com/sat/tv071
+#EXTINF:-1 group-title="港台",台视
+https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",华视
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 group-title="港台",华视
@@ -155,6 +211,8 @@ http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
 http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="港台",东森新闻
+http://180.178.37.174:8006/lbtv/live/kwzq1rse/94zf0c2v/index.m3u8
 #EXTINF:-1 group-title="港台",东森新闻
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 group-title="港台",东森洋片
@@ -172,6 +230,8 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="港台",FOX动作
 http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="港台",动物星球
+http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 group-title="港台",动物星球
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1 group-title="港台",香港开电視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -187,8 +247,6 @@ http://m.567it.com/Pearl.m3u8
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 group-title="港台",南方卫视
 http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
-#EXTINF:-1 group-title="港台",台視
-https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",中天新聞
 http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8 
 #EXTINF:-1 group-title="港台",中天新聞
@@ -265,14 +323,22 @@ https://live.ntdimg.com/sflive990/playlist.m3u8
 https://live.ntdimg.com/uwlive990/playlist.m3u8
 #EXTINF:-1 group-title="欧美",CBS Reality 
 http://persik.by/stream/6606/411484/10229.m3u8
+#EXTINF:-1 group-title="欧美",NASA
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8 
 #EXTINF:-1 group-title="欧美",NatGeo Wild 
 http://persik.by/stream/6606/411484/10446.m3u8  
+#EXTINF:-1 group-title="欧美",Nat Geo
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo 
+#EXTINF:-1 group-title="欧美",Nat Geo
+rtmp://58.200.131.2:1935/livetv/natlgeo
+#EXTINF:-1 group-title="欧美",Nat Geo
+https://www.fanmingming.cn/hls/natlgeo.m3u8 
 #EXTINF:-1 group-title="欧美",Nat Geo HD
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 group-title="欧美",Nat Geo HD
 rtmp://58.200.131.2/livetv/natlgeo
 #EXTINF:-1 group-title="欧美",Nat Geo HD
-http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8  
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 group-title="欧美",Nat Geo HD 
 http://persik.by/stream/6606/411484/10243.m3u8 
 #EXTINF:-1 group-title="欧美",Nickelodeon 
@@ -333,6 +399,12 @@ https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 group-title="欧美",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 group-title="欧美",Discovery
+rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:-1 group-title="欧美",Discovery
+https://www.fanmingming.cn/hls/discovery.m3u8 
+#EXTINF:-1 group-title="欧美",Discovery
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery 
 #EXTINF:-1 group-title="欧美",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 group-title="欧美",Discovery Science
@@ -433,18 +505,32 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 group-title="日韩",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="体育频道",劲爆体育http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=74&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="体育频道",NBA百视通直播间
+http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
+#EXTINF:-1 group-title="体育频道",广东体育http://www.dszbdq.cn/play/gdtv.php?id=CHTVB27#http://144.48.240.144:2019/SunTv.php?name=GDSport
+#EXTINF:-1 group-title="体育频道",五星体育http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道",五星体育http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
 #EXTINF:-1 group-title="体育频道",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 group-title="体育频道",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="体育频道",Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="体育频道",卫视体育
+https://www.fanmingming.cn/hls/starsports.m3u8 
+#EXTINF:-1 group-title="体育频道",FOX Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="体育频道",FOX Sports
+rtmp://xiaoyu.speedws.com/sat/tv731
 #EXTINF:-1 group-title="体育频道",FOX Sports
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 group-title="体育频道",FOX Sports 2
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 #EXTINF:-1 group-title="体育频道",FOX Sports 3
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
+#EXTINF:-1 group-title="体育频道",FOX Sports 3
+FOX SPORTS 3,rtmp://xiaoyu.speedws.com/sat/hk021
 #EXTINF:-1 group-title="体育频道",True Sport 1
 https://cdn-laos.workpoint.news/hd-tsport1_720/index.m3u8
 #EXTINF:-1 group-title="体育频道",True Sport 2
@@ -487,6 +573,12 @@ https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b39410
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="新闻频道",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="电影台",凤凰电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy 
+#EXTINF:-1 group-title="电影台",凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 group-title="电影台",Fox Movies
+http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="电影台",Fox Movies
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 group-title="电影台",Movies Now
