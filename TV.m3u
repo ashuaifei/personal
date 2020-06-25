@@ -301,17 +301,17 @@ http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
 http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 #EXTINF:-1 group-title="欧美",NBC 38 Columbus GA (WLTZ-DT)
 http://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
-#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)
+#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-1
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)
+#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-2
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 group-title="欧美",NBC Charlotte NC (WCNC-TV)
 http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
-#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)
+#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)-1
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)
+#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)-2
 https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
-#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)
+#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)-3
 https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
 #EXTINF:-1 group-title="欧美",NBC 11 News (Bay Area)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
