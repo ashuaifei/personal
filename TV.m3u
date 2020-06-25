@@ -141,6 +141,8 @@ http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 group-title="港台",无线明珠
 http://144.48.240.144:2019/SunTv.php?name=XGMingZhu
+#EXTINF:-1 group-title="港台",香港电台31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="港台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="港台",TVB星河台
@@ -251,11 +253,39 @@ http://211.21.214.7:8808/live/dali/index.m3u8
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 #EXTINF:-1 group-title="港台",人間衛視
 http://54.64.23.79:1935/live/vod/playlist.m3u8
+#EXTINF:-1 group-title="欧美",FOX NEWS Radio
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="欧美",FOX 10 Phoenix AZ (KSAZ-TV)
 https://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 13 Salt Lake City UT (KSTU)
+http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 19 Newport KY (WXIX-TV)
+http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 31 Denver CO (KDVR)
+http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 4 Kansas City MO (WDAF-TV)
+http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 40 Sacramento CA (KTXL)
+http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 6 Birmingham AL (WBRC)
+http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 8 Cleveland
+https://player-api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 8 Cleveland OH (WJW)
+http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 8 High Point NC (WGHP)
+http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX 8 New Orleans LA (WVUE-DT)
+http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8
+#EXTINF:-1 group-title="欧美",FOX Q13 Seattle WA (KCPQ)
+http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
+#EXTINF:-1 group-title="欧美",ABC International
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
 #EXTINF:-1 group-title="欧美",ABC NEWS
 https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
-#EXTINF:-1 group-title="欧美",CNN
+#EXTINF:-1 group-title="欧美",CNN International
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1 group-title="欧美",CNN Indonicia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="欧美",NBC-1
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
@@ -263,16 +293,34 @@ http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="欧美",NBC-3
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="欧美",NBC-4
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1 group-title="欧美",NBC 13 Des Moines IA (WHO-DT)
+http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
+#EXTINF:-1 group-title="欧美",NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="欧美",NBC 38 Columbus GA (WLTZ-DT)
+http://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
+#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 group-title="欧美",NBC Charlotte NC (WCNC-TV)
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:-1 group-title="欧美",NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 #EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="欧美",CBS新闻-1
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 group-title="欧美",CBS新闻-2
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="欧美",FOX体育
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="欧美",美国之音
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1 group-title="欧美",CBS
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 #EXTINF:-1 group-title="欧美",CBS Reality
 http://persik.by/stream/6606/411484/10229.m3u8
 #EXTINF:-1 group-title="欧美",NASA
@@ -285,18 +333,70 @@ http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 http://persik.by/stream/6606/411484/10243.m3u8
 #EXTINF:-1 group-title="欧美",Nickelodeon
 http://persik.by/stream/6606/411484/45.m3u8
-#EXTINF:-1 group-title="欧美",BBC World News
+#EXTINF:-1 group-title="欧美",CBN News-1
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="欧美",CBN News-2
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:-1 group-title="欧美",CBN News-3
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_150_av-p.m3u8
+#EXTINF:-1 group-title="欧美",CBN News-4
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 group-title="欧美",CBS-1
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 group-title="欧美",CBS-2
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 group-title="欧美",CBS-3
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 group-title="欧美",CBS-4
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 group-title="欧美",CBS 9 Washington DC (WUSA-HD)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1 group-title="欧美",CBS新闻-1
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 group-title="欧美",CBS新闻-2
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="欧美",,CBS新闻-3
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 group-title="欧美",,CBS新闻-4
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 group-title="欧美",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 group-title="欧美",BBC World News-1
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="欧美",BBC World News-2
 http://persik.by/stream/6606/411484/46.m3u8
 #EXTINF:-1 group-title="欧美",Cartoon Network-1
 http://persik.by/stream/6606/411484/805.m3u8
 #EXTINF:-1 group-title="欧美",Cartoon Network-2
 http://persik.by/stream/6606/411484/54.m3u8
+#EXTINF:-1 group-title="欧美",,Bloomberg TV Europe-1
+http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 group-title="欧美",,Bloomberg TV Europe-2
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 group-title="欧美",,Bloomberg TV Europe-3
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg TV Australia-1
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg TV Australia-2
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 #EXTINF:-1 group-title="欧美",Bloomberg-1
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 group-title="欧美",Bloomberg-2
 http://persik.by/stream/6606/411484/90.m3u8
 #EXTINF:-1 group-title="欧美",Bloomberg-3
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-4
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-5
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-6
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-7
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-8
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1 group-title="欧美",Asian Food Network
 https://vcdnjt.useetv.com/joss/15/afc/.m3u8
 #EXTINF:-1 group-title="欧美",BBC News
@@ -313,6 +413,12 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 group-title="欧美",PBS America
 http://51.52.156.22:8888/http/012
+#EXTINF:-1 group-title="欧美",,California Music Channel-1
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 group-title="欧美",,California Music Channel-2
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 group-title="欧美",,California Music Channel-3
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 #EXTINF:-1 group-title="欧美",RTé News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 group-title="欧美",TG4
@@ -409,10 +515,16 @@ http://39.134.52.183/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 group-title="体育频道",NBA百视通直播间
 http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
+#EXTINF:-1 group-title="体育频道",纬来体育
+rtmp://xiaoyu.speedws.com:1935/sat/tv721
 #EXTINF:-1 group-title="体育频道",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 group-title="体育频道",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="体育频道",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="体育频道",FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="体育频道",FOX Sports
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 group-title="体育频道",FOX Sports 2
