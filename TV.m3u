@@ -63,8 +63,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="中国",纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 group-title="中国",百事4K频道
-http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="中国",北京卫视蓝光
 http://111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="中国",天津卫视蓝光
@@ -177,8 +175,6 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="港台",中视HD-2
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 group-title="港台",台视
-https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台",华视-1
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 group-title="港台",华视-2
@@ -189,8 +185,6 @@ http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 group-title="港台",东森新闻-1
 http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 group-title="港台",东森新闻-2
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 group-title="港台",东森洋片-1
 http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 group-title="港台",东森洋片-2
@@ -245,8 +239,6 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 group-title="港台",TVBS新聞-2
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 group-title="港台",原視
-https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="港台",大立電視
 http://211.21.214.7:8808/live/dali/index.m3u8
 #EXTINF:-1 group-title="港台",信吉电視
@@ -307,14 +299,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 group-title="欧美",NBC Charlotte NC (WCNC-TV)
 http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
-#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)-1
-http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)-2
-https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
-#EXTINF:-1 group-title="欧美",NBC San Jose CA (KNTV)-3
-https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
-#EXTINF:-1 group-title="欧美",NBC 11 News (Bay Area)
-http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 #EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="欧美",美国之音
@@ -351,13 +335,9 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 group-title="欧美",CBS 9 Washington DC (WUSA-HD)
 https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
-#EXTINF:-1 group-title="欧美",CBS新闻-1
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 group-title="欧美",CBS新闻-2
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="欧美",,CBS新闻-3
+#EXTINF:-1 group-title="欧美",CBS新闻-3
 http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
-#EXTINF:-1 group-title="欧美",,CBS新闻-4
+#EXTINF:-1 group-title="欧美",CBS新闻-4
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
 #EXTINF:-1 group-title="欧美",BBC News
 http://51.52.156.22:8888/http/004
@@ -371,11 +351,11 @@ http://51.52.156.22:8888/http/003
 http://persik.by/stream/6606/411484/805.m3u8
 #EXTINF:-1 group-title="欧美",Cartoon Network-2
 http://persik.by/stream/6606/411484/54.m3u8
-#EXTINF:-1 group-title="欧美",,Bloomberg TV Europe-1
+#EXTINF:-1 group-title="欧美",Bloomberg TV Europe-1
 http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 group-title="欧美",,Bloomberg TV Europe-2
+#EXTINF:-1 group-title="欧美",Bloomberg TV Europe-2
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 group-title="欧美",,Bloomberg TV Europe-3
+#EXTINF:-1 group-title="欧美",Bloomberg TV Europe-3
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="欧美",Bloomberg TV Australia-1
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
@@ -399,8 +379,6 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 group-title="欧美",Bloomberg-8
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1 group-title="欧美",Asian Food Network
-https://vcdnjt.useetv.com/joss/15/afc/.m3u8
 #EXTINF:-1 group-title="欧美",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 group-title="欧美",ITV 2
@@ -411,22 +389,16 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 group-title="欧美",PBS America
 http://51.52.156.22:8888/http/012
-#EXTINF:-1 group-title="欧美",,California Music Channel-1
+#EXTINF:-1 group-title="欧美",California Music Channel-1
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1 group-title="欧美",,California Music Channel-2
+#EXTINF:-1 group-title="欧美",California Music Channel-2
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:-1 group-title="欧美",,California Music Channel-3
+#EXTINF:-1 group-title="欧美",California Music Channel-3
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 #EXTINF:-1 group-title="欧美",RTé News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 group-title="欧美",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 group-title="欧美",Discovery
-http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-#EXTINF:-1 group-title="欧美",Discovery Science
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-#EXTINF:-1 group-title="欧美",Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 group-title="欧美",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 group-title="欧美",Māori TV
@@ -513,8 +485,6 @@ http://39.134.52.183/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 group-title="体育频道",NBA百视通直播间
 http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
-#EXTINF:-1 group-title="体育频道",纬来体育
-rtmp://xiaoyu.speedws.com:1935/sat/tv721
 #EXTINF:-1 group-title="体育频道",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 group-title="体育频道",DD Sports
