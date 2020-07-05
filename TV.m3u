@@ -94,7 +94,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:-1 group-title="中国",陕西卫视高清
 http://ivi.bupt.edu.cn/hls/sxtv.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-1
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+rtmp://58.200.131.2:1935/livetv/fhzw
 #EXTINF:-1 group-title="港台",凤凰中文-2
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-3
@@ -106,6 +106,8 @@ http://125.210.152.21:9090/live/FHZW.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-6
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-7
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 group-title="港台",凤凰中文-8
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-1
 http://125.210.152.21:9090/live/FHZX.m3u8
@@ -126,29 +128,79 @@ http://111.0.93.5:80/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122859
 #EXTINF:-1 group-title="港台",凤凰资讯HD-9
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-10
+rtmp://58.200.131.2:1935/livetv/fhzx
+#EXTINF:-1 group-title="港台",凤凰资讯HD-11
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 group-title="港台",凤凰资讯HD-12
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="港台",星空卫视
+#EXTINF:-1 group-title="港台",凤凰香港
+https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo.m3u8
+#EXTINF:-1 group-title="港台",星空卫视-1
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 group-title="港台",星空卫视-2
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 group-title="港台",星空卫视-3
 http://144.48.240.144:2019/SunTv.php?name=XingKongTV
-#EXTINF:-1 group-title="港台",V音乐
+#EXTINF:-1 group-title="港台",星空卫视-4
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 group-title="港台",星空卫视-5
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港台",星空卫视-7
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 group-title="港台",V音乐-1
+rtmp://58.200.131.2:1935/livetv/channelv
+#EXTINF:-1 group-title="港台",V音乐-2
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 group-title="港台",V音乐-3
 http://144.48.240.144:2019/SunTv.php?name=ChannelV
-#EXTINF:-1 group-title="港台",MTV频道
+#EXTINF:-1 group-title="港台",MTV频道-1
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="港台",无线翡翠
-http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
+#EXTINF:-1 group-title="港台",MTV频道-2
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港台",互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 group-title="港台",无线明珠
-http://144.48.240.144:2019/SunTv.php?name=XGMingZhu
 #EXTINF:-1 group-title="港台",香港电台31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="港台",香港开电视
+#EXTINF:-1 group-title="港台",香港电台32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1 group-title="港台",香港开电視-1
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="港台",TVB星河台
+#EXTINF:-1 group-title="港台",香港开电視-2
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="港台",亞洲電視台
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
+#EXTINF:-1 group-title="港台",南方卫视
+http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
+#EXTINF:-1 group-title="港台",TVB星河台-1
+http://103.140.229.13/zbtv/zxxg.php?id=17&xl=1
+#EXTINF:-1 group-title="港台",TVB星河台-2
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-#EXTINF:-1 group-title="港台",阳光卫视-1
-http://144.48.240.144:2019/SunTv.php?name=SunShineTV
-#EXTINF:-1 group-title="港台",阳光卫视-2
-http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+#EXTINF:-1 group-title="港台",环球电视
+http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 group-title="港台",TVB 无线翡翠-1
+http://103.140.229.13/zbtv/zxxg.php?id=1&xl=2
+#EXTINF:-1 group-title="港台",TVB 无线翡翠-2
+http://103.140.229.13/zbtv/zxxg.php?id=1&xl=1
+#EXTINF:-1 group-title="港台",TVB 无线翡翠-4
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 group-title="港台",无线翡翠-5
+http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
+#EXTINF:-1 group-title="港台",TVB 无线明珠-1
+http://103.140.229.13/zbtv/zxxg.php?id=13&xl=1
+#EXTINF:-1 group-title="港台",TVB 无线明珠-2
+http://103.140.229.13/zbtv/zxxg.php?id=13&xl=2
+#EXTINF:-1 group-title="港台",无线明珠-4
+http://m.567it.com/Pearl.m3u8
+#EXTINF:-1 group-title="港台",无线明珠-5
+http://144.48.240.144:2019/SunTv.php?name=XGMingZhu
+#EXTINF:-1 group-title="港台",TVB J2-1
+http://103.140.229.13/zbtv/zxxg.php?id=12&xl=1
+#EXTINF:-1 group-title="港台",TVB J2-2
+http://103.140.229.13/zbtv/zxxg.php?id=12&xl=2
+#EXTINF:-1 group-title="港台",无线财经-1
+http://103.140.229.13/zbtv/zxxg.php?id=10&xl=1
+#EXTINF:-1 group-title="港台",无线财经-2
+http://103.140.229.13/zbtv/zxxg.php?id=10&xl=2
 #EXTINF:-1 group-title="港台",澳门卫视
 http://144.48.240.144:2019/SunTv.php?name=MSTV
 #EXTINF:-1 group-title="港台",澳亚卫视
@@ -172,51 +224,41 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港台",亚美卫视
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="港台",中视HD-1
-http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+http://hdtv.ub1818.com/ublive/index_40.m3u8
 #EXTINF:-1 group-title="港台",中视HD-2
+http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="港台",中视HD-3
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="港台",华视-1
-http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+http://hdtv.ub1818.com/ublive/index_15.m3u8
 #EXTINF:-1 group-title="港台",华视-2
+http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 group-title="港台",华视-3
 http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 group-title="港台",民视
+http://hdtv.ub1818.com/ublive/index_4.m3u8
+#EXTINF:-1 group-title="港台",民视台湾
+http://hdtv.ub1818.com/ublive/index_3.m3u8
+#EXTINF:-1 group-title="港台",民视第一
+http://hdtv.ub1818.com/ublive/index_2.m3u8
+#EXTINF:-1 group-title="港台",TVBS
+http://hdtv.ub1818.com/ublive/index_5.m3u8
+#EXTINF:-1 group-title="港台",台视财经
+http://hdtv.ub1818.com/ublive/index_38.m3u8
 #EXTINF:-1 group-title="港台",年代新闻-1
 http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 group-title="港台",年代新闻-2
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 group-title="港台",东森新闻-1
-http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 group-title="港台",东森洋片-1
-http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1 group-title="港台",东森洋片-2
-http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1 group-title="港台",东森电影
-http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 group-title="港台",好莱坞电影-1
-http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 group-title="港台",好莱坞电影-2
-http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 group-title="港台",FOX动作-1
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 group-title="港台",FOX动作-2
-http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="港台",动物星球-1
 http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1 group-title="港台",动物星球-2
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 group-title="港台",香港开电視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="港台",亞洲電視台
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
-#EXTINF:-1 group-title="港台",翡翠台
-http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-title="港台",明珠台
-http://m.567it.com/Pearl.m3u8
-#EXTINF:-1 group-title="港台",南方卫视
-http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
+#EXTINF:-1 group-title="港台",Outdoor
+http://hdtv.ub1818.com/ublive/index_37.m3u8
+#EXTINF:-1 group-title="港台",Nick卡通
+http://hdtv.ub1818.com/ublive/index_17.m3u8
 #EXTINF:-1 group-title="港台",中天新聞-1
 http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="港台",中天新聞-2
-http://ddbb.228888888.xyz:8081/live/tw101.m3u8
 #EXTINF:-1 group-title="港台",中天新聞-3
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 group-title="港台",中天綜合-1
@@ -239,12 +281,64 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 group-title="港台",TVBS新聞-2
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 group-title="港台",非凡新闻
+http://hdtv.ub1818.com/ublive/index_8.m3u8
+#EXTINF:-1 group-title="港台",中視新聞
+http://hdtv.ub1818.com/ublive/index_9.m3u8
+#EXTINF:-1 group-title="港台",華視新聞
+http://hdtv.ub1818.com/ublive/index_10.m3u8
+#EXTINF:-1 group-title="港台",Elta娱乐
+http://hdtv.ub1818.com/ublive/index_13.m3u8
+#EXTINF:-1 group-title="港台",FTV综艺
+http://hdtv.ub1818.com/ublive/index_11.m3u8
+#EXTINF:-1 group-title="港台",综艺
+http://hdtv.ub1818.com/ublive/index_12.m3u8
+#EXTINF:-1 group-title="港台",猪哥亮综艺
+http://hdtv.ub1818.com/ublive/index_14.m3u8
+#EXTINF:-1 group-title="港台",八大精彩台
+http://hdtv.ub1818.com/ublive/index_1.m3u8
+#EXTINF:-1 group-title="港台",靖天综合
+http://hdtv.ub1818.com/ublive/index_19.m3u8
+#EXTINF:-1 group-title="港台",靖天咨询
+http://hdtv.ub1818.com/ublive/index_31.m3u8
+#EXTINF:-1 group-title="港台",靖天欢乐
+http://hdtv.ub1818.com/ublive/index_32.m3u8
+#EXTINF:-1 group-title="港台",靖天戏剧
+http://hdtv.ub1818.com/ublive/index_33.m3u8
+#EXTINF:-1 group-title="港台",靖洋卡通
+http://hdtv.ub1818.com/ublive/index_18.m3u8
+#EXTINF:-1 group-title="港台",靖天日本
+http://hdtv.ub1818.com/ublive/index_20.m3u8
+#EXTINF:-1 group-title="港台",靖天卡通
+http://hdtv.ub1818.com/ublive/index_21.m3u8
+#EXTINF:-1 group-title="港台",靖天戏剧
+http://hdtv.ub1818.com/ublive/index_22.m3u8
+#EXTINF:-1 group-title="港台",靖天电影
+http://hdtv.ub1818.com/ublive/index_23.m3u8
+#EXTINF:-1 group-title="港台",靖天育乐
+http://hdtv.ub1818.com/ublive/index_24.m3u8
+#EXTINF:-1 group-title="港台",靖天国际
+http://hdtv.ub1818.com/ublive/index_25.m3u8
+#EXTINF:-1 group-title="港台",靖天映画
+http://hdtv.ub1818.com/ublive/index_26.m3u8
+#EXTINF:-1 group-title="港台",影迷电影
+http://hdtv.ub1818.com/ublive/index_28.m3u8
+#EXTINF:-1 group-title="港台",采昌电影
+http://hdtv.ub1818.com/ublive/index_27.m3u8
+#EXTINF:-1 group-title="港台",采昌
+http://hdtv.ub1818.com/ublive/index_29.m3u8
+#EXTINF:-1 group-title="港台",amc电影
+http://hdtv.ub1818.com/ublive/index_30.m3u8
+#EXTINF:-1 group-title="港台",韩国娱乐
+http://hdtv.ub1818.com/ublive/index_35.m3u8
 #EXTINF:-1 group-title="港台",大立電視
 http://211.21.214.7:8808/live/dali/index.m3u8
 #EXTINF:-1 group-title="港台",信吉电視
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 #EXTINF:-1 group-title="港台",人間衛視
 http://54.64.23.79:1935/live/vod/playlist.m3u8
+#EXTINF:-1 group-title="欧美",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 group-title="欧美",FOX NEWS Radio
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="欧美",FOX 10 Phoenix AZ (KSAZ-TV)
@@ -301,8 +395,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 #EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="欧美",美国之音
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 group-title="欧美",CBS
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 #EXTINF:-1 group-title="欧美",CBS Reality
@@ -314,7 +406,15 @@ http://persik.by/stream/6606/411484/10446.m3u8
 #EXTINF:-1 group-title="欧美",Nat Geo HD-1
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 group-title="欧美",Nat Geo HD-2
+rtmp://58.200.131.2:1935/livetv/natlgeo
+#EXTINF:-1 group-title="欧美",Nat Geo HD-3
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 group-title="欧美",Nat Geo HD-4
 http://persik.by/stream/6606/411484/10243.m3u8
+#EXTINF:-1 group-title="欧美",探索频道-1
+rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:-1 group-title="欧美",探索频道-2
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 #EXTINF:-1 group-title="欧美",Nickelodeon
 http://persik.by/stream/6606/411484/45.m3u8
 #EXTINF:-1 group-title="欧美",CBN News-1
@@ -381,8 +481,6 @@ https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1 group-title="欧美",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 group-title="欧美",ITV 2
-http://51.52.156.22:8888/http/005
 #EXTINF:-1 group-title="欧美",ITV 3
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 group-title="欧美",ITV 4
@@ -439,10 +537,6 @@ http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="日韩",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="日韩",JTBC GOLF&SPORTS
-http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
-#EXTINF:-1 group-title="日韩",JTBC Golf
-http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
 #EXTINF:-1 group-title="日韩",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 group-title="日韩",ArteTV
@@ -479,21 +573,19 @@ http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/500000001000
 http://61.244.22.4/ch4/sport_ch4.live/index.m3u8
 #EXTINF:-1 group-title="体育频道",Newtv超级体育
 http://111.40.205.87/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="体育频道",Newtv超级体育-1
-http://39.134.52.183/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
-#EXTINF:-1 group-title="体育频道",Newtv超级体育-2
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-#EXTINF:-1 group-title="体育频道",NBA百视通直播间
-http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
+#EXTINF:-1 group-title="体育频道",Trace Sport
+http://hdtv.ub1818.com/ublive/index_39.m3u8
 #EXTINF:-1 group-title="体育频道",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 group-title="体育频道",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="体育频道",Fox Sports News
+#EXTINF:-1 group-title="体育频道",Star Sports
+rtmp://58.200.131.2:1935/livetv/starsports
+#EXTINF:-1 group-title="体育频道",Fox Sports News-1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="体育频道",FOX Sport HD 1
+#EXTINF:-1 group-title="体育频道",Fox Sports News-2
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="体育频道",FOX Sports
+#EXTINF:-1 group-title="体育频道",FOX Sports 1
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 group-title="体育频道",FOX Sports 2
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
@@ -520,7 +612,25 @@ https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b39410
 #EXTINF:-1 group-title="新闻频道",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="电影台",Fox Movies
-https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="电影台",FOX动作-1
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="电影台",东森洋片-1
+http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 group-title="电影台",东森洋片-2
+http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 group-title="电影台",东森电影-1
+http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 group-title="电影台",东森电影-2
+http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 group-title="电影台",好莱坞电影-1
+http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 group-title="电影台",好莱坞电影-2
+http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 group-title="电影台",凤凰电影-1
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 group-title="电影台",凤凰电影-2
+rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 group-title="电影台",Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 group-title="电影台",Warner TV
