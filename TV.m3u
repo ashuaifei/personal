@@ -19,8 +19,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5-2
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5922040007130019836/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&stbId=004003FF0097495663008422F154756C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5922040007130019836&owchid=bestzb&owsid=4493204831454898328&AuthInfo=JTsQWGUKkYoHA3r5%2bkXSPuQaMGlkWO6F3ymwmvvczdEnJ7d0nBpY4SKNzz%2bDER9RtAmezz%2bxJYyCm2yZLH5njrC0RS2vVaRxLbhsLrwqpWU3PaOTS%2bq7kGToR8VkHaBa
-#EXTINF:-1 group-title="中国",CCTV-5-3
-http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5+-1
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5+-2
@@ -53,60 +51,36 @@ http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-4K蓝码-1
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-4K蓝码-2
-http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="中国",CCTV-4K蓝码-3
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="中国",CCTV-4K高码
-http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 group-title="中国",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="中国",纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 group-title="中国",北京卫视蓝光
 http://111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="中国",天津卫视蓝光
-http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
 #EXTINF:-1 group-title="中国",东方卫视蓝光
 http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
-#EXTINF:-1 group-title="中国",湖南卫视蓝光
-http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
 #EXTINF:-1 group-title="中国",浙江卫视蓝光
 http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
-#EXTINF:-1 group-title="中国",江苏卫视蓝光
-http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
 #EXTINF:-1 group-title="中国",山东卫视蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
-#EXTINF:-1 group-title="中国",山东卫视蓝光
-http://112.17.40.140/PLTV/88888888/224/3221226410/index.m3u8
 #EXTINF:-1 group-title="中国",湖北卫视蓝光
 http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
 #EXTINF:-1 group-title="中国",广东卫视蓝光
 http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
-#EXTINF:-1 group-title="中国",龙江卫视蓝光
-http://112.17.40.140/PLTV/88888888/224/3221226555/index.m3u8
-#EXTINF:-1 group-title="中国",江西卫视蓝光
-http://112.17.40.140/PLTV/88888888/224/3221226557/index.m3u8
 #EXTINF:-1 group-title="中国",重庆卫视蓝光
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 group-title="中国",海南卫视高清
 http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:-1 group-title="中国",陕西卫视高清
 http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文-1
-rtmp://58.200.131.2:1935/livetv/fhzw
 #EXTINF:-1 group-title="港台",凤凰中文-2
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-3
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文-4
-http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-5
 http://125.210.152.21:9090/live/FHZW.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-6
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文-7
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 #EXTINF:-1 group-title="港台",凤凰中文-8
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-1
@@ -115,8 +89,6 @@ http://125.210.152.21:9090/live/FHZX.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-4
-http://125.210.152.18:9090/live/FHZX_1200.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-5
 http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-6
@@ -125,32 +97,16 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-8
 http://111.0.93.5:80/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-9
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-10
-rtmp://58.200.131.2:1935/livetv/fhzx
-#EXTINF:-1 group-title="港台",凤凰资讯HD-11
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 #EXTINF:-1 group-title="港台",凤凰资讯HD-12
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="港台",凤凰香港
+#EXTINF:-1 group-title="港台",凤凰香港-1
 https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo.m3u8
-#EXTINF:-1 group-title="港台",星空卫视-1
-rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 group-title="港台",星空卫视-2
-rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:-1 group-title="港台",星空卫视-3
 http://144.48.240.144:2019/SunTv.php?name=XingKongTV
-#EXTINF:-1 group-title="港台",星空卫视-4
-rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:-1 group-title="港台",星空卫视-5
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港台",星空卫视-7
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 group-title="港台",V音乐-1
-rtmp://58.200.131.2:1935/livetv/channelv
-#EXTINF:-1 group-title="港台",V音乐-2
-rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 group-title="港台",V音乐-3
 http://144.48.240.144:2019/SunTv.php?name=ChannelV
 #EXTINF:-1 group-title="港台",MTV频道-1
@@ -167,6 +123,12 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="港台",香港开电視-2
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="港台",NOW新闻台-1
+http://103.140.229.13/xg/wintvh.php?id=16
+#EXTINF:-1 group-title="港台",NOW新闻台-2
+http://103.140.229.13/xg/wintvh.php?id=5
+#EXTINF:-1 group-title="港台",NOW新闻台-4
+http://111.229.73.84/dl/xg235.php?id=31&xl=2
 #EXTINF:-1 group-title="港台",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
 #EXTINF:-1 group-title="港台",南方卫视
@@ -183,7 +145,7 @@ http://103.140.229.13/zbtv/zxxg.php?id=1&xl=2
 http://103.140.229.13/zbtv/zxxg.php?id=1&xl=1
 #EXTINF:-1 group-title="港台",TVB 无线翡翠-4
 http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-title="港台",无线翡翠-5
+#EXTINF:-1 group-title="港台",TVB 无线翡翠-5
 http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
 #EXTINF:-1 group-title="港台",TVB 无线明珠-1
 http://103.140.229.13/zbtv/zxxg.php?id=13&xl=1
@@ -197,6 +159,8 @@ http://144.48.240.144:2019/SunTv.php?name=XGMingZhu
 http://103.140.229.13/zbtv/zxxg.php?id=12&xl=1
 #EXTINF:-1 group-title="港台",TVB J2-2
 http://103.140.229.13/zbtv/zxxg.php?id=12&xl=2
+#EXTINF:-1 group-title="港台",TVB J2-3
+http://111.229.73.84/dl/xg235.php?id=12&xl=2
 #EXTINF:-1 group-title="港台",无线财经-1
 http://103.140.229.13/zbtv/zxxg.php?id=10&xl=1
 #EXTINF:-1 group-title="港台",无线财经-2
@@ -223,28 +187,14 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港台",亚美卫视
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 group-title="港台",中视HD-1
-http://hdtv.ub1818.com/ublive/index_40.m3u8
 #EXTINF:-1 group-title="港台",中视HD-2
 http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="港台",中视HD-3
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 group-title="港台",华视-1
-http://hdtv.ub1818.com/ublive/index_15.m3u8
 #EXTINF:-1 group-title="港台",华视-2
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 group-title="港台",华视-3
 http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 group-title="港台",民视
-http://hdtv.ub1818.com/ublive/index_4.m3u8
-#EXTINF:-1 group-title="港台",民视台湾
-http://hdtv.ub1818.com/ublive/index_3.m3u8
-#EXTINF:-1 group-title="港台",民视第一
-http://hdtv.ub1818.com/ublive/index_2.m3u8
-#EXTINF:-1 group-title="港台",TVBS
-http://hdtv.ub1818.com/ublive/index_5.m3u8
-#EXTINF:-1 group-title="港台",台视财经
-http://hdtv.ub1818.com/ublive/index_38.m3u8
 #EXTINF:-1 group-title="港台",年代新闻-1
 http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 group-title="港台",年代新闻-2
@@ -253,10 +203,6 @@ http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1 group-title="港台",动物星球-2
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 group-title="港台",Outdoor
-http://hdtv.ub1818.com/ublive/index_37.m3u8
-#EXTINF:-1 group-title="港台",Nick卡通
-http://hdtv.ub1818.com/ublive/index_17.m3u8
 #EXTINF:-1 group-title="港台",中天新聞-1
 http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 group-title="港台",中天新聞-3
@@ -281,62 +227,10 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 group-title="港台",TVBS新聞-2
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 group-title="港台",非凡新闻
-http://hdtv.ub1818.com/ublive/index_8.m3u8
-#EXTINF:-1 group-title="港台",中視新聞
-http://hdtv.ub1818.com/ublive/index_9.m3u8
-#EXTINF:-1 group-title="港台",華視新聞
-http://hdtv.ub1818.com/ublive/index_10.m3u8
-#EXTINF:-1 group-title="港台",Elta娱乐
-http://hdtv.ub1818.com/ublive/index_13.m3u8
-#EXTINF:-1 group-title="港台",FTV综艺
-http://hdtv.ub1818.com/ublive/index_11.m3u8
-#EXTINF:-1 group-title="港台",综艺
-http://hdtv.ub1818.com/ublive/index_12.m3u8
-#EXTINF:-1 group-title="港台",猪哥亮综艺
-http://hdtv.ub1818.com/ublive/index_14.m3u8
-#EXTINF:-1 group-title="港台",八大精彩台
-http://hdtv.ub1818.com/ublive/index_1.m3u8
-#EXTINF:-1 group-title="港台",靖天综合
-http://hdtv.ub1818.com/ublive/index_19.m3u8
-#EXTINF:-1 group-title="港台",靖天咨询
-http://hdtv.ub1818.com/ublive/index_31.m3u8
-#EXTINF:-1 group-title="港台",靖天欢乐
-http://hdtv.ub1818.com/ublive/index_32.m3u8
-#EXTINF:-1 group-title="港台",靖天戏剧
-http://hdtv.ub1818.com/ublive/index_33.m3u8
-#EXTINF:-1 group-title="港台",靖洋卡通
-http://hdtv.ub1818.com/ublive/index_18.m3u8
-#EXTINF:-1 group-title="港台",靖天日本
-http://hdtv.ub1818.com/ublive/index_20.m3u8
-#EXTINF:-1 group-title="港台",靖天卡通
-http://hdtv.ub1818.com/ublive/index_21.m3u8
-#EXTINF:-1 group-title="港台",靖天戏剧
-http://hdtv.ub1818.com/ublive/index_22.m3u8
-#EXTINF:-1 group-title="港台",靖天电影
-http://hdtv.ub1818.com/ublive/index_23.m3u8
-#EXTINF:-1 group-title="港台",靖天育乐
-http://hdtv.ub1818.com/ublive/index_24.m3u8
-#EXTINF:-1 group-title="港台",靖天国际
-http://hdtv.ub1818.com/ublive/index_25.m3u8
-#EXTINF:-1 group-title="港台",靖天映画
-http://hdtv.ub1818.com/ublive/index_26.m3u8
-#EXTINF:-1 group-title="港台",影迷电影
-http://hdtv.ub1818.com/ublive/index_28.m3u8
-#EXTINF:-1 group-title="港台",采昌电影
-http://hdtv.ub1818.com/ublive/index_27.m3u8
-#EXTINF:-1 group-title="港台",采昌
-http://hdtv.ub1818.com/ublive/index_29.m3u8
-#EXTINF:-1 group-title="港台",amc电影
-http://hdtv.ub1818.com/ublive/index_30.m3u8
-#EXTINF:-1 group-title="港台",韩国娱乐
-http://hdtv.ub1818.com/ublive/index_35.m3u8
 #EXTINF:-1 group-title="港台",大立電視
 http://211.21.214.7:8808/live/dali/index.m3u8
 #EXTINF:-1 group-title="港台",信吉电視
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 group-title="港台",人間衛視
-http://54.64.23.79:1935/live/vod/playlist.m3u8
 #EXTINF:-1 group-title="欧美",法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 group-title="欧美",FOX NEWS Radio
