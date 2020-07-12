@@ -231,6 +231,110 @@ http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 http://211.21.214.7:8808/live/dali/index.m3u8
 #EXTINF:-1 group-title="港台",信吉电視
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 group-title="欧美",A&E HD
+http://iptv.nonoip.com:7000/karam/karam123/17587
+#EXTINF:-1 group-title="欧美",Action Max HD
+http://iptv.nonoip.com:7000/karam/karam123/17591
+#EXTINF:-1 group-title="欧美",AFN Prime Atlantic HD-1
+http://iptv.nonoip.com:7000/karam/karam123/17592
+#EXTINF:-1 group-title="欧美",AFN Prime Pacific HD-2
+http://iptv.nonoip.com:7000/karam/karam123/17593
+#EXTINF:-1 group-title="欧美",AFN Sports HD
+http://iptv.nonoip.com:7000/karam/karam123/17594
+#EXTINF:-1 group-title="欧美",AMC HD
+http://iptv.nonoip.com:7000/karam/karam123/17595
+#EXTINF:-1 group-title="欧美",BBC America HD
+http://iptv.nonoip.com:7000/karam/karam123/17597
+#EXTINF:-1 group-title="欧美",BET HD
+http://iptv.nonoip.com:7000/karam/karam123/17599
+#EXTINF:-1 group-title="欧美",Big Ten Network HD
+http://iptv.nonoip.com:7000/karam/karam123/17600
+#EXTINF:-1 group-title="欧美",Bravo HD
+http://iptv.nonoip.com:7000/karam/karam123/17604
+#EXTINF:-1 group-title="欧美",BTN HD
+http://iptv.nonoip.com:7000/karam/karam123/17605
+#EXTINF:-1 group-title="欧美",C-SPAN 1 HD
+http://iptv.nonoip.com:7000/karam/karam123/17606
+#EXTINF:-1 group-title="欧美",Cinemax 5
+http://iptv.nonoip.com:7000/karam/karam123/17613
+#EXTINF:-1 group-title="欧美",Cinemax Moremax HD
+http://iptv.nonoip.com:7000/karam/karam123/17615
+#EXTINF:-1 group-title="欧美",CMT HD
+http://iptv.nonoip.com:7000/karam/karam123/17617
+#EXTINF:-1 group-title="欧美",CNN HD-1
+http://iptv.nonoip.com:7000/karam/karam123/17619
+#EXTINF:-1 group-title="欧美",CNN HD-2
+http://iptv.nonoip.com:7000/karam/karam123/17620
+#EXTINF:-1 group-title="欧美",Comedy Central HD
+http://iptv.nonoip.com:7000/karam/karam123/17621
+#EXTINF:-1 group-title="欧美",Cooking Channel HD
+http://iptv.nonoip.com:7000/karam/karam123/17622
+#EXTINF:-1 group-title="欧美",Crime & Investigation HD
+http://iptv.nonoip.com:7000/karam/karam123/17623
+#EXTINF:-1 group-title="欧美",CW HD
+http://iptv.nonoip.com:7000/karam/karam123/17624
+#EXTINF:-1 group-title="欧美",Freeform HD
+http://iptv.nonoip.com:7000/karam/karam123/17640
+#EXTINF:-1 group-title="欧美",FX HD
+http://iptv.nonoip.com:7000/karam/karam123/17641
+#EXTINF:-1 group-title="欧美",Golf Channel HD
+http://iptv.nonoip.com:7000/karam/karam123/17643
+#EXTINF:-1 group-title="欧美",GSN HD
+http://iptv.nonoip.com:7000/karam/karam123/17644
+#EXTINF:-1 group-title="欧美",Home AND Health
+http://iptv.nonoip.com:7000/karam/karam123/17645
+#EXTINF:-1 group-title="欧美",HALLMARK CHANNEL HD
+http://iptv.nonoip.com:7000/karam/karam123/17647
+#EXTINF:-1 group-title="欧美",HGTV HD
+http://iptv.nonoip.com:7000/karam/karam123/17653
+#EXTINF:-1 group-title="欧美",History HD
+http://iptv.nonoip.com:7000/karam/karam123/17654
+#EXTINF:-1 group-title="欧美",IFC HD
+http://iptv.nonoip.com:7000/karam/karam123/17655
+#EXTINF:-1 group-title="欧美",Investigation Discovery HD
+http://iptv.nonoip.com:7000/karam/karam123/17656
+#EXTINF:-1 group-title="欧美",LIFE TIME HD
+http://iptv.nonoip.com:7000/karam/karam123/17657
+#EXTINF:-1 group-title="欧美",More Max HD
+http://iptv.nonoip.com:7000/karam/karam123/17659
+#EXTINF:-1 group-title="欧美",MTV HD
+http://iptv.nonoip.com:7000/karam/karam123/17661
+#EXTINF:-1 group-title="欧美",Nick JR HD
+http://iptv.nonoip.com:7000/karam/karam123/17669
+#EXTINF:-1 group-title="欧美",Nicktoons HD
+http://iptv.nonoip.com:7000/karam/karam123/17671
+#EXTINF:-1 group-title="欧美",OWN HD
+http://iptv.nonoip.com:7000/karam/karam123/17672
+#EXTINF:-1 group-title="欧美",PBS HD
+http://iptv.nonoip.com:7000/karam/karam123/17674
+#EXTINF:-1 group-title="欧美",Reelz HD
+http://iptv.nonoip.com:7000/karam/karam123/17675
+#EXTINF:-1 group-title="欧美",SEC Network HD
+http://iptv.nonoip.com:7000/karam/karam123/17676
+#EXTINF:-1 group-title="欧美",ShowTime East HD
+http://iptv.nonoip.com:7000/karam/karam123/17678
+#EXTINF:-1 group-title="欧美",Spike HD
+http://iptv.nonoip.com:7000/karam/karam123/17679
+#EXTINF:-1 group-title="欧美",SYFY HD
+http://iptv.nonoip.com:7000/karam/karam123/17682
+#EXTINF:-1 group-title="欧美",TBS HD
+http://iptv.nonoip.com:7000/karam/karam123/17683
+#EXTINF:-1 group-title="欧美",TLC CHANNEL
+http://iptv.nonoip.com:7000/karam/karam123/17686
+#EXTINF:-1 group-title="欧美",TSN 1 HD
+http://iptv.nonoip.com:7000/karam/karam123/17690
+#EXTINF:-1 group-title="欧美",TSN 2 HD
+http://iptv.nonoip.com:7000/karam/karam123/17691
+#EXTINF:-1 group-title="欧美",TSN 4 HD
+http://iptv.nonoip.com:7000/karam/karam123/17693
+#EXTINF:-1 group-title="欧美",TSN 5 HD
+http://iptv.nonoip.com:7000/karam/karam123/17694
+#EXTINF:-1 group-title="欧美",VH1 HD
+http://iptv.nonoip.com:7000/karam/karam123/17702
+#EXTINF:-1 group-title="欧美",WGN 9 HD
+http://iptv.nonoip.com:7000/karam/karam123/17703
+#EXTINF:-1 group-title="欧美",Willow Cricket HD
+http://iptv.nonoip.com:7000/karam/karam123/17704
 #EXTINF:-1 group-title="欧美",法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 group-title="欧美",FOX NEWS Radio
@@ -261,12 +365,20 @@ http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8
 http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
 #EXTINF:-1 group-title="欧美",ABC International
 https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
-#EXTINF:-1 group-title="欧美",ABC NEWS
+#EXTINF:-1 group-title="欧美",ABC HD-1
+http://iptv.nonoip.com:7000/karam/karam123/17588
+#EXTINF:-1 group-title="欧美",ABC HD-2
+http://iptv.nonoip.com:7000/karam/karam123/17589
+#EXTINF:-1 group-title="欧美",ABC NEWS-1
+http://iptv.nonoip.com:7000/karam/karam123/17590
+#EXTINF:-1 group-title="欧美",ABC NEWS-2
 https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 #EXTINF:-1 group-title="欧美",CNN International
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 group-title="欧美",CNN Indonicia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="欧美",NBC HD
+http://iptv.nonoip.com:7000/karam/karam123/17666
 #EXTINF:-1 group-title="欧美",NBC-1
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="欧美",NBC-2
@@ -289,14 +401,18 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 #EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="欧美",CBS
+#EXTINF:-1 group-title="欧美",CBS-1
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:-1 group-title="欧美",CBS-2
+http://iptv.nonoip.com:7000/karam/karam123/17611
 #EXTINF:-1 group-title="欧美",CBS Reality
 http://persik.by/stream/6606/411484/10229.m3u8
 #EXTINF:-1 group-title="欧美",NASA
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:-1 group-title="欧美",NatGeo Wild
 http://persik.by/stream/6606/411484/10446.m3u8
+#EXTINF:-1 group-title="欧美",Nat Geo Wild HD
+http://iptv.nonoip.com:7000/karam/karam123/17663
 #EXTINF:-1 group-title="欧美",Nat Geo HD-1
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 group-title="欧美",Nat Geo HD-2
@@ -305,9 +421,17 @@ rtmp://58.200.131.2:1935/livetv/natlgeo
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 group-title="欧美",Nat Geo HD-4
 http://persik.by/stream/6606/411484/10243.m3u8
-#EXTINF:-1 group-title="欧美",探索频道-1
+#EXTINF:-1 group-title="欧美",NAT GEO HD-5
+http://iptv.nonoip.com:7000/karam/karam123/17662
+#EXTINF:-1 group-title="欧美",Discovery Channel HD-1
+http://iptv.nonoip.com:7000/karam/karam123/17626
+#EXTINF:-1 group-title="欧美",Discovery Channel HD-2
+http://iptv.nonoip.com:7000/karam/karam123/17628
+#EXTINF:-1 group-title="欧美",Discovery Family HD
+http://iptv.nonoip.com:7000/karam/karam123/17627
+#EXTINF:-1 group-title="欧美",Discovery Channel-1
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 group-title="欧美",探索频道-2
+#EXTINF:-1 group-title="欧美",Discovery Channel-2
 rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 #EXTINF:-1 group-title="欧美",Nickelodeon
 http://persik.by/stream/6606/411484/45.m3u8
@@ -373,6 +497,10 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 group-title="欧美",Bloomberg-8
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-9
+http://iptv.nonoip.com:7000/karam/karam123/17601
+#EXTINF:-1 group-title="欧美",Bloomberg-10
+http://iptv.nonoip.com:7000/karam/karam123/17602
 #EXTINF:-1 group-title="欧美",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 group-title="欧美",ITV 3
@@ -463,6 +591,26 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="体育频道",五星体育
 http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
+#EXTINF:-1 group-title="体育频道",MLB Network HD
+http://iptv.nonoip.com:7000/karam/karam123/17658
+#EXTINF:-1 group-title="体育频道",MSNBC HD
+http://iptv.nonoip.com:7000/karam/karam123/17660
+#EXTINF:-1 group-title="体育频道",NBCSN HD
+http://iptv.nonoip.com:7000/karam/karam123/17667
+#EXTINF:-1 group-title="体育频道",NBC Golf HD
+http://iptv.nonoip.com:7000/karam/karam123/17665
+#EXTINF:-1 group-title="体育频道",NBA TV HD
+http://iptv.nonoip.com:7000/karam/karam123/17664
+#EXTINF:-1 group-title="体育频道",CBS Sports Network
+http://iptv.nonoip.com:7000/karam/karam123/17612
+#EXTINF:-1 group-title="体育频道",ESPN HD
+http://iptv.nonoip.com:7000/karam/karam123/17635
+#EXTINF:-1 group-title="体育频道",ESPN 2 HD
+http://iptv.nonoip.com:7000/karam/karam123/17636
+#EXTINF:-1 group-title="体育频道",Espn Deportes HD
+http://iptv.nonoip.com:7000/karam/karam123/17637
+#EXTINF:-1 group-title="体育频道",ESPN U HD
+http://iptv.nonoip.com:7000/karam/karam123/17638
 #EXTINF:-1 group-title="体育频道",澳体育台
 http://61.244.22.4/ch4/sport_ch4.live/index.m3u8
 #EXTINF:-1 group-title="体育频道",Newtv超级体育
@@ -505,6 +653,16 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
 #EXTINF:-1 group-title="新闻频道",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="电影台",HBO Comedy HD
+http://iptv.nonoip.com:7000/karam/karam123/17648
+#EXTINF:-1 group-title="电影台",HBO Family HD
+http://iptv.nonoip.com:7000/karam/karam123/17649
+#EXTINF:-1 group-title="电影台",HBO HD
+http://iptv.nonoip.com:7000/karam/karam123/17650
+#EXTINF:-1 group-title="电影台",HBO Signature HD
+http://iptv.nonoip.com:7000/karam/karam123/17651
+#EXTINF:-1 group-title="电影台",HBO Zone HD
+http://iptv.nonoip.com:7000/karam/karam123/17652
 #EXTINF:-1 group-title="电影台",Fox Movies
 http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="电影台",FOX动作-1
