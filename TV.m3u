@@ -17,8 +17,6 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3
 http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5-1
 http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
-#EXTINF:-1 group-title="中国",CCTV-5-2
-http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5922040007130019836/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&stbId=004003FF0097495663008422F154756C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5922040007130019836&owchid=bestzb&owsid=4493204831454898328&AuthInfo=JTsQWGUKkYoHA3r5%2bkXSPuQaMGlkWO6F3ymwmvvczdEnJ7d0nBpY4SKNzz%2bDER9RtAmezz%2bxJYyCm2yZLH5njrC0RS2vVaRxLbhsLrwqpWU3PaOTS%2bq7kGToR8VkHaBa
 #EXTINF:-1 group-title="中国",CCTV-5+-1
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5+-2
@@ -59,8 +57,10 @@ http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="中国",东方卫视蓝光
 http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
-#EXTINF:-1 group-title="中国",东方卫视
+#EXTINF:-1 group-title="中国",东方卫视-1
 http://nas.330421.cn:8000/iptv/kankan/?id=dfws
+#EXTINF:-1 group-title="中国",东方卫视-2
+http://39.134.66.66/PLTV/88888888/224/3221225598/index.m3u8
 #EXTINF:-1 group-title="中国",第一财经
 http://nas.330421.cn:8000/iptv/kankan/?id=dycj
 #EXTINF:-1 group-title="中国",浙江卫视蓝光
@@ -112,25 +112,41 @@ http://144.48.240.144:2019/SunTv.php?name=ChannelV
 #EXTINF:-1 group-title="港台",MTV频道-1
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title="港台",MTV频道-2
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="港台",有线新闻-1
-http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-#EXTINF:-1 group-title="港台",有线新闻-2
-http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
-#EXTINF:-1 group-title="港台",互动新闻
-http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 group-title="港台",香港电台31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="港台",香港电台32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1 
 #EXTINF:-1 group-title="港台",香港开电視-1
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="港台",香港开电視-2
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="港台",J2
+http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8 
+#EXTINF:-1 group-title="港台",Rthk-1
+https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8
+#EXTINF:-1 group-title="港台",Rthk-2
+https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8 
+#EXTINF:-1 group-title="港台",RTHK 32-1
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8 
+#EXTINF:-1 group-title="港台",RTHK 32-2
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8 
+#EXTINF:-1 group-title="港台",RTHK 32-3
+http://teslagram.com/live/channel_32.m3u8 
+#EXTINF:-1 group-title="港台",RTHK 32-4
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1 group-title="港台",RTHK31-1
+http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8 
+#EXTINF:-1 group-title="港台",RTHK31-2
+http://teslagram.com/live/channel_31.m3u8 
+#EXTINF:-1 group-title="港台",RTHK31-3
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8 
+#EXTINF:-1 group-title="港台",RTHK31-4
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8 
+#EXTINF:-1 group-title="港台",RTHK31-5
+http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8 
+#EXTINF:-1 group-title="港台",RTHK31-6
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="港台",互动新闻
+http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 group-title="港台",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
-#EXTINF:-1 group-title="港台",南方卫视
-http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
 #EXTINF:-1 group-title="港台",TVB星河台-2
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 group-title="港台",环球电视
@@ -165,10 +181,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港台",亚美卫视
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 group-title="港台",中视HD-2
-http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 group-title="港台",华视-3
-http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 group-title="港台",年代新闻-1
 http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 group-title="港台",年代新闻-2
@@ -177,30 +189,12 @@ http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1 group-title="港台",动物星球-2
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 group-title="港台",中天新聞-1
-http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="港台",中天新聞-3
-http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="港台",中天綜合-1
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="港台",中天綜合-2
-http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="港台",中天娛樂-1
-http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 group-title="港台",中天娛樂-2
-http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 group-title="港台",八大綜合
-http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 group-title="港台",三立新聞-1
 http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 #EXTINF:-1 group-title="港台",三立新聞-2
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 group-title="港台",三立新聞-3
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 group-title="港台",三立新闻
-http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8
-#EXTINF:-1 group-title="港台",三立新闻
-http://60.199.188.66/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 group-title="港台",TVBS新聞-1
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 group-title="港台",TVBS新聞-2
@@ -227,14 +221,10 @@ http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
 http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
 #EXTINF:-1 group-title="欧美",FOX 40 Sacramento CA (KTXL)
 http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
-#EXTINF:-1 group-title="欧美",FOX 6 Birmingham AL (WBRC)
-http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
 #EXTINF:-1 group-title="欧美",FOX 8 Cleveland
 https://player-api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
 #EXTINF:-1 group-title="欧美",FOX 8 Cleveland OH (WJW)
 http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
-#EXTINF:-1 group-title="欧美",FOX 8 High Point NC (WGHP)
-http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
 #EXTINF:-1 group-title="欧美",ABC International
 https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
 #EXTINF:-1 group-title="欧美",ABC NEWS-2
@@ -249,8 +239,6 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 #EXTINF:-1 group-title="欧美",CNN
 http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
-#EXTINF:-1 group-title="欧美",CNN International
-https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 group-title="欧美",CNN Indonicia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-1
@@ -379,170 +367,8 @@ http://174.127.67.246/live330/playlist.m3u8
 https://live.ntdimg.com/uwlive990/playlist.m3u8
 #EXTINF:-1 group-title="欧美",新唐人美西台-2
 http://live.ntdimg.com/uwlive520/playlist.m3u8
-#EXTINF:-1 group-title="欧美",CINEMAX WEST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14646
-#EXTINF:-1 group-title="欧美",OUTERMAX
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14648
-#EXTINF:-1 group-title="欧美",THRILLERMAX
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14649
-#EXTINF:-1 group-title="欧美",EPIX
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14650
-#EXTINF:-1 group-title="欧美",EPIX HITS
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14652
-#EXTINF:-1 group-title="欧美",SHOWTIME EXTREME
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14654
-#EXTINF:-1 group-title="欧美",SHOWTIME BEYOND
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14655
-#EXTINF:-1 group-title="欧美",STARZ WEST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14656
-#EXTINF:-1 group-title="欧美",SHOWTIME EAST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14657
-#EXTINF:-1 group-title="欧美",SHOWTIME WEST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14658
-#EXTINF:-1 group-title="欧美",STARZENCORE WESTERNS
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14659
-#EXTINF:-1 group-title="欧美",STARZENCORE SUSPENSE
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14660
-#EXTINF:-1 group-title="欧美",STARZENCORE FAMILY
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14661
-#EXTINF:-1 group-title="欧美",STARZENCORE CLASSIC
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14662
-#EXTINF:-1 group-title="欧美",STARZENCORE ACTION
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14664
-#EXTINF:-1 group-title="欧美",STARZENCORE
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14665
-#EXTINF:-1 group-title="欧美",SHOWTIME WOMEN
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14669
-#EXTINF:-1 group-title="欧美",SHOWTIME SHOWCASE
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14672
-#EXTINF:-1 group-title="欧美",SHOWTIME NEXT
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14673
-#EXTINF:-1 group-title="欧美",SHOWTIME FAMILY ZONE
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14674
-#EXTINF:-1 group-title="欧美",HBO FAMILY
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14679
-#EXTINF:-1 group-title="欧美",MY50 CHICAGO IL WPWR
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14681
-#EXTINF:-1 group-title="欧美",MY9 SEACAUCUS NJ WWOR
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14682
-#EXTINF:-1 group-title="欧美",CBS SALT LAKE CITY  KUTV
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14683
-#EXTINF:-1 group-title="欧美",WGN 9
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14684
-#EXTINF:-1 ,USA: NFL Network
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14685
-#EXTINF:-1 ,USA: CBS SEATTLE WA KIRO
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14745
-#EXTINF:-1 ,USA: CBS ST LOUIS MO KMOV
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14746
-#EXTINF:-1 ,USA: CBS WASHINGTON DC WUSA
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14748
-#EXTINF:-1 ,USA: CBS 8 Knoxville TN HD
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14749
-#EXTINF:-1 group-title="欧美",FOX BUSINESS
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14750
-#EXTINF:-1 group-title="欧美",FOX DALLAS TX KDFW
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14751
-#EXTINF:-1 group-title="欧美",FOX DENVER CO KDVR
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14752
-#EXTINF:-1 ,USA: FOX COLUMBUS OH WTTE
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14761
-#EXTINF:-1 ,USA: FOX DENVER CO KDVR
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14762
-#EXTINF:-1 ,USA: FOX DETROIT MI WJBK
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14763
-#EXTINF:-1 ,USA: FOX HARTFORD CT WTIC
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14764
-#EXTINF:-1 ,USA: FOX HOUSTON TX KRIV
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14765
-#EXTINF:-1 ,USA: FOX INDIANAPOLIS IN WXIN
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14766
-#EXTINF:-1 ,USA: FOX NASHVILLE TN WZTV
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14772
-#EXTINF:-1 ,USA: FOX ORLANDO FL WOFL
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14775
-#EXTINF:-1 ,USA: FOX PHILADELPHIA PA WTXF
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14776
-#EXTINF:-1 ,USA: FOX PITTSBURGH PA WPGH
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14777
-#EXTINF:-1 ,USA: FOX SACRAMENTO CA KTXL
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14778
-#EXTINF:-1 ,USA: FOX SALT LAKE CITY UT KSTU
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14779
-#EXTINF:-1 ,USA: FOX SAN ANTONIO TX KABB
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14780
-#EXTINF:-1 ,USA: NBC Sports Boston
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14789
-#EXTINF:-1 ,USA: NBC Sports California
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14790
-#EXTINF:-1 ,USA: NBC Sports Chicago
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14791
-#EXTINF:-1 ,USA: NBC Sports Northwest
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14792
-#EXTINF:-1 group-title="欧美",NBCSN NORTHWEST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14793
-#EXTINF:-1 group-title="欧美",NBCSN PHILADELPHIA
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14794
-#EXTINF:-1 ,USA: NBC SACRAMENTO CA KCRA
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14805
-#EXTINF:-1 ,USA: NBC SAN DIEGO CA KNSD
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14807
-#EXTINF:-1 ,USA: NBC SAN FRANCISCO CA KNTV
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14808
-#EXTINF:-1 ,USA: NBC ST LOUIS MO KSDK
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14810
-#EXTINF:-1 ,USA: CNN
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14813
-#EXTINF:-1 group-title="欧美",AMC
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14814
-#EXTINF:-1 group-title="欧美",NECN
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14862
-#EXTINF:-1 group-title="欧美",NICKELODEON EAST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14865
-#EXTINF:-1 group-title="欧美",OWN
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14872
-#EXTINF:-1 group-title="欧美",OXYGEN EAST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14873
-#EXTINF:-1 group-title="欧美",PARAMOUNT CHANNEL
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14875
-#EXTINF:-1 group-title="欧美",PBS KIDS
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14876
-#EXTINF:-1 group-title="欧美",PEOPLE TV
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14877
-#EXTINF:-1 group-title="欧美",POP
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14878
-#EXTINF:-1 group-title="欧美",PURSUIT
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14879
-#EXTINF:-1 group-title="欧美",REELZ
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14880
-#EXTINF:-1 group-title="欧美",REVOLT
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14881
-#EXTINF:-1 group-title="欧美",SMITHSONIAN EAST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14883
-#EXTINF:-1 group-title="欧美",TASTEMADE EAST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14889
-#EXTINF:-1 group-title="欧美",TBS EAST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14890
-#EXTINF:-1 group-title="欧美",TBS WEST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14891
-#EXTINF:-1 group-title="欧美",TCM
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14892
 #EXTINF:-1 group-title="欧美",TEENNICK
 http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14893
-#EXTINF:-1 group-title="欧美",TNT WEST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14897
-#EXTINF:-1 group-title="欧美",TRAVEL CHANNEL EAST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14898
-#EXTINF:-1 group-title="欧美",FOX SPORTS SPORTSTIME OHIO
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14932
-#EXTINF:-1 group-title="欧美",FOX SPORTS TENNESSEE
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14934
-#EXTINF:-1 group-title="欧美",FOX SPORTS WEST
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14935
-#EXTINF:-1 group-title="欧美",FOX SPORTS DETROIT
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14937
-#EXTINF:-1 group-title="欧美",FOX SPORTS FLORIDA
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14938
 #EXTINF:-1 group-title="欧美",ESPN 2
 http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14941
 #EXTINF:-1 group-title="欧美",ESPN DEPORTES
@@ -611,24 +437,14 @@ http://221.157.125.239:1935/live/psike/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="日韩",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 group-title="体育频道",五星体育-1
-http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
 #EXTINF:-1 group-title="体育频道",五星体育-2
 http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="体育频道",广东体育
-http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 group-title="体育频道",CCTV5-1
-http://220.158.149.14:9999/live/TV00000000000000000104@HHZT;LIVE
 #EXTINF:-1 group-title="体育频道",CCTV5-2
 http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-5
 #EXTINF:-1 group-title="中国",CCTV-5-5
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 group-title="体育频道",卫视体育台-1
 https://www.fanmingming.cn/hls/starsports.m3u8
-#EXTINF:-1 group-title="体育频道",卫视体育台-2
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 group-title="体育频道",纬来体育台
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com
 #EXTINF:-1 group-title="体育频道",纬来体育台HD
 http://125.227.210.37:46326/VideoInput/play.ts
 #EXTINF:-1 group-title="体育频道",博斯魅力
@@ -637,28 +453,16 @@ https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://61.244.22.4/ch4/sport_ch4.live/index.m3u8
 #EXTINF:-1 group-title="体育频道",Newtv超级体育
 http://111.40.205.87/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="体育频道",NBA TV
-https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 group-title="体育频道",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="体育频道",Fox Sports News-1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="体育频道",Fox Sports News-2
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="体育频道",FOX Sports 1
-https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1 group-title="体育频道",FOX Sports 2
-https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
-#EXTINF:-1 group-title="体育频道",FOX Sports 3-1
-https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 #EXTINF:-1 group-title="体育频道",FOX Sports 3-2
 http://125.227.210.37:62391/VideoInput/play.ts
 #EXTINF:-1 group-title="体育频道",FOX Sports HD
 http://45.58.62.92:8080
-#EXTINF:-1 group-title="体育频道",True Tennis
-https://cdn-laos.workpoint.news/hd-tennis_720/index.m3u8
-#EXTINF:-1 group-title="体育频道",Premier Football 1
-https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 #EXTINF:-1 group-title="新闻频道",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 group-title="新闻频道",Al Jazeera
@@ -675,30 +479,42 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
 #EXTINF:-1 group-title="新闻频道",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="电影台",HBO
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
-#EXTINF:-1 group-title="电影台",AXN
-http://106.54.30.243/gz009/gz.php?id=axn
-#EXTINF:-1 group-title="电影台",Fox Movies
+#EXTINF:-1 group-title="电影台",Fox Movies-1
 http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="电影台",Fox Movies-2
+http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
+#EXTINF:-1 group-title="电影台",Fox Family
+http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 #EXTINF:-1 group-title="电影台",FOX动作-1
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="电影台",FOX动作-2
+http://live3.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="电影台",FOX动作-3
+http://203.150.107.30:8081/tested2iptv/core206/playlist.m3u8
 #EXTINF:-1 group-title="电影台",东森洋片-1
 http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 group-title="电影台",东森洋片-2
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 group-title="电影台",东森洋片-3
+http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 group-title="电影台",东森电影-1
 http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 group-title="电影台",东森电影-2
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 group-title="电影台",东森电影-3
+http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 group-title="电影台",好莱坞电影-1
 http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 group-title="电影台",好莱坞电影-2
 http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 group-title="电影台",Sony Movies
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 group-title="电影台",Warner TV
-http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="电影台",Warner TV-1
+http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="电影台",Warner TV-2
+http://192.154.103.75:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="电影台",Warner TV-3
+http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 #EXTINF:-1 group-title="电影台",好莱坞电影
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 group-title="电影台",CHC动作电影
@@ -707,7 +523,9 @@ http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 #EXTINF:-1 group-title="电影台",A2
 http://89.106.234.4:80/amedia_2_34_35.m3u8
-#EXTINF:-1 group-title="电影台",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 group-title="电影台",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="专业台",国家地理-1
+http://192.154.103.75:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 group-title="专业台",Discover
+http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
