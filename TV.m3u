@@ -1,20 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="中国",CCTV-1-1
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-1-2
-http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-2-1
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-2-2
-http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-3-1
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-3-2
 http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 #EXTINF:-1 group-title="中国",CCTV-4-1
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-4-2
-http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5-1
 http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5+-1
@@ -27,20 +21,14 @@ http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 #EXTINF:-1 group-title="中国",CCTV-6-3
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-7蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-8蓝光
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-9蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-10蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-11蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-12蓝光-1
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-12蓝光-2
-http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-13高清
 http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
 #EXTINF:-1 group-title="中国",CCTV-14蓝光
@@ -51,18 +39,8 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 group-title="中国",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="中国",纯享4K频道
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 group-title="中国",北京卫视蓝光
-http://111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="中国",东方卫视蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
-#EXTINF:-1 group-title="中国",东方卫视-1
-http://nas.330421.cn:8000/iptv/kankan/?id=dfws
 #EXTINF:-1 group-title="中国",东方卫视-2
 http://39.134.66.66/PLTV/88888888/224/3221225598/index.m3u8
-#EXTINF:-1 group-title="中国",第一财经
-http://nas.330421.cn:8000/iptv/kankan/?id=dycj
 #EXTINF:-1 group-title="中国",浙江卫视蓝光
 http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
 #EXTINF:-1 group-title="中国",山东卫视蓝光
@@ -71,12 +49,8 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3
 http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
 #EXTINF:-1 group-title="中国",重庆卫视蓝光
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 group-title="中国",海南卫视高清
-http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:-1 group-title="中国",陕西卫视高清
 http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文-2
-http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-3
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-5
@@ -87,8 +61,6 @@ http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-1
 http://125.210.152.21:9090/live/FHZX.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-2
-http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-5
@@ -112,51 +84,35 @@ http://144.48.240.144:2019/SunTv.php?name=ChannelV
 #EXTINF:-1 group-title="港台",MTV频道-1
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title="港台",MTV频道-2
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1 
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港台",香港开电視-1
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="港台",香港开电視-2
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="港台",J2
-http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8 
 #EXTINF:-1 group-title="港台",Rthk-1
 https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8
-#EXTINF:-1 group-title="港台",Rthk-2
-https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8 
 #EXTINF:-1 group-title="港台",RTHK 32-1
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8 
-#EXTINF:-1 group-title="港台",RTHK 32-2
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8 
-#EXTINF:-1 group-title="港台",RTHK 32-3
-http://teslagram.com/live/channel_32.m3u8 
-#EXTINF:-1 group-title="港台",RTHK 32-4
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1 group-title="港台",RTHK 32-2
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="港台",RTHK31-1
-http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8 
-#EXTINF:-1 group-title="港台",RTHK31-2
-http://teslagram.com/live/channel_31.m3u8 
+http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:-1 group-title="港台",RTHK31-3
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8 
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:-1 group-title="港台",RTHK31-4
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8 
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 group-title="港台",RTHK31-5
-http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8 
+http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 group-title="港台",RTHK31-6
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="港台",互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 group-title="港台",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
-#EXTINF:-1 group-title="港台",TVB星河台-2
-http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 group-title="港台",环球电视
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 group-title="港台",TVB 无线翡翠-4
-http://m.567it.com/jade.m3u8
 #EXTINF:-1 group-title="港台",TVB 无线翡翠-5
 http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
-#EXTINF:-1 group-title="港台",无线明珠-4
-http://m.567it.com/Pearl.m3u8
 #EXTINF:-1 group-title="港台",无线明珠-5
 http://144.48.240.144:2019/SunTv.php?name=XGMingZhu
 #EXTINF:-1 group-title="港台",澳门卫视
@@ -181,26 +137,38 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港台",亚美卫视
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 group-title="港台",年代新闻-1
-http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 group-title="港台",年代新闻-2
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 group-title="港台",动物星球-1
-http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1 group-title="港台",动物星球-2
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 group-title="港台",TVBS新聞
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",民視新聞
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",三立Live新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 group-title="港台",三立iNews新聞
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="港台",中天新聞
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",華視新聞
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",中視新聞
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 group-title="港台",三立新聞-1
 http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
-#EXTINF:-1 group-title="港台",三立新聞-2
-http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 group-title="港台",三立新聞-3
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 group-title="港台",TVBS新聞-1
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 group-title="港台",TVBS新聞-2
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 group-title="港台",民视新闻台-2
-http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 group-title="港台",民视新闻台-3
 https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 group-title="港台",民视新闻台-4
@@ -211,20 +179,6 @@ http://211.21.214.7:8808/live/dali/index.m3u8
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 #EXTINF:-1 group-title="欧美",法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="欧美",FOX 13 Salt Lake City UT (KSTU)
-http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8
-#EXTINF:-1 group-title="欧美",FOX 19 Newport KY (WXIX-TV)
-http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8
-#EXTINF:-1 group-title="欧美",FOX 31 Denver CO (KDVR)
-http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
-#EXTINF:-1 group-title="欧美",FOX 4 Kansas City MO (WDAF-TV)
-http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
-#EXTINF:-1 group-title="欧美",FOX 40 Sacramento CA (KTXL)
-http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
-#EXTINF:-1 group-title="欧美",FOX 8 Cleveland
-https://player-api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
-#EXTINF:-1 group-title="欧美",FOX 8 Cleveland OH (WJW)
-http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
 #EXTINF:-1 group-title="欧美",ABC International
 https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
 #EXTINF:-1 group-title="欧美",ABC NEWS-2
@@ -237,8 +191,6 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 group-title="欧美",ABC 9 Chattanooga TN (WTVC)
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
-#EXTINF:-1 group-title="欧美",CNN
-http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
 #EXTINF:-1 group-title="欧美",CNN Indonicia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-1
@@ -255,18 +207,10 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-7
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="欧美",NBC 13 Des Moines IA (WHO-DT)
-http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
 #EXTINF:-1 group-title="欧美",NBC 15 Madison WI (WMTVNBC)
 http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1 group-title="欧美",NASA
-http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:-1 group-title="欧美",Nat Geo HD-1
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1 group-title="欧美",CBN News-1
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 group-title="欧美",CBN News-2
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 #EXTINF:-1 group-title="欧美",CBN News-4
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 group-title="欧美",CBS-1
@@ -285,8 +229,6 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://62.112.9.63:88/sky_news_uk/index.m3u8?token=test
 #EXTINF:-1 group-title="欧美",BBC News-1
 http://51.52.156.22:8888/http/004
-#EXTINF:-1 group-title="欧美",BBC News-2
-http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
 #EXTINF:-1 group-title="欧美",BBC World News-1
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="欧美",BBC 4
@@ -357,24 +299,10 @@ https://live.ntdimg.com/cwlive220/playlist.m3u8
 https://live.ntdimg.com/sflive990/playlist.m3u8
 #EXTINF:-1 group-title="欧美",新唐人亚太台-1
 https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人中国台-1
-https://live2.ntdimg.com/cnlive/playlist.m3u8
 #EXTINF:-1 group-title="欧美",新唐人美东台-1
 https://live.ntdimg.com/live400/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人美东台-2
-http://174.127.67.246/live330/playlist.m3u8
 #EXTINF:-1 group-title="欧美",新唐人美西台-1
 https://live.ntdimg.com/uwlive990/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人美西台-2
-http://live.ntdimg.com/uwlive520/playlist.m3u8
-#EXTINF:-1 group-title="欧美",TEENNICK
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14893
-#EXTINF:-1 group-title="欧美",ESPN 2
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14941
-#EXTINF:-1 group-title="欧美",ESPN DEPORTES
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14942
-#EXTINF:-1 group-title="欧美",ESPN 2
-http://hd.magiptvserver.com:8080/alyn1nisan/z7oyFoCZs2/14949
 #EXTINF:-1 group-title="日韩",NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 group-title="日韩",Arirang TV
@@ -431,10 +359,6 @@ http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="日韩",KBC
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="日韩",TBC
-http://221.157.125.239:1935/live/psike/playlist.m3u8
-#EXTINF:-1 group-title="日韩",CJB
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="日韩",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="体育频道",五星体育-2
@@ -445,22 +369,14 @@ http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-5
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 group-title="体育频道",卫视体育台-1
 https://www.fanmingming.cn/hls/starsports.m3u8
-#EXTINF:-1 group-title="体育频道",纬来体育台HD
-http://125.227.210.37:46326/VideoInput/play.ts
 #EXTINF:-1 group-title="体育频道",博斯魅力
 https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 group-title="体育频道",澳体育台
 http://61.244.22.4/ch4/sport_ch4.live/index.m3u8
-#EXTINF:-1 group-title="体育频道",Newtv超级体育
-http://111.40.205.87/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="体育频道",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="体育频道",Fox Sports News-1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="体育频道",Fox Sports News-2
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="体育频道",FOX Sports 3-2
-http://125.227.210.37:62391/VideoInput/play.ts
 #EXTINF:-1 group-title="体育频道",FOX Sports HD
 http://45.58.62.92:8080
 #EXTINF:-1 group-title="新闻频道",Australia Channel
@@ -479,8 +395,6 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
 #EXTINF:-1 group-title="新闻频道",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="电影台",Fox Movies-1
-http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="电影台",Fox Movies-2
 http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 #EXTINF:-1 group-title="电影台",Fox Family
@@ -491,41 +405,27 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://live3.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="电影台",FOX动作-3
 http://203.150.107.30:8081/tested2iptv/core206/playlist.m3u8
-#EXTINF:-1 group-title="电影台",东森洋片-1
-http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 group-title="电影台",东森洋片-2
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 group-title="电影台",东森洋片-3
 http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1 group-title="电影台",东森电影-1
-http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 group-title="电影台",东森电影-2
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 group-title="电影台",东森电影-3
 http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 group-title="电影台",好莱坞电影-1
-http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 group-title="电影台",好莱坞电影-2
 http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 group-title="电影台",Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 group-title="电影台",Warner TV-1
 http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 group-title="电影台",Warner TV-2
-http://192.154.103.75:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 group-title="电影台",Warner TV-3
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 #EXTINF:-1 group-title="电影台",好莱坞电影
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 group-title="电影台",CHC动作电影
-http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
-#EXTINF:-1 group-title="电影台",CHC高清电影
-http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 #EXTINF:-1 group-title="电影台",A2
 http://89.106.234.4:80/amedia_2_34_35.m3u8
 #EXTINF:-1 group-title="电影台",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 group-title="专业台",国家地理-1
-http://192.154.103.75:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 group-title="专业台",Discover
 http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
