@@ -1,389 +1,241 @@
 #EXTM3U
-#EXTINF:-1 group-title="中国",CCTV-3-1
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-3-2
-http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
-#EXTINF:-1 group-title="中国",CCTV-5-1
-http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
-#EXTINF:-1 group-title="中国",CCTV-5+-2
-http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-6-1
-http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-6-2
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 group-title="中国",CCTV-6-3
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-8蓝光
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-13高清
-http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
-#EXTINF:-1 group-title="中国",CCTV-14蓝光
-http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 group-title="中国",CCTV-16 HD
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 group-title="中国",CCTV-4K蓝码-1
-http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-#EXTINF:-1 group-title="中国",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="中国",东方卫视-2
-http://39.134.66.66/PLTV/88888888/224/3221225598/index.m3u8
-#EXTINF:-1 group-title="中国",浙江卫视蓝光
-http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
-#EXTINF:-1 group-title="中国",湖北卫视蓝光
-http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
-#EXTINF:-1 group-title="中国",重庆卫视蓝光
-http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 group-title="中国",陕西卫视高清
-http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文-3
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文-5
-http://125.210.152.21:9090/live/FHZW.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文-6
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文-8
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-1
-http://125.210.152.21:9090/live/FHZX.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-5
-http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-6
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-7
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-8
-http://111.0.93.5:80/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯HD-12
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="港台",星空卫视-3
-http://144.48.240.144:2019/SunTv.php?name=XingKongTV
+#EXTINF:-1 group-title="日韩",TJB
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="欧美",BBC World News-1
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="体育频道",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="港台",星空卫视-5
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港台",星空卫视-7
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 group-title="港台",V音乐-3
-http://144.48.240.144:2019/SunTv.php?name=ChannelV
-#EXTINF:-1 group-title="港台",MTV频道-1
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="港台",MTV频道-2
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="港台",香港开电視-1
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="港台",香港开电視-2
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="港台",Rthk-1
-https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8
-#EXTINF:-1 group-title="港台",RTHK 32-1
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 group-title="港台",RTHK 32-2
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 group-title="港台",凤凰中文-8
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
+#EXTINF:-1 group-title="港台",凤凰资讯HD-7
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 group-title="中国",CCTV-3-1
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+#EXTINF:-1 group-title="中国",CCTV-6-3
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+#EXTINF:-1 group-title="中国",CCTV-8蓝光
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+#EXTINF:-1 group-title="港台",凤凰中文-6
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:-1 group-title="港台",凤凰资讯HD-12
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 group-title="中国",CCTV-5+-2
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 group-title="日韩",KBC
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="日韩",KCTV HD
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="港台",凤凰中文-5
+http://125.210.152.21:9090/live/FHZW.m3u8
+#EXTINF:-1 group-title="港台",凤凰资讯HD-1
+http://125.210.152.21:9090/live/FHZX.m3u8
+#EXTINF:-1 group-title="日韩",jj
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 group-title="体育频道",CCTV5-2
+http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-5
+#EXTINF:-1 group-title="体育频道",劲爆体育-1
+http://183.207.255.188/live/program/live/jbty/1300000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道",五星体育-2
+http://183.207.255.188/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道",五星体育-5
+http://183.207.255.188/live/program/live/ssty/2300000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道",五星体育-4
+http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="港台",互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 group-title="港台",亞洲電視台
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
-#EXTINF:-1 group-title="港台",环球电视
-http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 group-title="港台",TVB 无线翡翠-5
-http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
-#EXTINF:-1 group-title="港台",无线明珠-5
-http://144.48.240.144:2019/SunTv.php?name=XGMingZhu
-#EXTINF:-1 group-title="港台",澳门卫视
-http://144.48.240.144:2019/SunTv.php?name=MSTV
-#EXTINF:-1 group-title="港台",澳亚卫视
-http://144.48.240.144:2019/SunTv.php?name=MasTV
 #EXTINF:-1 group-title="港台",澳门有线3台
 http://202.175.127.77/live/show/ch3/index.m3u8
 #EXTINF:-1 group-title="港台",澳门耀财财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 group-title="港台",澳门番薯TV
-http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-#EXTINF:-1 group-title="港台",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="港台",英国皇家卫视
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1 group-title="港台",日本台
-http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
-#EXTINF:-1 group-title="港台",香港卫视HKS-1
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港台",香港卫视HKS-2
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 group-title="港台",亚美卫视
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 group-title="港台",TVBS新聞
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="港台",民視新聞-1
-http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 group-title="中国",CCTV-6-2
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 group-title="中国",湖北卫视蓝光
+http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:-1 group-title="中国",浙江卫视蓝光
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 group-title="港台",凤凰资讯HD-6
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 group-title="中国",东方卫视-2
+http://39.134.66.66/PLTV/88888888/224/3221225598/index.m3u8
 #EXTINF:-1 group-title="港台",民視新聞-2
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-title="港台",三立Live新聞
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="港台",三立iNews新聞
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="港台",中天新聞
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="港台",東森新聞
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="港台",東森財經新聞
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 group-title="港台",華視新聞
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 group-title="港台",中視新聞
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 group-title="港台",台視新聞
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="港台",民视新闻台-3
-https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-title="港台",民视新闻台-4
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-title="港台",大立電視
-http://211.21.214.7:8808/live/dali/index.m3u8
-#EXTINF:-1 group-title="港台",信吉电視
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 group-title="港台",新加坡8
-http://ruijian.52yi.vip/daili/qq.php?id=sjp02
-#EXTINF:-1 group-title="港台",新加坡亚洲新闻
-http://ruijian.52yi.vip/daili/qq.php?id=sjp04
-#EXTINF:-1 group-title="港台",newsmaxtv
-http://ruijian.52yi.vip/daili/qq.php?id=newsmax
-#EXTINF:-1 group-title="欧美",法国时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="欧美",ABC International
-https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
-#EXTINF:-1 group-title="欧美",ABC NEWS-2
-https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1 group-title="体育频道",澳体育台
+http://61.244.22.4/ch4/sport_ch4.live/index.m3u8
+#EXTINF:-1 group-title="欧美",NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="日韩",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="日韩",BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 group-title="欧美",CBS新闻-1
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="欧美",California Music Channel-1
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1 group-title="欧美",ABC 2 Baton Rouge LA (WBRZ-HD)-1
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="欧美",ABC 2 Baton Rouge LA (WBRZ-HD)-2
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="欧美",ABC 7 Sarasota FL (WWSB)
-https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1 group-title="欧美",ABC 9 Chattanooga TN (WTVC)
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
-#EXTINF:-1 group-title="欧美",CNN Indonicia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-1
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-2
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-3
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-4
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
-#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-5
-http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-6
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1 group-title="欧美",NBC 6 Miami FL (WTVJ)-7
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="欧美",NBC 15 Madison WI (WMTVNBC)
-http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1 group-title="欧美",CBN News-4
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-#EXTINF:-1 group-title="欧美",CBS-1
-http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 group-title="欧美",CBS-2
-http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 group-title="欧美",CBS-3
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 group-title="欧美",CBS-4
-http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 group-title="欧美",CBS 9 Washington DC (WUSA-HD)
-https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
-#EXTINF:-1 group-title="欧美",CBS新闻-1
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="欧美",Sky News
-http://62.112.9.63:88/sky_news_uk/index.m3u8?token=test
-#EXTINF:-1 group-title="欧美",BBC News-1
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 group-title="欧美",BBC World News-1
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="欧美",BBC 4
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 group-title="欧美",Bloomberg TV Europe-1
-http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg TV Europe-2
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg TV Europe-3
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg TV Australia-1
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg TV Australia-2
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg TV Asia
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg-1
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg-3
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg-4
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg-5
-http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg-6
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg-7
-https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg-8
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1 group-title="欧美",Bloomberg-9
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 group-title="欧美",TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 group-title="欧美",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 group-title="欧美",ITV 3
-http://51.52.156.22:8888/http/006
-#EXTINF:-1 group-title="欧美",ITV 4
-http://51.52.156.22:8888/http/007
-#EXTINF:-1 group-title="欧美",PBS America
-http://51.52.156.22:8888/http/012
-#EXTINF:-1 group-title="欧美",California Music Channel-1
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1 group-title="欧美",California Music Channel-2
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:-1 group-title="欧美",California Music Channel-3
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 group-title="欧美",RTé News Now
-https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 group-title="欧美",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 group-title="欧美",Firstlight
-https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
-#EXTINF:-1 group-title="欧美",Māori TV
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-#EXTINF:-1 group-title="欧美",People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1 group-title="欧美",TV5 Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 group-title="欧美",TV5 Monde Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 group-title="欧美",新唐人加东台-2
-https://live.ntdimg.com/mllive860/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人加西台-1
-https://live.ntdimg.com/cwlive220/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人旧金山台-1
-https://live.ntdimg.com/sflive990/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人亚太台-1
-https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人美东台-1
-https://live.ntdimg.com/live400/playlist.m3u8
-#EXTINF:-1 group-title="欧美",新唐人美西台-1
-https://live.ntdimg.com/uwlive990/playlist.m3u8
-#EXTINF:-1 group-title="日韩",NHK华语
-https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-#EXTINF:-1 group-title="日韩",Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="日韩",HallyPOP
-https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
-#EXTINF:-1 group-title="日韩",NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 group-title="日韩",NHK 华语視界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="日韩",MBC
-http://211.54.140.36/hdmi
-#EXTINF:-1 group-title="日韩",SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1 group-title="日韩",SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1 group-title="日韩",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:-1 group-title="日韩",EBS
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="日韩",EBS2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="日韩",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="日韩",EBS???1
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 group-title="日韩",EBS???2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 group-title="日韩",EBS English
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="日韩",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="日韩",YTN
-http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-#EXTINF:-1 group-title="日韩",ArteTV
-http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
-#EXTINF:-1 group-title="日韩",BBS
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 group-title="日韩",NBS
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="日韩",TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="日韩",TV
 http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-#EXTINF:-1 group-title="日韩",tv
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="日韩",jj
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 group-title="日韩",KCTV HD
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="日韩",TJB
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="日韩",KBC
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="日韩",ウェザーニュース
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 group-title="体育频道",五星体育-1
-http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="体育频道",五星体育-2
-http://183.207.255.188/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 group-title="体育频道",五星体育-4
-http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育频道",五星体育-5
-http://183.207.255.188/live/program/live/ssty/2300000/mnf.m3u8
-#EXTINF:-1 group-title="体育频道",劲爆体育-1
-http://183.207.255.188/live/program/live/jbty/1300000/mnf.m3u8
-#EXTINF:-1 group-title="体育频道",CCTV5-2
-http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-5
-#EXTINF:-1 group-title="中国",CCTV-5-5
-http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 group-title="体育频道",卫视体育台-1
-https://www.fanmingming.cn/hls/starsports.m3u8
-#EXTINF:-1 group-title="体育频道",卡斯体育
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 group-title="体育频道",博斯魅力
-https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="体育频道",澳体育台
-http://61.244.22.4/ch4/sport_ch4.live/index.m3u8
-#EXTINF:-1 group-title="体育频道",RTM體育
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
-#EXTINF:-1 group-title="体育频道",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="体育频道",Fox Sports News-1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="体育频道",FOX Sports HD
-http://45.58.62.92:8080
-#EXTINF:-1 group-title="新闻频道",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 group-title="新闻频道",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="新闻频道",Africa News
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
-#EXTINF:-1 group-title="新闻频道",Bloomberg
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="新闻频道",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="新闻频道",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 group-title="新闻频道",Press TV
-https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
-#EXTINF:-1 group-title="新闻频道",TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="电影台",Fox Movies-2
-http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
-#EXTINF:-1 group-title="电影台",Fox Family
-http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
-#EXTINF:-1 group-title="电影台",FOX动作-3
-http://203.150.107.30:8081/tested2iptv/core206/playlist.m3u8
-#EXTINF:-1 group-title="电影台",Sony Movies
-http://51.52.156.22:8888/http/009
-#EXTINF:-1 group-title="电影台",Warner TV-3
-http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
-#EXTINF:-1 group-title="电影台",A2
-http://89.106.234.4:80/amedia_2_34_35.m3u8
+#EXTINF:-1 group-title="中国",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="中国",重庆卫视蓝光
+http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 group-title="中国",陕西卫视高清
+http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 group-title="欧美",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 group-title="港台",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="日韩",tv
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg TV Europe-1
+http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-3
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="港台",香港开电視-2
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="日韩",TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="港台",東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",華視新聞
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",民視新聞-1
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",三立iNews新聞
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="港台",三立Live新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 group-title="港台",台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",TVBS新聞
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",中視新聞
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台",中天新聞
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="日韩",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 group-title="欧美",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 group-title="体育频道",卡斯体育
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="港台",日本台
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+#EXTINF:-1 group-title="港台",民视新闻台-3
+https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="港台",民视新闻台-4
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="欧美",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 group-title="欧美",CBN News-4
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 group-title="欧美",Māori TV
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+#EXTINF:-1 group-title="欧美",California Music Channel-2
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 group-title="欧美",California Music Channel-3
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 group-title="欧美",ABC 7 Sarasota FL (WWSB)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 group-title="港台",亚美卫视
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 group-title="新闻频道",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="欧美",CNN Indonicia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="欧美",新唐人亚太台-1
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="欧美",新唐人加西台-1
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+#EXTINF:-1 group-title="欧美",新唐人美东台-1
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 group-title="欧美",新唐人加东台-2
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1 group-title="欧美",新唐人旧金山台-1
+https://live.ntdimg.com/sflive990/playlist.m3u8
+#EXTINF:-1 group-title="欧美",新唐人美西台-1
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 group-title="欧美",RTé News Now
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+#EXTINF:-1 group-title="新闻频道",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="新闻频道",Bloomberg
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg TV Australia-2
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg TV Australia-1
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg TV Europe-3
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-9
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg TV Europe-2
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-7
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-4
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="欧美",Bloomberg-8
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="日韩",NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="日韩",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="日韩",NHK 华语視界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="日韩",NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 group-title="欧美",TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 group-title="港台",RTHK 32-1
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1 group-title="日韩",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 group-title="日韩",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 group-title="日韩",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1 group-title="电影台",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 group-title="专业台",Discover-1
-http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
+#EXTINF:-1 group-title="欧美",TV5 Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:-1 group-title="欧美",TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1 group-title="新闻频道",TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="欧美",Firstlight
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 group-title="欧美",CBS 9 Washington DC (WUSA-HD)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 #EXTINF:-1 group-title="专业台",National Geography-2
 https://www.fanmingming.cn/hls/natlgeo.m3u8
+#EXTINF:-1 group-title="体育频道",卫视体育台-1
+https://www.fanmingming.cn/hls/starsports.m3u8
+#EXTINF:-1 group-title="港台",RTHK 32-2
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
