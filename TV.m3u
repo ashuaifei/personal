@@ -9,6 +9,12 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港台",星空卫视-7
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 group-title="港台",凤凰卫视资讯台
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 group-title="港台",凤凰卫视中文台
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:-1 group-title="港台",凤凰卫视中文台
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-8
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-7
@@ -25,10 +31,18 @@ http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5+-2
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 group-title="日韩",日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="日韩",日本JapanetChannelDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:-1 group-title="日韩",KBC
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="日韩",KCTV HD
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="日韩",韩国EBS 第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="日韩",韩国EBS 少儿频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="港台",凤凰中文-5
 http://125.210.152.21:9090/live/FHZW.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯HD-1
@@ -71,6 +85,8 @@ http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_toke
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="日韩",BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 group-title="欧美",CBS新闻
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="欧美",CBS新闻-1
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="欧美",California Music Channel-1
@@ -97,6 +113,8 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
 #EXTINF:-1 group-title="新闻频道",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="中国",点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="中国",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="中国",重庆卫视蓝光
@@ -151,7 +169,11 @@ https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 group-title="欧美",People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1 group-title="欧美",CBN News-4
+#EXTINF:-1 group-title="欧美",CNBC-1
+https://cnbc.newscdn.org/cG6VrLchXmgfiofnhO8sjg==,1623345189/1950372621/index.m3u8
+#EXTINF:-1 group-title="欧美",CBN News-1
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+#EXTINF:-1 group-title="欧美",CBN News-2
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 group-title="欧美",Māori TV
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
@@ -181,6 +203,10 @@ https://live.ntdimg.com/sflive990/playlist.m3u8
 https://live.ntdimg.com/uwlive990/playlist.m3u8
 #EXTINF:-1 group-title="欧美",RTé News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+#EXTINF:-1 group-title="新闻频道",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="新闻频道",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 #EXTINF:-1 group-title="新闻频道",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="新闻频道",Bloomberg
@@ -203,6 +229,8 @@ https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 group-title="欧美",Bloomberg-8
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="欧美",Music电视
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="日韩",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="日韩",NHK World Japan
