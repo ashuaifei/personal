@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="中国",东森美洲卫视
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="中国",CCTV1
 http://111.59.189.40:8445/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="中国",CCTV2
