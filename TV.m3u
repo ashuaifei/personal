@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Global",Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
+#EXTINF:-1 group-title="Global",ABC
+https://h1.ustvgo.la/ABC/myStream/chunks.m3u8?nimblesessionid=282342201&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDE6NDQ6MjQgUE0maGFzaF92YWx1ZT1HRjBiMmRSanVPcUxYOU9qbkpKY05BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="Global",AMC
+https://h3.ustvgo.la/AMC/myStream/chunks.m3u8?nimblesessionid=247795211&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDE6NTc6MjkgUE0maGFzaF92YWx1ZT1RYVQwWDVVcEJyUzl1MjZGbG5oTEp3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="Global",Animal Planet
+https://h5.ustvgo.la/Animal/myStream/chunks.m3u8?nimblesessionid=144743091&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MDA6MDMgUE0maGFzaF92YWx1ZT1yUThwaUVuU1kvT0k3T2xleldRNjBnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
 #EXTINF:-1 group-title="Global",Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Global",BloombergTV+2
@@ -162,15 +171,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/ir/PressTV.ir.png" group-title="Global", IRIB Press TV
 https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w393765776_b944100_slen.m3u8
-
-#EXTINF:-1 tvg-id="InfoWars.us" tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="News", InfoWars
-http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-
-#EXTINF:-1 tvg-id="IranInternational.ir" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="News", Iran International
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-
-#EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="News", Iran International
-https://live.playstop.me/1816184091/index.m3u8
 
 #EXTINF:-1 tvg-id="JB1.KR" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="Global", JTBC
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
