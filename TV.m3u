@@ -7,7 +7,7 @@ https://h1.ustvgo.la/ABC/myStream/chunks.m3u8?nimblesessionid=282342201&wmsAuthS
 #EXTINF:-1 group-title="Global",AMC
 https://h3.ustvgo.la/AMC/myStream/chunks.m3u8?nimblesessionid=247795211&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDE6NTc6MjkgUE0maGFzaF92YWx1ZT1RYVQwWDVVcEJyUzl1MjZGbG5oTEp3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 group-title="Global",Animal Planet
-https://h4.ustvgo.la/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MDM6MzEgUE0maGFzaF92YWx1ZT1ES1hFeXA0M0NuOUcwUm9DcUpLZ2tnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/Animal/myStream/chunks.m3u8?nimblesessionid=247141857&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MDM6MzEgUE0maGFzaF92YWx1ZT1ES1hFeXA0M0NuOUcwUm9DcUpLZ2tnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 group-title="Global",Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
