@@ -1,14 +1,49 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ustvgo",ABC
+https://h1.ustvgo.la/ABC/myStream/chunks.m3u8?nimblesessionid=282342201&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDE6NDQ6MjQgUE0maGFzaF92YWx1ZT1HRjBiMmRSanVPcUxYOU9qbkpKY05BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",AMC
+https://h3.ustvgo.la/AMC/myStream/chunks.m3u8?nimblesessionid=247795211&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDE6NTc6MjkgUE0maGFzaF92YWx1ZT1RYVQwWDVVcEJyUzl1MjZGbG5oTEp3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",Animal Planet
+https://h4.ustvgo.la/Animal/myStream/chunks.m3u8?nimblesessionid=247141857&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MDM6MzEgUE0maGFzaF92YWx1ZT1ES1hFeXA0M0NuOUcwUm9DcUpLZ2tnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",CNN
+https://h5.ustvgo.la/CNN/myStream/chunks.m3u8?nimblesessionid=144753912&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MzI6MjUgUE0maGFzaF92YWx1ZT1YWVVWbmkzUFpYZThaQ1JNYm1GVFZBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",CNBC
+https://h5.ustvgo.la/CNBC/myStream/chunks.m3u8?nimblesessionid=144760388&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NTE6MjkgUE0maGFzaF92YWx1ZT0zSE5rczlVNmFWUTB3ZDV6R3MwYWRBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",The CW
+https://h1.ustvgo.la/CW/myStream/chunks.m3u8?nimblesessionid=282365130&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NTI6MzcgUE0maGFzaF92YWx1ZT04MDZtRkZJN016WHVFVDZhd3lDWndnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",TBig Ten Network
+https://h3.ustvgo.la/BTN/myStream/chunks.m3u8?nimblesessionid=247815060&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NTM6MzAgUE0maGFzaF92YWx1ZT1EaEJnWjVneWZ1NjdjYzV4OS8wTzZRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",Disney Jr
+https://h1.ustvgo.la/DisneyJr/myStream/chunks.m3u8?nimblesessionid=282359254&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MzM6NTYgUE0maGFzaF92YWx1ZT1MckQvVlU3eHFOM1BBUnNZWkY0WUJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",Disney Channel
+https://h3.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=247809589&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MzQ6NTIgUE0maGFzaF92YWx1ZT1CTkhjUURkbW9YeEtNcXRGRkl5aXh3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",DisneyXD
+https://h5.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=144756388&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MzY6NTcgUE0maGFzaF92YWx1ZT02Q05vK2NyNWhsaUlvdUhLbUFNZG53PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",Cartoon Network
+https://h4.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=247158249&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NTA6NDEgUE0maGFzaF92YWx1ZT1pdDBEaVNycWV3eFd0aHVDVlVYT3JRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",FOX
+https://h2.ustvgo.la/FOX/myStream/chunks.m3u8?nimblesessionid=254909358&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6Mzk6MDcgUE0maGFzaF92YWx1ZT1hVkdGMHZSUUR6R2pQV1F5aWR0WkVRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",Fox Business
+https://h2.ustvgo.la/FoxBusiness/myStream/chunks.m3u8?nimblesessionid=254914823&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NTQ6MzUgUE0maGFzaF92YWx1ZT1ydjB1VGlMZjdtZnJHU2FWRWlSa0hnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",Bravo
+https://h2.ustvgo.la/Bravo/myStream/chunks.m3u8?nimblesessionid=254910398&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6Mzk6NTIgUE0maGFzaF92YWx1ZT16UElHK2hEM2VOVXRKUUxaN0FKS1lBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",TLC
+https://h4.ustvgo.la/TLC/myStream/chunks.m3u8?nimblesessionid=247155155&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NDA6NDIgUE0maGFzaF92YWx1ZT04RTVlV1NvVExkVFd0S0tjMDY4Q0hRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",CBS Sports Network
+https://h1.ustvgo.la/CBSSN/myStream/chunks.m3u8?nimblesessionid=282364258&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NDg6MDAgUE0maGFzaF92YWx1ZT0wNmJQNGNmYzBIQ3hKd3ZRdHhscXRBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",Fox Sports 2
+https://h3.ustvgo.la/FS2/myStream/chunks.m3u8?nimblesessionid=247814163&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NDg6NTMgUE0maGFzaF92YWx1ZT1Uek9DL2ZZbUx1enZ1NDM3SUVLZ3NRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",ESPN2
+https://h1.ustvgo.la/ESPN2/myStream/chunks.m3u8?nimblesessionid=282360194&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6Mzg6MTQgUE0maGFzaF92YWx1ZT1vQkdqUDFiNzRUQm42OEczbi9iZ013PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",ESPNU
+https://h2.ustvgo.la/ESPNU/myStream/chunks.m3u8?nimblesessionid=254912884&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NDk6MjAgUE0maGFzaF92YWx1ZT1tNEoxTHpDWUZWSHE4a29yT09oWUVRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="ustvgo",ESPNews
+https://h2.ustvgo.la/ESPNews/myStream/chunks.m3u8?nimblesessionid=254913459&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NDk6NDQgUE0maGFzaF92YWx1ZT1Ha1lISEwxVTFjbloyanhZRmRCYk5nPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+
 #EXTINF:-1 group-title="Global",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
-#EXTINF:-1 group-title="Global",ABC
-https://h1.ustvgo.la/ABC/myStream/chunks.m3u8?nimblesessionid=282342201&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDE6NDQ6MjQgUE0maGFzaF92YWx1ZT1HRjBiMmRSanVPcUxYOU9qbkpKY05BPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1 group-title="Global",AMC
-https://h3.ustvgo.la/AMC/myStream/chunks.m3u8?nimblesessionid=247795211&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDE6NTc6MjkgUE0maGFzaF92YWx1ZT1RYVQwWDVVcEJyUzl1MjZGbG5oTEp3PT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1 group-title="Global",Animal Planet
-https://h4.ustvgo.la/Animal/myStream/chunks.m3u8?nimblesessionid=247141857&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6MDM6MzEgUE0maGFzaF92YWx1ZT1ES1hFeXA0M0NuOUcwUm9DcUpLZ2tnPT0mdmFsaWRtaW51dGVzPTI0MA==
-
 #EXTINF:-1 group-title="Global",Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Global",BloombergTV+2
