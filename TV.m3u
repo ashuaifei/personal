@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CNN.News" group-title="Plex",Eronews
+https://38d9c83374e046d8b82e01a6b699ac9d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsWorld/21fa9b34-65aa-41f0-a9b1-a1d2fd118a91/0.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="Plex",USA Today
+https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/cb543d1e786c648a98d43e62d0ef47a4f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7f2a95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5b31e1cc77944e1875fc8dd1ab89dd55acb179b7ef146cc8ff98981178ad3c760fc05b332532c48178c934683db54a0db99704bfa1b4c175318abf9c294293d82540d58f1fbb9f90fbb46988b7587626fee4d9b18d436c73ef95ffeac17f1fceb9241133af196586074f0bdf5dca15b59da67ffb1a7d97d68eb957e19179315b24c2a3c83b3de07bbd3079fa02286ad1b7b52a4c008d6d0e8c985c08c4e8f6bf28ac494385a03570b098353d0ec07af1ac54fe5e61a37571a6f9ec261d49c8e48295456dccb34b9121faa95888bde0035cf6c325e9a1ab323533cc8323f79b475acce6d3ddd755ad5673ba85a6dd612ab8a289fd4b33e8729cfbcf465bd06dcbc04d5f712a67f392b6dd9900d6c3587f94d8c1c69116aca449ebca23df61b7285c4c4f0c75228082b121868e180b628c9cba8a17a67123f37ac9fab83c97d50361bbf979617e954bd8d1a7d84491224e8a03e4d557e93f260e0edc3e74baf76dfc3fc767a750923f51e042567dda2824af5630b5774498503246ebc041a6dd9d5f1a5c8d0519fc95bfd71223573d5fc12760c50586a1ed4c53b8010b1c55df1b0e268e1c3c152498c37a641379bd3d763b1ada2cf5d009daf184837c49d778b23639757e72a8ed362d1ff00554b72131eb0e13e9b708a9fa2b54ccb7c921e5641bd02fcf68594d96951eb9438561219451b7a281b0f04aad5d8614036ac9314a665a48c71ac515f273057dce87238ec8c2651d1780400afc39adbf4e73b34cf7fd52ee74b7fba11649fc9d9/109/720x404_1513600/index.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="Plex",TED
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487/variant.m3u8?url=2242b63658960fb19f31a3c8a01fd6d1-74d6bc16da533e02941fb68e6df1ced09f4c636b8d056b3be9b074f35eabaa372511bbdf954add7b25f3268591b7607cc14fa3cc453ee9da768cb3ac06d40f11a64057e627aff4277b206696d25e0bb2b6a5a51c44f0e3bd7374d5cb49f181b1f00e702db4ffb7ecd05835206a4e8098b29cb7e0192f53e3ca9eefdd4d21f83468916f40652e0fe1788e8a25035fc8b28b89d1ab201dc8ed4f023dc977b0dc346b8590bb43defe5ea0c4ee423d27506badf17923086582e094764ee134e6250d&x-plex-token=SxW-Hivk7KS8Tpz7vyVy
+#EXTINF:-1 tvg-id="CNN.News" group-title="Plex",Yahoo Finance
+https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=56b0fb85-c70f-5369-9110-c2c52ca30856&dnt=0&X-Plex-Token=SxW-Hivk7KS8Tpz7vyVy&channelId=5f170f01b898490041b49dd1&uid=1ga68cm4u-omo3-bao-lwbf-mbynp4v4ke/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/720x404_1460800/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="freeintertv",CNN International
 http://1942468522.rsc.cdn77.org/lpr8QpZxCO1hdII8dAQ-IQ==,1660218054/1942468522/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",Fox News Live
@@ -26,8 +37,9 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=exp=1660297049~acl=%2f*~data=hdntl~hmac=27b27cfdedef6d8b1cb6bdf6f6eead2b3a372b19376c9b1495ae7a778014cf31/VIDEO_1_4596000.m3u8
 #EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",CNBC
 https://rtmp2.livenewsof.com:8443/live/smil:business1.smil/chunklist_w2141190146_b500000_sleng.m3u8
-#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",HBO Boxing
-http://iptv.prosto.tv:7000/ch118/tracks-v1a1/mono.m3u8?ip=114.218.225.21&id=0&live=1&e=1662802933&st=kt9sDI-xtq1NSnQLnkPR-w
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",Fox Business
+http://1329918864.rsc.cdn77.org/I4Mu_8O3qlc1r6cCAbPzUw==,1660216878/ls-54548-1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="ustvgo",ABC
 https://h1.ustvgo.la/ABC/myStream/chunks.m3u8?nimblesessionid=282342201&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDE6NDQ6MjQgUE0maGFzaF92YWx1ZT1HRjBiMmRSanVPcUxYOU9qbkpKY05BPT0mdmFsaWRtaW51dGVzPTI0MA==
@@ -70,6 +82,10 @@ https://h2.ustvgo.la/ESPNU/myStream/chunks.m3u8?nimblesessionid=254912884&wmsAut
 #EXTINF:-1 group-title="ustvgo",ESPNews
 https://h2.ustvgo.la/ESPNews/myStream/chunks.m3u8?nimblesessionid=254913459&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDI6NDk6NDQgUE0maGFzaF92YWx1ZT1Ha1lISEwxVTFjbloyanhZRmRCYk5nPT0mdmFsaWRtaW51dGVzPTI0MA==
 
+#EXTINF:-1 group-title="Free",Now新闻台
+https://ewcdnsite05.nowe.com/session/09-10542f8d78f65485445145b99c175/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Free",Now直播台
+https://ewcdnsite08.nowe.com/session/09-d2fbbd24932453e0cb862226d2348/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="Global",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
