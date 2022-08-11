@@ -1,5 +1,34 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="freeintertv",CNN International
+http://1942468522.rsc.cdn77.org/lpr8QpZxCO1hdII8dAQ-IQ==,1660218054/1942468522/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",Fox News Live
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",BBC One 720p
+https://uksono1-samsunguk.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",BBC One 1080p
+https://uksono1-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",BBC Two
+https://sparktv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",MSNBC
+https://rtmp2.livenewsof.com:8443/live/smil:fx1.smil/chunklist_w2053313390_b500000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",CNN USA Live
+http://1942468522.rsc.cdn77.org/lpr8QpZxCO1hdII8dAQ-IQ==,1660218054/1942468522/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",MSNBC Live
+https://rtmp2.livenewsof.com:8443/live/smil:fx1.smil/chunklist_w463668245_b500000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",CNBC Live
+https://rtmp2.livenewsof.com:8443/live/smil:business1.smil/chunklist_w1261349309_b500000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",CBS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",Sky Sports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",NBC
+https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=exp=1660297049~acl=%2f*~data=hdntl~hmac=27b27cfdedef6d8b1cb6bdf6f6eead2b3a372b19376c9b1495ae7a778014cf31/VIDEO_1_4596000.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",CNBC
+https://rtmp2.livenewsof.com:8443/live/smil:business1.smil/chunklist_w2141190146_b500000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNN.News" group-title="freeintertv",HBO Boxing
+http://iptv.prosto.tv:7000/ch118/tracks-v1a1/mono.m3u8?ip=114.218.225.21&id=0&live=1&e=1662802933&st=kt9sDI-xtq1NSnQLnkPR-w
+
 #EXTINF:-1 group-title="ustvgo",ABC
 https://h1.ustvgo.la/ABC/myStream/chunks.m3u8?nimblesessionid=282342201&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIyIDE6NDQ6MjQgUE0maGFzaF92YWx1ZT1HRjBiMmRSanVPcUxYOU9qbkpKY05BPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 group-title="ustvgo",AMC
