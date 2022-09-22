@@ -1,0 +1,815 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title>SAP Landscape Transformation Replication Server Note</title>
+  <script language="javascript">
+
+	function jump(){
+		URL = "https://launchpad.support.sap.com/#/notes/"+document.getElementById("note_id").value;
+		window.open(URL,"_blank")
+	}
+
+  </script>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2022.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000ff; -webkit-text-stroke: #0000ff}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none}
+    span.s3 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+  </style>
+</head>
+
+<body>
+<input type="text" id="note_id" name="note_id" />
+<input type="submit" value="Go" onclick="jump()"/><br />
+</body>
+
+<br /><br />
+
+<p class="p1"><span class="s1"></span><br></p>
+
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>SLT Admin Workshop - SLT Overview</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/">1691975 - HANA LTR - Clarification on DMIS releases<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1605140">1605140(General) - SAP HANA: Central Note - SAP LT Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1000711">1000711 - Overview: Notes on DMIS_CNT add-on<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1577442">1577442 - Installation and delta upgrade of DMIS_CNT 2011_1<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1231203">1231203 - Release strategy for SAP TDMS (add-on: DMIS, DMIS_CNT and so on)<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>SLT Admin Workshop - SLT Introduction</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1620618">1620618 - Delete Trigger<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2321324">2321324 - How to replicate tables with long names, similar names, or special characters - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2079660">2079660 - SLT (2011 SP06/SP07/SP08) - Non-SAP - Support for long table names<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2061415">2061415 - SLT Sizing analysis<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2420683">2420683 - SLT Sizing analysis - Correction for SP 08 - 12<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1597627">1597627 - SAP HANA connection<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2570394">2570394 - SLT (DMIS 2011) Information about using predelivered roles (e.g. SAP_IUUC_REPL_REMOTE) and release differences between remote and SLT system<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>SLT Admin Workshop - Replication to SAP HANA</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2082243">2082243 - Limitations/considerations for 1:N replication in SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2082199">2082199 - How to switch between 1:1 and 1:N replication in a SLT system?<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2389173">2389173 - What are R:C and R:R connections used for in SLT system?<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/46272">46272 - Introduction of new data class in technical settings (table space/data class)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2429228">2429228 - How To Change Replication Options For a Table Already in Replication From Real-Time to Schedule by Interval or Schedule by Time<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1972009">1972009 - How to create an SLT Configuration Step-by-Step<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1655725">1655725 - Check for DB trigger made less strict<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1749824">1749824 - Handling SLT triggers during transport<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2394986">2394986 - SAP Landscape Transformation Replication Server Data Type Mapping<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2082199">2082199 - How to switch between 1:1 and 1:N replication in a SLT system?<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2540300">2540300 - How to switch between Single Processing and Parallel Processing in SLT system, without having to reload the table<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2240646">2240646 - Performance impact on the connected source system when SLT is activated<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1558756">1558756 - Solution Manager 7.* - BI Monitoring: Prerequisites<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2081759">2081759 - Monitoring of SLT systems in Solution Manager using the System Monitoring application<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2529885">2529885 - How to define(redefine) load / replication object - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2319897">2319897 - SLT Replicating data from source tables without primary key on DB level using a secondary DB connection to the target system (target system table is accessed via DB Connection )<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2585327">2585327 - SLT Replicating data from source tables without primary key on DB level using RFC connection to SAP target systems (target system table is accessed via an rfc)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2629290">2430480 - How to replicate INDX-like tables with SAP LT Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2277919">2277919 - How to check data consistency in replication between ECC and HANA when using SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1933605">1933605 - DMIS - Support migration of the source / SLT / target system<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>SLT Admin Workshop - Replication to SAP BW</b></span></h4>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>SLT Admin Workshop - Replication to SAP Data Services</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1972175">1972175 - Operational data provisioning in conjunction with SAP Landscape Transformation (LT) Replication Server DMIS2011 SP06<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2120574">2120574 - Operational Data Provisioning with SAP LT Replication Server (SLT) &gt;= DMIS2011 SP8<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>SLT Admin Workshop - Replication to ABAP System</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1768805">1768805 - Collective Note - non-ABAP Source Systems<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2376535">2376535 - SAP LT Replication Server: Using SAP HANA DB as non-ABAP source system database(For information on authorization requirements for a non-ABAP source system, see SAP Note 2376535.)<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>SLT Admin Workshop - Replication to Non-SAP Databases</b></span></h4>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>SLT Admin Workshop - Replication to Central Finance</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2154420">2154420 - SAP LT Replication Server for SAP Central Finance<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2111634">2111634 - Enable sender systems for a Central Finance Scenario<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2148893">2148893(General CFIN) - Central Finance: Implementation and Configuration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2831035">2831035 - DMIS 2011 / DMIS 2018 / S/4HANA - Correction for Report DMC_UPLOAD_OBJECT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2531470">2531470 - SLT Replication f or Central Finance - Short dumps in target system after structure / function module change in target system(CX_SY_IMPORT_MISMATCH_ERROR)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2664332">2664332 - SLT Guide - Disabling Update / Delete Triggers in the Source System<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2154420">2154420(General SLT) - SAP LT Replication Server for SAP Central Finance<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2323494">2323494 - Overview of notes relevant for source system for CFIN scenario<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2279674">2279674 - Central Finance - Source system (4.6c and 5.0 )<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2462424">2462424 - SAP LT Replication Server for SAP Central Finance - Third-Pary System Integration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2223621">2223621 - Central Finance: Interface for Business Integration<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Data Intelligence - CA-DI-IS-ABA-CDC CA-DI-IS-ABA</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2890171">2890171 - SAP Data Intelligence - ABAP Integration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2981615">2981615 - SAP Data Intelligence ABAP Integration - Security Settings - nDMIS 2018 SP05<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2831756">2831756 - SAP Data Intelligence - ABAP Integration - Security Settings - DMIS 2018 SP04<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2835207">2835207 - ABAP connection type for SAP Data Intelligence<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3085579">3085579 - SAP Data Intelligence - ABAP Integration - SAP S/4HANA 2021<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2943599">2943599 - SAP Data Intelligence - ABAP Integration - SAP S/4HANA 2020<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2830276">2830276 - SAP Data Intelligence - ABAP Integration - SAP S/4HANA 1909<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3130854">3130854 - SAP Data Intelligence - ABAP Integration - DMIS 2018 SP07<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3130862">3130862 - SAP Data Intelligence - ABAP Integration - DMIS 2011 SP22<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3085541">3085541 - SAP Data Intelligence - ABAP Integration - DMIS 2018 SP06<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3095800">3095800 - SAP Data Intelligence - ABAP Integration - DMIS 2011 SP21<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2999893">2999893 - SAP Data Intelligence - ABAP Integration - DMIS 2011 SP20 / DMIS 2018 SP05<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2892183">2892183 - SAP Data Intelligence - ABAP Integration - DMIS 2011 SP19 / DMIS 2018 SP04<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2860331">2860331 - SAP Data Intelligence - ABAP Integration - DMIS 2011 SP18 / DMIS 2018 SP03<span class="Apple-converted-space"> </span></a></span></p>
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 18.0px Arial; color: #fb0007; -webkit-text-stroke: #fb0007"><span class="s1"><b>SLT Related Notes, Component CA-LT-SLT, HAN-DP-LTR</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/755977">755977 - ST12 "ABAP Trace for SAP EarlyWatch/GoingLive"<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2693555">2693555 - SAP Data Hub 2 and SAP Data Intelligence 3: Supported Remote Systems and Data Sources<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Central Notes, SLT Overview</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/925690">925690 - Standard Ordering Procedures for SAP Software<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1605140">1605140(General) - SAP HANA: Central Note - SAP LT Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/">1691975 - HANA LTR - Clarification on DMIS releases<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1646371">1646371 - HANA replication for 4.6C source systems<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1963522">1963522 - Limitation for SAP LT Replication Server on MaxDB<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2475034">2475034 - Migration Cockpit &amp; SLT on S/4 HANA On-Premise Edition 1709<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2707835">2707835 - SLT Licensing<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2153242">2153242 - Estimation of table sizes and downtime for SUM with downtime-optimized DMO<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2649539">2649539 - SLT Guides<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Non-SAP Source Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1768805">1768805 - Collective Note - non-ABAP Source Systems<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1771460">1771460 - SAP LT Replication Server: Using ORACLE as non-SAP source<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2376535">2376535 - SAP LT Replication Server: Using SAP HANA DB as non-ABAP source system database<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2823638">2823638 - SLT (DMIS 2011 / DMIS 2018 / S/4HANA) - Extended Support of S/4 HANA 1709 as SLT source system<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2377357">2377357 - SAP LT Replication Server: Using Sybase ASE as non-ABAP source system database<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1778971">1778971 - SAP LT Replication Server: Using MS SQL as non-SAP source<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1778880">1778880 - SAP LT Replication Server: Using DB6 as non-SAP source<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1778975">1778975 - SAP LT Replication Server: Using DB2 as non-SAP source<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1778969">1778969 - SAP LT Replication Server: Using MaxDB as non-SAP source<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2684480">2684480 - SAP LT Replication Server: Replicating NULL values from non-ABAP source to SAP HANA<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2616254">2616254 - How to replicate a table with special characters from a non-SAP source table - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2313506">2313506 - Error ORA-00932 in SLT when load/replicate table using Oracle DB as Non-SAP source system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2708178">2708178 - Cannot replicate data from a CHAR field longer than 1333 characters - SLT<span class="Apple-converted-space"> </span></a></span></p>
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0000ff; -webkit-text-stroke: #0000ff"><span class="s1"><b>Non-SAP Target Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2737003">2737003 - SAP Landscape Transformation Replication Server (SLT): Non ABAP-based Targets<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1751323">1751323 - Hana LTR : Non Sap Replication-Update DD02L and DD02T tables<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2376535">2376535 - SAP LT Replication Server: Using SAP HANA DB as non-ABAP source system database<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0000ff; -webkit-text-stroke: #0000ff"><span class="s1"><b>TDMS Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1231203">1231203 - Release strategy for SAP TDMS (add-on: DMIS, DMIS_CNT and so on)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1000711">1000711 - Overview: Notes on DMIS_CNT add-on<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Installation&amp;Upgrade&amp;Refresh Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2675613">2675613 - SLT (DMIS 2010 / DMIS 2011 / DMIS 2018 / DMIS 2020 / S/4HANA) Installation, Corrections and Release Information<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1231203">1231203 - Release strategy for SAP TDMS (add-on: DMIS, DMIS_CNT and so on) - TDMS<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1487845">1487845 - Release strategy for SAP LT (add-on: SHC_CONT, DMIS) - LT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2577774">2577774 - Version compatibility for source and target systems - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2755591">2755591 - SLT on DMIS and SLT on S/4 HANA - List of Release Information Notes<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2572945">2572945 - DMIS compatibility with S/4HANA<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/70228">70228 - Add-ons: Conditions and upgrade planning<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1000578">1000578 - Overview: Notes concerning the DMIS add-on<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/822380">822380 - Problems with add-on installation/upgrade in SAP NW 7.0x AS ABAP<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2203365">2203365 - Uninstalling DMIS 2011_1_7xx / DMIS 2018_1_752- Process and Prerequisites - updated<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2005472">2005472 - Downtime Optimized Database Migration Option of SUM<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2011192">2011192 - Uninstallation of ABAP add-ons<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1697641">1697641 - Support packages for DMIS 2011<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2954022">2954022 - Release strategy and Maintenance Information for the ABAP add-on DMIS 2020<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2669326">2669326 - Release strategy and Maintenance Information for the ABAP add-on DMIS 2018_1_752<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1577441">1577441 - Installation and delta upgrade of DMIS_2011_1<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1468391">1468391 - Installation and delta upgrade of DMIS_2010_1<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1577442">1577442 - Installation and delta upgrade of DMIS_CNT 2011_1<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1577503">1577503 - Upgrade to DMIS 2011_1 in the system switch upgrade<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2955884">2955884 - Migration Cockpit & SLT on S/4 HANA On-Premise Edition 2021<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2890888">2890888 - Migration Cockpit &amp; SLT on S/4 HANA On-Premise Edition 2020<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2817159">2817159 - Migration Cockpit & SLT on S/4 HANA On-Premise Edition 1909<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2594002">2594002 - Migration Cockpit & SLT on S/4 HANA On-Premise Edition 1809<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2475034">2475034 - Migration Cockpit & SLT on S/4 HANA On-Premise Edition 1709<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2376533">2376533 - Migration Cockpit & SLT on S/4 HANA On-Premise Edition 1610<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2965075">2965075 - Release Information SLT - DMIS 2020 (SAP LT Replication Server for SAP S/4HANA)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3130804">3130804 - Release Information SLT - DMIS 2018 SP07/2020 SP03<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3130833">3130833 - Release Information SLT - DMIS 2011 SP22<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3010969">3010969 - Release Information SLT - DMIS 2018 SP06/2020 SP02<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3010994">3010994 - Release Information SLT - DMIS 2011 SP21<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2955790">2955790 - Release Information SLT - DMIS 2018 SP05/2020 SP01<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2955839">2955839 - Release Information SLT - DMIS 2011 SP20<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2883752">2883752 - Release Information SLT - DMIS 2018 SP04/2020 SP00<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2890946">2890946 - Release Information SLT - DMIS 2011 SP19<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2874697">2874697 - Release Information SLT - DMIS 2018 SP03<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2883706">2883706 - Release Information SLT - DMIS 2011 SP18<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2815459">2815459 - Release Information SLT - DMIS 2018 SP02<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2815513">2815513 - Release Information SLT - DMIS 2011 SP17<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2705353">2705353 - Release Information SLT - DMIS 2011 SP16 and DMIS 2018 SP01<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2648409">2648409 - Installation/Upgrade SLT - DMIS 2011 SP15 and DMIS 2018 SP00<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2570052">2570052 - Installation/Upgrade SLT - DMIS 2011 SP14<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2446237">2446237 - Installation/Upgrade SLT - DMIS 2011 SP13<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2415064">2415064 - Installation/Upgrade SLT - DMIS 2011 SP12<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2325520">2325520 - Installation/Upgrade SLT - DMIS 2011 SP11<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2191214">2191214 - Release Information SLT - DMIS 2011 SP9 & SP10<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2114257">2114257 - Installation/Upgrade SLT - DMIS 2011 SP8<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1958809">1958809 - Installation/Upgrade SLT - DMIS 2011 SP6 / DMIS 2010 SP10<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1882433">1882433 - Installation/Upgrade SLT - DMIS 2011 SP5<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1824710">1824710 - Installation/Upgrade SLT - DMIS 2011 SP4 / 2010 SP9<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1759156">1759156 - Installation/Upgrade SLT - DMIS 2011 SP3 2010 SP8<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1648747">1648747 - DMIS 2011 / DMIS_CNT 2011 Generation errors during installation<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2808228">2808228 - Target HANA DB Version Compatiblity - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1648747">2127638 - Issues caused by incomplete customizing import during DMIS 2011 / DMIS_CNT 2011 Addon or related Support Package installations<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2836355">2836355 - DMIS 2018 SP02 and higher - Installation Issue - Tables DMC_HC_RESULT, DMC_HC_RUN and DMC_VM_VIEW_COBJ cannot be activated<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/517484">517484 - Inactive services in the Internet Communication Framework<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1778969">1778969 - SAP LT Replication Server: Using MaxDB as non-ABAP source<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1646371">1646371 - Trigger-based replication fails for 4.6C sender systems<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/517484">517484 - Inactive services in the Internet Communication Framework<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2203365">2203365 - Uninstalling DMIS 2011_1_7xx / DMIS 2018_1_752- Process and Prerequisites - updated<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/19466">19466 - Downloading SAP kernel patches<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1964239">1964239 - Phase CHECK_REQUIREMENTS: inactive runtime objects<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2482243">2482243 - Activating Dictionary objects during import of new software is blocked Exception of class CX_DDIC_ACTIVATION_CONTROL<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2187425">2187425 - Information about SAP Note Transport based Correction Instructions (TCI)<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1995550">1995550 - Enabling SNOTE for transport based correction instruction<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2408383">2408383 - TCI - Enabling System for SAP Note Transport-Based Correction Instruction (TCI) Rollback<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2543148">2543148 - Protocol cannot be switched to HTTPS; HTTPS is not configured active in Fiori Launchpad<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2032312">2032312 - Where to download the HANA Client? - Data Services 4.x<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2592920">2592920 - Is SLT replication of DD* tables required?<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2666299">2666299 - SLT - After DMIS SP level upgrade replication has stopped.<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2596411">2596411 - Note Analyzer for ABAP-based Migration and Replication Technology (DMIS2011/DMIS2018/DMIS2020/S/4HANA)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3016862">3016862 - Note Analyzers with separated scenarios for ABAP-based Migration and Replication Technology (DMIS2011/DMIS2018/DMIS2020/SAP S/4HANA) - This SAP Note 3016862 will gradually replacing 2596411 and the report DMC_NOTE_ANALYZER assigned to it.<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2794553">2794553 - Error: Central SAP Note Number not supplied for Note Analyzer - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2743680">2743680 - NOTE ANALYZER returns RFC target not supported - SAP Landscape Transformation replication server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2380824">2380824 - How to avoid errors when running an export of SLT system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2290203">2290203 - System Copy / Export stops because table/object does not exist<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2584573">2584573 - Problems during upgrade due to SLT tables not existing in the database<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2794635">2794635 - How to exchange SLT and avoid doing the initial load - SLT<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2236069">2236069 - SLT 2011 SP11 - Changes to How Source System Data Types are Mapped to ABAP Dictionary Data Types<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2566773">2566773 - What should be done with SLT prior to and after an upgrade? - SLT<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1749824">1749824 - Handling SLT triggers during transport<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Data Intelligence Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2866310">2866310 - SAP Data Intelligence 3.0 Release Note<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2871970">2871970 - Prerequisites for installing SAP Data Intelligence 3<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3092596">3092596 - SAP Data Intelligence 3.2 Release Note
+<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2988892">2988892 - SAP Data Intelligence 3.1 Release Note<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2807414">2807414 - Release Restrictions for SAP Data Intelligence 3.0<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3085579">3085579 - SAP Data Intelligence - ABAP Integration - SAP S/4HANA 2021<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2943599">2943599 - SAP Data Intelligence - ABAP Integration - SAP S/4HANA 2020<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3085541">3085541 - SAP Data Intelligence - ABAP Integration - DMIS 2018 SP06<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2999893">2999893 - SAP Data Intelligence - ABAP Integration - DMIS 2011 SP20 / DMIS 2018 SP05<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2892183">2892183 - SAP Data Intelligence - ABAP Integration - DMIS 2011 SP19 / DMIS 2018 SP04<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2860331">2860331 - SAP Data Intelligence - ABAP Integration - DMIS 2011 SP18 / DMIS 2018 SP03<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2814951">2814951 - SAP Data Intelligence - ABAP Integration - DMIS 2011 SP17 / DMIS 2018 SP02<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2981615">2981615 - SAP Data Intelligence ABAP Integration - Security Settings - For new DMIS<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2831756">2831756 - SAP Data Intelligence - ABAP Integration - Security Settings - For old DMIS<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Security Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2570394">2570394 - SLT (DMIS 2011) Information about using predelivered roles (e.g. SAP_IUUC_REPL_REMOTE) and release differences between remote and SLT system<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Sizing or configuration Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2061415">2061415 - SLT Sizing analysis<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2420683">2420683 - SLT Sizing analysis - Correction for SP 08 - 12<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1514966">1514966 - SAP HANA 1.0: Sizing SAP In-Memory Database<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1514966">1872170 - ABAP on HANA sizing report (S/4HANA, Suite on HANA...)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1793345">1793345 - Sizing for SAP Suite on HANA<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/799428">799428 - Downloading SAProuter and/or niping<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1897597">1897597 - SAProuter: Release rollout<span class="Apple-converted-space"> </span></a></span></p>
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>New CDC Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2864455">2864455 - Replication fails with "Calculation job in sender system could not be started" - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2190119">2190119 - Background information about SAP S/4HANA technical job repository<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3215770">3215770 - Background Job /LTB/JOB_DISPATCHER is scheduled with wrong user<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3084177">3084177 - Alternative Table Name field missing in LTRS -> Table Settings - SAP Landscape Transformation Replication Server (SLT)<span class="Apple-converted-space"> </span></a></span></p>
+
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Troubleshooting Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2615713">2615713 - Error: Cannot create logging table /1CADMC/XXX; table exists with different structure - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3117897">3117897 - Could not retrieve table <Table> definition after upgrade - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1922545">1922545 - How to create a perfect support incident for SAP Product Support - SAP ONE Support Launchpad<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2436955">2436955 - Step by step instructions on how to use ST12 trace for analysis<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2254415">2254415 - Source structure change(s) not moving over to HANA system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2606468">2606468 - What is the IUUC_REPL_ADJUST_TARGET_TABLE report? - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1771460">1771460 - SAP LT Replication Server: Using ORACLE as non-SAP source<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2130431">2130431 - 'Nesting depth of trigger and procedure is exceeded' error is raised when SQL trigger with procedure call is created<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1646371">1646371 - Trigger-based replication fails for 4.6C sender systems<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1919356">1919356 - Duplicate key error on System Landscape Transformation (SLT) system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1905253">1905253 - Duplicate key error on intial load(for new DMIS)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2627778">2627778 - Duplicate key error on replication(unique secondary index violations) - Run 0000000001 aborted due to DUPLICATE KEY - SAP Landscape Transformation Replication Server (SLT)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1743225">1743225 - HANA: Potential failure of connections with scale out nodes<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2144180">2144180 - Logging table or Synonym already exists when replication - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1892481">1892481 - Conflicting generated objects using DMIS-based Applications(adjust number range of objects)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2569280">2569280 - The number of generated logging tables exceeds limit - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2663197">2663197 - SLT (DMIS 2011 SP11-SP14) Adjust value of number range object IUUC_SHDW<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2696577">2696577 - SLT (DMIS 2011 SP11-SP15) Adjust value of number range object IUUC_TABID<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2982511">2982511 - SLT (DMIS 2011 SP11-SP15, DMIS 2018 SP00) Adjust value of number range object IUUC_TABID or IUUC_SHDW<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1919356">1919356 - During the initial load duplicate key error raised - SAP Landscape Transformation Replication Server (SLT)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2627482">2627482 - Error when reading from ABAP Dictionary for table /1LT/00000000XXX (RFC destination NONE) - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2180238">2180238 - DDIC Inconsistency Check [VIDEO]<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1248769">1248769 - Inconsistency between database and ABAP Dictionary<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2677718">2677718 - Cannot load table from database connection(Selection parameter determination for table "Table Name" failed)-SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2585327">2585327 - SLT Replicating data from source tables without primary key to SAP target systems<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2319897">2319897 - SLT Replicating data from tables without primary key on DB level using a secondary DB connection to the target system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2556348">2556348 - SLT Notifications not Working<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2376095">2376095 - SLT (DMIS 2011) SP11 Correction 16CW41 Central System<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2321324">2321324 - How to replicate tables with long names, similar names, or special characters - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2367559">2367559 - Archive: SLT - How to replicate a table with special characters<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2079660">2079660 - SLT (2011 SP06/SP07/SP08) - Non-SAP - Support for long table names<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2666128">2666128 - Target table template does not contain any key field - SAP Landscape Transformation Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2571182">2571182 - HOWTO: replicate non-abap source database views<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2254376">2254376 - SLT trigger(s) in an inconsistent state<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://ga.support.sap.com/dtp/viewer/index.html#/tree/2308/actions/30021">Check Guide SLT trigger(s) in an inconsistent state<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2641783">2641783 - DMC_MT_TABLES could not be locked - SAP Landscape Transformation Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2667602">2667602 - SLT (DMIS 2011) SP14 - Migration Object (Conversion Object) Name collision when using more than 99 tables with same name pattern<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2084316">2084316 - The migration object already exists when replication starts<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2544485">2544485 - Multiple master jobs are running ( master jobs are running) on SLT system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2544485">1828028 - DBCON connection to remote HANA database cannot be established<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2756142">2756142 - You are trying to load/replicate a table from a source view and, in addition, you need to maintain custom mapping using either IUUC_DB_COL_TYPE, IUUC_DB_COL_FLDS or IUUC_DB_COL_DTYP table. However, SLT Server is not using your custom mapping as desired.<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2152547">2152547 - SLT (2011 SP07/SP08) nonABAP DB2/DB6 replication: VARCHAR key fields with length &gt; 255<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2618111">2618111 - The application R/3-R/3 MIGRATION is locked for Workbench processing - SAP Landscape Transformation replication server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/198411">198411 - Current data and information about time zones<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2603328">2603328 - Negative Latency values in SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2668411">2668411 - Error when reading from ABAP Dictionary for table XXX (RFC destination XXX)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2558485">2558485 - Short Dump COMPUTE_INT_TIMES_OVERFLOW occurs - SAP Landscape Transformation replication server (SLT)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2829473">2829473 - Error TSV_TNEW_PAGE_ALLOC_FAILED in DMIS 2011 SP16 - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1740419">1740419 - Time synchronization of SAP system and time stamps(We found negative latency times in the system. This is because the source and SLT system are not synchronized in terms of OS time. Therefore, the latency measurements are not reliable.)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2575366">2575366 - SLT Proxy Table Check Error<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2575366">2792907 - SLT (DMIS 2011) SP14 Correction - Adjust proxy and target table during generation of RTO<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2575366">2597748 - SLT (DMIS 2011) Central System - Z-Program for Comparison of Sender Table, Proxy and Receiver Table<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2870720">2870720 - SLT Central System - "In Process"-flag is removed for tables during access plan calculation (DMIS 2018 SP02, S/4HANA 1909 FPS00)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2556348">2556348 - SLT Notifications not Working<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2684727">2376095 - SLT (DMIS 2011) SP11 Correction 16CW41 Central System(the job /1LT/IUC_HEALTH_C cannot be found in SM37)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2684727">2684727 - SLT job stuck after RFC connection issue<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2903899">2903899 - SLT (DMIS 2011 / DMIS 2018 / S4HANA) - Health Check aborts jobs due to timezone difference<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2905429">2905429 - SLT (DMIS 2011 / DMIS 2018) - Correction for: "Health Check aborts jobs due to timezone difference"<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1842497">Manually create the /1LT/ namespace 1842497 - SLT (2010 SP08 / 2011 SP03) - Correction 15<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2865574">2865574 - SLT (DMIS 2011 SP16 and DMIS 2018 SP01) Correction 19CW47 Central System(Insert HDB error with "Activate NULL Value Replication" configuration)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2367568">2367568 - SYNTAX_ERROR short dump when click Data Transfer Monitor(Syntax error in program "DMCGUI0)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2761769">2761769 - What to check if the inconsistency between source table and target table is found. - SAP Landscape Transformation replication server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2744987">2744987 - Display table information shows incorrect records - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2684727">2684727 - SLT job stuck in Active/Scheduled/Released, Master Job not reset at Midnight - SAP SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3000795">3000795 - Load jobs are not running, Master Job not reset at Midnight- SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1971486">1971486 - How to check and change SLT Load Job Status<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2735023">2735023 - Health check job is not running - SLT(2376095)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2581518">2581518 - Jobs in the Technical Job Repository (SJOBREPO)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2850664">2850664 - Display health check results log not showing up - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3155299">3155299 - What should be done for 1:N scenario if the trigger and logging table get lost?<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2953252">2953252 - How to use SLT Replication Logging to recover from lost data on the target DB<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3170281">3170281 - Creation of synonym error when replicating a table which has previously been replicated - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2577500">2577500 - S/4HANA OP 1610 FPS01 / FPS02 / FPS03 - SLT source system - Logtab update fails in source system - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2803364">2803364 - ASSERTION_FAILED in IUUC_CHECK_ALL_TRIGGERS_EXIST<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2316463">2316463 - * -10709: Connection failed (RTE:[89006] System call 'connect' failed, rc=111:Connection refused<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2213725">2213725 - How-To: Troubleshooting of -10709 errors<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2690475">2690475 - Register Configuration failed for Mass Transfer and Schema - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2579786">2579786 - SQL message: Transaction rolled back by an internal error: Search result size limit exceeded - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2657532">2657532 - Table disappears or stuck in scheduled status of LTRC (RS_ORDER and/or RS_STATUS table missing) - SAP Landscape Transformation Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2730071">2730071 - Table failing with error Create table /1LT/00000XXX - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2978831">2978831 - Unsupported data type DECFLOAT34 / D34N and SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2857334">2857334 - Unsupported Data Type DECFLOAT34 / D34N When Replicating from an SAP S/4HANA 1909 (or higher) On-Premise System<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2806958">2806958 - Calculation job in sender system could not be started - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2806958">2914114 - Calculation job in sender system could not be started - SLT<span class="Apple-converted-space"> </span></a></span></p>
+
+
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Performance Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1975822">1975822 - LT replication server: performance problems in case of multi-use scenario for Oracle DB<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/593058">593058 - New RFC load balancing procedure<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2366874">2366874 - How to reduce latency when replicating SLT tables<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2383809">2383809 - How to configure /SDF/MON for performance monitoring and analysis<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2540300">2540300 - How to switch between Single Processing and Parallel Processing in SLT system, without having to reload the table<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2477584">2477584 - How To Parallelize loading of Cluster tables - Parallel processing of cluster tables<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2399993">2399993 - FAQ: SAP HANA Fast Data Access (FDA)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2588895">2588895 - Many Unprocessed records in the logging table - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2581611">2581611 - How to configure filtering for replication - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2475034">2677423 - SLT (DMIS 2011 SP14-15 and DMIS 2018 SP00) Performance optimization for Health check<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2240646">2240646 - Performance impact on the connected source system when SLT is activated<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2329159">2329159 - Recommended number of data transfer jobs - SLT<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2735443">2735443 - How to check if a table is processing in parallel? - SAP Landscape Transformation Replication Server<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2581084">2581084 - How to improve the initial load - SLT<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2787589">2787589 - What steps are required when changing No. of Ranges? - SLT<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2588914">2588914 - Is it possible to assign multiple application servers to a specific MTID? - SLT Server Group<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2791930">2791930 - What is the difference between ranges and filters for SLT? - SAP Landscape Transformation Replication Server<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2748246">2748246 - How to apply filters in ODP replication scenario? - SAP Landscape Transformation Replication Server<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3005284">3005284 - What is the portion size option in LTRS? - SLT<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3233386">3233386 - SLT (DMIS 2011 / DMIS 2018 / S/4HANA) Central System: Performance improvement for access plan split<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Operation Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2738572">2738572 - What do the IUUC_PROCESSED values in the logging table mean? - SAP Landscape Transformation Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3008133">3008133 - How are records processed for a shared logging table in a 1:N based replication? - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3035351">3035351 - New data provisioning UI for S/4 2020 source - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1800901">1800901 - SLT: 500 Connection timed out after logging into WebDynpro via transaction LTR<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2314767">2314767 - Object cannot be created at database level due to missing entry on TAORA/TSORA/IAORA (table space/data class)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/46272">46272 - Introduction of new data class in technical settings (table space/data class)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1933605">1933605 - DMIS - Support migration of the source / SLT / target system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2561731">2561731 - Migration of SLT system, SLT source or SLT target system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2123494">2123494 - SLT - recreate logging tables<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2394986">2394986 - SAP Landscape Transformation Replication Server Data Type Mapping<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2236069">2236069 - SLT 2011 SP11 - Changes to How Source System Data Types are Mapped to ABAP Dictionary Data Types.<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1655725">1655725 - Check for DB trigger made less strict<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1749824">1749824 - Handling SLT triggers during transport<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1652039">1652039 - Archiving: Replicating archived data in SAP HANA<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2821492">2821492 - How to replicate archive objects - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2642081">2642081 - Can SLT replicate archive tables to a non-SAP target?<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3157533">3157533 - Archive Data not loaded to target system when using report IUUC_CREATE_ARCHIVE_OBJECT target?<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2631841">2631841 - SLT (2011 SP09) - Correction 63 (SP10 Correction 53), the migration object definition in report IUUC_CREATE_ARCHIVE_OBJECT fails with error "No header structure has been specified".<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2585153">2585153 - Error: Archive Delete Distinction is not supported by &amp;2 - SAP Landscape Transformation Replication Server (SLT)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3032108">3032108 - Is 1:N replication supported? - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2082199">2082199 - How to switch between 1:1 and 1:N replication in a SLT system?<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1597627">1597627 - SAP HANA connection<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/">1926374 - SLT Replication: Redefine existing DB Triggers - correction<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2776058">2776058 - How to regenerate the migration object for a table? - SAP Landscape Transformation Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2109952">2109952 - How to regenerate the runtime objects - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2529885">2529885 - How to define(redefine) load / replication object - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2636999">2636999 - What is the IUUC_REDEFINE_DB_TRIGGERS report, redefine the trigger for the table, without stopping the replication process for the table? - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2574628">2574628 - How to setup a N:1 replication - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2082243">2082243 - Limitations/considerations for 1:N replication in SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1892481">1892481 - Conflicting generated objects using DMIS-based Applications<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2947917">2947917 - Error: Sender: The migration object Z_XXX_XXX is not the owner of function group /1LT/XXX100000000000XXX
+<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2603957">2603957 - SLT (DMIS 2011) SP13/SP14 Allow multiple 1:1 Configurations From the Same Source<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2406890">2406890 - DDIC types derived from ODP only with DDIC structure<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/46272">46272 - Introduction of new data class in technical settings<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/455140">455140 - Configuration of e-mail, fax, paging/SMS via SMTP<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2684014">2684014 - How to configure and activate notifications for a configuration - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1976487">1976487 - Information about adjusting customer-specific programs to the simplified data model in SAP Simple Finance<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2666064">2666064 - S/4HANA 1709 FPS01 / FPS02 - SLT source system - Using DataProvisioning option "Create DB View" with S/4 as source system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2640259">2640259 - Is it possible to change the 'Read from single client' option? - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2330878">2330878 - How to create a template(rule) in SLT(测试下来，只支持RFC连接源的才起作用)<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2154870">2154870 - How-To: Understanding and defining SAP HANA Limitations<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2044468">2044468 - FAQ: SAP HANA Partitioning<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2528241">2528241 - How to partition table in SLT environment<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2209687">2209687 - SLT Source Table Has More Than 2 Billion Records<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2055599">2055599 - Table Structural Changes with SLT Activated<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2611338">2611338 - How does SLT collect replication statistics?<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2425073">2425073 - EarlyWatch Alert (EWA) for SAP LT Replication Server<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1856257">1856257 - SLT (2011 SP04/2010 SP09) - NON SAP - Custom type mapping<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1887742">1887742 - SLT (2010 SP08/2011 SP03) - NON SAP - Custom type mapping<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2704146">2704146 - How to delete data in DMC_INDXCL? - SAP Landscape Transformation replication server<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2281154">2281154 - Prevent Archive Deletion from Being Replicated to Target System<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1620618">1620618 - Delete Trigger<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2656652">2656652 - How to restrict SLT access to specific tables<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1880224">1880224 - Replication of archived data: TABLE_INVALID_INDEX<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2544694">2544694 - How to enable Replication Logging for tables in a configuration - SLT<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1659001">1659001 - SAP LT: Codepage Setup for System Landscape<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2617586">2617586 - How to transfer LTRS settings between SLT systems<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2534065">2534065 - What is the purpose of the SLT 'On Demand'? Option found in SLT configuration under Replication Options > On Demand?<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3099036">3099036 - Can we schedule initial load for SLT table - SAP Landscape Transformation Replication Server<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3203429">3203429 - "Line of code" field non-modifiable in LTRS - SLT<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/919458">919458 - Program 'BTC_EVENT_RAISE'(schedule the predecessor periodically, but not the successor)<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/4751">4751 - Job chains, job streams, jobs with successors<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>NZDT Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2620895">2620895 - NZDT - Composite SAP Note - DMIS 2010<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2620180">2620180 - NZDT - Composite SAP Note - DMIS 2011<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2715301">2715301 - NZDT - Composite SAP Note - DMIS 2018<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>S/4 HANA Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2000002">2000002 - FAQ: SAP HANA SQL Optimization<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2580573">2580573 - Can S/4 HANA be the source or target system of an SAP Landscape Transformation Replication Server? - SAP Landscape Transformation Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2817159">2817159 - Migration Cockpit &amp; SLT on S/4 HANA On-Premise Edition 1909<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2594002">2594002 - Migration Cockpit &amp; SLT on S/4 HANA On-Premise Edition 1809<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2475034">2475034 - Migration Cockpit &amp; SLT on S/4 HANA On-Premise Edition 1709<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2376533">2376533 - Migration Cockpit &amp; SLT on S/4 HANA On-Premise Edition 1610 Version 55 from 29.10.2018 in English<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2137351">2137351 - Error: 414 user is forced to change password for SAPDBCTRL<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1592925">1592925 - SAP HANA Studio service connection(ÓÐHANA¶Ë¿ÚµÄ½éÉÜ)<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2388694">2388694 - SAP HANA Multi-tenant Database Container port number selection<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2629852">2629852 - SLT (DMIS 2011) SP14 Replication of table with Redirect View(Compatibility view)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2681954">2681954 - S4HANA Compatibility/redirect Views and SLT support<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2112604">2112604 - FAQ: SAP HANA Compression<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1969700">1969700 - SQL Statement Collection for SAP HANA<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1872170">1872170 - ABAP on HANA sizing report (S/4HANA, Suite on HANA...)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2042333">2042333 - Deactivating the "Fast Data Access" optimization (FDA)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2991278">2991278 - Extracting Delta Data from CDS Views in SAP S/4HANA using Change Data Capture Annotation<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2884410">2884410 - CDS based data extraction: Delta capability<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2651589">2651589 - Issue replicating CDS View using SLT configuration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2825761">2825761 - How to secure the connection between SAP SLT and target HANA DB?<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3209615">3209615 - SLT - CDS View Extraction Integration (SAP_COM_0831)<span class="Apple-converted-space"> </span></a></span></p>
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>PSA Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1972533">1972533(General) - SAP LT replication for BW (PSA)<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>cFIN Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2154420">2154420(General SLT) - SAP LT Replication Server for SAP Central Finance<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2148893">2148893(General CFIN) - Central Finance: Implementation and Configuration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2184567">2184567 - Central Finance: Frequently Asked Questions (FAQ)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2223621">2223621 - Central Finance: Interface for Business Integration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2223801">2223801 - SLT - Central Finance: Interface for Business Integration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2244291">2244291 - SLT - Central Finance: Interface for Business Integration II<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2223808">2223808 - SLT remote - Central Finance: Interface for Business Integration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2234337">2234337 - Table Activation fails due to trigger for Central Finance Interface for Business Integration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2462424">2462424 - SAP LT Replication Server for SAP Central Finance - Third-Pary System Integration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2481900">2481900 - SAP LT Replication Server for Central Finance - Third-Party System Integration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2464583">2464583 - SAP S/4HANA 1610 FPS02: Configuration Guide: Third-Party System Interface to Central Finance<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2610660">2610660 - SAP LT Replication Server for Central Finance - Third-Party System Integration 1709, FPS 2 and 1809<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2323494">2323494 - Overview of notes relevant for source system for CFIN scenario<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3062966">3062966 - SAP LT Replication Server Content for SAP S/4HANA 2021 - Central Finance<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2976224">2976224 - SAP LT Replication Server Content for SAP S/4HANA 2020 - Central Finance<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3013315">3013315 - Central Finance: Installation and Configuration for Accounting View of Logistics Information (AVL)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2589652">2589652 - SLT (DMIS 2011) SP12 - 14 Enforce usage of content for CFIN replication(Check a table can only be added for initial load and / or replication if predefined content was assigned and marked as active for application CFIN or CFIN_PI)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1530212">1530212 - SAP Application Interface Framework FAQ<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2831035">2831035 - DMIS 2011 / DMIS 2018 / S/4HANA - Correction for Report DMC_UPLOAD_OBJECT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2297426">2297426 - Central Finance: Replicate of Cost Object Change and Initial Load Simulation<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2647022">2647022 - Central Finance (source) Accounting View - SLT Application Select<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2664332">2664332 - SLT Guide - Disabling Update / Delete Triggers in the Source System<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2775350">2775350 - How to delete existing database triggers using IUUC_REMOTE - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3006239">3006239 - How to delete existing logging tables using IUUC_REMOTE - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2476215">2476215 - How to Delete Logging Table From Source System<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2654277">2654277 - Records not being removed from logging table - SLT to delete<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2467080">2467080 - How to check if SLT logging tables are obsolete and OK to delete<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2111634">2111634 - Enable sender systems for a Central Finance Scenario<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2279674">2279674 - Central Finance - Source system (4.6c and 5.0 )<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2650247">2650247 - Central Finance - Documentation Corrections for Incorrect Product Names<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2269473">2269473 - Replicating Data Using Function Modules - Reset Transfer Status (Table-Based) DMC_FM_RESTART_COPY_DELETE<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2679070">2679070 - Central Finance: Starting or resuming SLT replication(provide the steps to avoid sequencing issues)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2494127">2494127 - SAP LT Replication Server for SAP Central Finance - VAT Configuration Check for Company Codes<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2531470">2531470 - SLT Replication for Central Finance - Short dumps in target system after structure / function module change in target system(CX_SY_IMPORT_MISMATCH_ERROR)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2575411">2575411 - CFIN-FM-FINS_CFIN_AC_DOC_GENERATE failed - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2623565">2623565 - SAP S/4HANA 1709 FPS01 - SLT central system¨C Correction for cFIN Scenario ¨C Database trigger missing for Table AUFK<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2103482">2103482 - Central Finance: Features of CO Secondary Posting Interface<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2180924">2180924 - Supported scenarios in cost object mapping framework<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2554827">2554827 - Technical objects for Central Finance: Commitment replication<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2291942">2291942 - Central Finance: AIF Bulk Processing<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2294799">2294799 - DDIC objects for SAP note 2291942<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2270180">2270180 - Central Finance: Collective Note for SPS5 Correction (Part I)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2196783">2196783 - Central Finance: Error handling with AIF<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2298936">2298936 - Central Finance: Error Handling in AIF for Simulation of Initial Load for CO Documents and Cost Objects<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2202650">2202650: Error handling for the replication of FI documents<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2202691">2202691: Error handling for the replication of CO documents and cost objects<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2147776">2147776: Error handling for the replication of FI document changes<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2752928">2752928 - SLT jobs causing duplicate entries in CFIN<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2205726">2205726 - SLT cFIN (DMIS 2011 SP08/SP09) - Synchronize Content<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2531470">2531470 - SLT Replication for Central Finance - Short dumps in target system after structure / function module change in target system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2224892">2224892 - Reset initial load for table cfin_co_add(Source System)<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>SDK Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2652704">2652704 - SLT Guide - SLT SDK (Replicating Data to Target Systems Using Custom Logic)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3006686">3006686 - What is the Write Data to Target using BAdI option? - SLT<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>ODP Related(BC-BW-ODP)</b></span></h4>
+<p class="p9"><span class="s1">CA-LTR-BW: SLT specific errors<span class="Apple-converted-space"> </span></span></p>
+<p class="p9"><span class="s1">BC-BW-ODP: ODP specific errors<span class="Apple-converted-space"> </span></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/517484">517484 - Inactive services in the Internet Communication Framework<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3206728">3206728 - Troubleshooting : SLT ODP Scenario<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1914764">1914764(General) - Operational Data Provisioning with SAP LT Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1848320">1848320 - Extraction from SLT via ODP<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1931427">1931427 - ODP Data Replication API 2.0<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2120574">2120574 - Operational Data Provisioning with SAP LT Replication Server (SLT) &gt;= DMIS2011 SP8<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2415220">2415220 - Status of invalid or confirmed ODP full request can still change to 'Extraction Failed'<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1972175">1972175 - Operational data provisioning in conjunction with SAP Landscape Transformation (LT) Replication Server DMIS2011 SP06<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2629290">2629290 - ODP/ODQ multiple entries for tables in table overview SAP Landscape Transformation Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2818586">2818586 - Cannot connect to ODP interface - SLT<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2855052">2855052 - Authorizations required for ODP Data Replication API 2.0<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3065074">3065074 - ODQMON: Inactive queue status<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3110574">3110574 - How to stop/start SLT replication in ODP scenario<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2235092">2235092 - ODQMON: Reading of queue descriptions is too slow<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3199692">3199692 - SLT (DMIS 2011 / DMIS2018) Central System: Poor performance when open ODQMON with big numbers of ODQ subscriptions<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3199694">3199694 - SLT (DMIS 2011 / DMIS 2018 / S/4HANA) Source & Central System: Poor performance when open ODQMON with big numbers of ODQ subscriptions<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3163617">3163617 - SLT (DMIS 2011 / DMIS 2018 / S/4HANA) Source & Central System: Proxy tables and synonyms not created in LTRC(due to control job stuck by deletion of DDSTORAGE)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2938941">2938941 - SLT Central System (DMIS 2018 SP03 / S/4HANA 1909 ): Proxy tables and synonyms not created in LTRC, deadlock on DDSTORAGE<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2502498">2502498 - Huge amount of data in ODQDATA table<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2166526">2166526 - Old requests in ODQMON despite successful ODQ_CLEANUP execution<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1735928">1735928 - ODQ: Improvements for Cleanup<span class="Apple-converted-space"> </span></a></span></p>
+
+
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>INDX-like table Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2384490">2384490 - How to replicate data from an INDX-like table to a target system using SAP Landscape Transformation replication server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2430480">2430480 - How to replicate INDX-like tables with SAP LT Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2730957">2730957 - How to specify filters for replication of INDX-like tables? - SAP Landscape Transformation Replication Server<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>VORA Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2647941">2647941 - SAP LT Replication Server: Using VORA as non-SAP target<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2478475">2478475 - DBCON entry for SQL connection to VORA<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1983389">1983389 - DBCON entry for SAP HANA<span class="Apple-converted-space"> </span></a></span></p>
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>DB2 Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1778975">1778975 - SAP LT Replication Server: Using DB2 as non-SAP source<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2604806">2604806 - SLT Configuration for DB2 on AS400 table(DB4)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1257635">1257635 - DB4: DBSL Direct Drive for DB2 for IBM i (DB2/400)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/663756">663756 - DB6: Multiconnect to DB2 for z/OS, DB2 for i or IDS databases<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1267189">1267189 - DBA Cockpit: DB2 for LUW as Remote Database<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/146624">146624 - IBM i: Database Multiconnect for IBM DB2 for i<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>Oracle Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1261329">1261329 - DBA Cockpit: Oracle as a remote database<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2122967">2122967 - How to identify Oracle Instant Client Version<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2470660">2470660 - Central Technical Note for Oracle Database 12c Release 2 (12.2)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/819829">819829 - Oracle Instant Client Installation and Configuration on Unix or Linux<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/740897">740897 - Info about the scope of the Oracle license; required Oracle options<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2212229">2212229 - Performance problem for a DELETE statement on SLT Logging tables where the SLT source system uses an Oracle Database<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2295541">2295541 - SLT replication: New report to improve performance of logging table access, by setting optimizer statistics, or setting tables to volatile<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1963285">1963285 - SLT: Adjust secondary indexes of logging tables in case of multi-use scenario and Oracle DB<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1166242">1166242 - 10g: "enq: HW contention" waits for LOB Inserts in ASSM TBS<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2313506">2313506 - Error ORA-00932 in SLT when load/replicate table using Oracle DB as Non-SAP source system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1490017">1490017 - ORA-29275: partial multibtye character error when extracting data using Data Services<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/606395">606395 - FAQ: Oracle Limitations<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1576837">1576837 - ORA-01017: invalid username/password<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1756668">1756668 - Hana LTR : NON SAP Oracle - reading type 5 with ROWID<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1771907">1771907 - HANA LTR (2010 SP07#27/2011 SP02#25) Load Parallelization<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2335014">2335014 - DBTABLOG | Reduce size<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2916912">2916912 - Failover for connecting SLT replication to Oracle target<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/825653">825653 - Oracle: Popular misconceptions<span class="Apple-converted-space"> </span></a></span></p>
+
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>Microsoft SQL Server Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/555223">555223 - FAQ: Microsoft SQL Server in NetWeaver based systems<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1177356">1177356 - MS SQL Server: End of Support for SAP Releases<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1966681">1966681 - Release planning for Microsoft SQL Server 2014<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1257635">1774329 - Preparing your SAP instance to connect to remote SQL server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1644499">1644499 - Database connectivity from Linux to SQL Server<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/178949">178949 - MSSQL: Database MultiConnect<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1928533">1928533 - SAP Applications on Azure: Supported Products and Azure VM types<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1966701">1966701 - Setting up Microsoft SQL Server 2014<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #fdb0c0; -webkit-text-stroke: #fdb0c0"><span class="s1"><b>DB2 Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1260217">1260217 - DB6: Software Components Contained in Db2 License from SAP<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>HANA Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1514967">1514967 - SAP HANA: Central Note<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2393013">2393013 - FAQ: SAP HANA Clients<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2378962">2378962 - SAP HANA 2.0 Revision and Maintenance Strategy<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2769719">2769719 - SAP HANA Client 2.0 Release and Maintenance policy<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2499500">2499500 - SAP HANA Client Supported Platforms<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1906576">1906576 - HANA client and server cross-version compatibility<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://help.sap.com/viewer/e7e79e15f5284474b965872bf0fa3d63/2.0.03/en-US">SAP HANA Client Installation and Update Guide<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2685023">2685023 - How to connect HANA using Linux ODBC<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1614438">1614438 - ABAP secondary DB connection to SAP HANA database<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2360328">2360328 - How to remote connect a tenant database<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1993251">1993251 - Collecting SQLDBC Trace<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2380257">2380257 - SAP HANA Platform 2.0 SPS 00 Release Note<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2404375">2404375 - SAP HANA Platform 2.0 SPS 01 Release Note<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2460914">2460914 - SAP HANA Platform 2.0 SPS 02 Release Note<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2551355">2551355 - SAP HANA Platform 2.0 SPS 03 Release Note<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1597627">1597627 - SAP HANA connection£¬set up a second database connection from your system to an SAP HANA system.<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1700052">1700052 - Secondary Connection to SAP HANA from non-Unicode System<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/79991">79991 - Multi-Language and Unicode support of SAP applications<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2399993">2399993 - FAQ: SAP HANA Fast Data Access (FDA)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2551245">2551245 - SAP HANA Fast Data Access (FDA): Bad performance RFAWVZ40<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1969700">1969700 - SQL Statement Collection for SAP HANA<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1999993">1999993 - How-To: Interpreting SAP HANA Mini Check Results<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2222200">2222200 - FAQ: SAP HANA Network<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2081473">2081473 - HANA Resident Memory : High Memory Usage<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2658020">2658020 - List of SAP HANA SQL Error Codes<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2142945">2142945 - FAQ: SAP HANA Hints<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1999880">1999880 - FAQ: SAP HANA System Replication<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1929772">1929772 - SQLDBC Error Codes for SAP HANA Database<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2946091">2946091 - SLT source system on SAP HANA - Deactivate Active Active Read<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2874749 ">2874749 - SLT - SAP HANA in SAP HANA Cloud Platform (SCP) as SLT Target (DBaaS / HANA Service / HANA Cloud)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2866418 ">2866418 - Connect SLT to HANA 2.0 on Cloud Foundry gives error Connection Failed<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #fdb0c0; -webkit-text-stroke: #fdb0c0"><span class="s1"><b>HANA Cloud Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2874749">2874749 - SLT - SAP HANA in SAP HANA Cloud Platform (SCP) as SLT Target (DBaaS / HANA Service / HANA Cloud)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/3163763">3163763 - The supportability of S/4HANA Cloud and SLT system<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2866418">2866418 - Connect SLT to HANA 2.0 on Cloud Foundry gives error Connection Failed<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #fdb0c0; -webkit-text-stroke: #fdb0c0"><span class="s1"><b>SDI Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2091095">2091095 - SAP HANA Smart Data Integration and SAP HANA Smart Data Quality<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2592166">2592166 - SDI and SLT replication Co-existance<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #fdb0c0; -webkit-text-stroke: #fdb0c0"><span class="s1"><b>BASIS Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2560709">2560709 - [WEBINAR] Understanding and Troubleshooting SAP Memory Management<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/789220">789220 - Support Package levels for SAP NetWeaver installations/upgrades<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/875986">875986 - Note Assistant: Important notes for SAP_BASIS up to 702<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1738258">1738258 - System Copy for Systems Based on SAP NetWeaver - Using Software Provisioning Manager 1.0<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/0000755977">33135 - Guide for OSS1<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1709155">1709155 - System Provisioning with SAP Landscape Virtualization Management<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://blogs.sap.com/2018/05/15/software-provisioning-manager-1.0-vs.-software-provisioning-manager-2.0/">Software Provisioning Manager 1.0 vs. Software Provisioning Manager 2.0<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1680045">1680045 - Release Note for Software Provisioning Manager 1.0 (recommended: SWPM 1.0 SP 24)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2568783">2568783 - Release Note for Software Provisioning Manager 2.0 (recommended: SWPM 2.0 SP 01)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2427814">2427814 - Minimal DB system requirements for NW 7.52<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2705203">2705203 - Stack Information Note for NW AS ABAP 7.52 SP03<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1984787">1984787 - SUSE LINUX Enterprise Server 12: Installation notes<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2235581">2235581 - SAP HANA: Supported Operating Systems<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2369910">2369910 - SAP Software on Linux: General information<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2388483">2388483 - How-To: Data Management for Technical Tables<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/16083">16083 - Standard jobs, reorganization jobs<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1944415">1944415 - Hardware Configuration Guide and Software Installation Guide for SUSE Linux Enterprise Server for SAP Business One, verison for SAP HANA<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1827566">1827566 - How to set environment variables for SAP system?<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2062508">2062508 - sapcontrol error "NIECONN_REFUSED (WSAECONNREFUSED: Connection refused)"<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2533003">2533003 - sapcontrol webmethods end with FAIL: NIECONN_REFUSED<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2541513">2541513 - Startup fails: libsapnwrfccm.so: cannot open shared object file<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2573790">2573790 - Installation, Support and Availability of the SAP NetWeaver RFC Library 7.50<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2573790">2573881 - SAP NetWeaver RFC SDK 7.50 -- Initial delivery<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2526565">2526565 - Download librfccm.so, libsapu16_mt.so, librfc.a libraries<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1025361">1025361 - Installation, Support and Availability of the SAP NetWeaver RFC Library 7.20<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2644862">2644862 - Central Note - Software Update Manager 2.0 SP04 [lmt_020]<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2294832">2294832 - User and password are repeatedly asked when starting SUM (SL Common UI)<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/584434">584434 - CO-OM tools: Special function SE16N<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/88416">88416 - Zero administration memory management for the ABAP server<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2631860">2631860 - [ZH WEBINAR] SAP ?????????<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1108662">1108662 - Missing authorization for SYST or RFCPING<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/39412">39412 - How many work processes should be configured?<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/8963">8963 - Definition of SAP response time/processing time/CPU time<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/209899">209899 - User buffer for authorization check<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/162991">162991 - Generation tools for ABAP programs<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1597355">1597355 - Swap-space recommendation for Linux<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2369910">2369910 - SAP Software on Linux: General information<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/936887">936887 - End of maintenance for Linux distributions<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1984787">1984787 - SUSE LINUX Enterprise Server 12: Installation notes<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/63347">63347 - List: CPIC error codes<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/26317">26317 - Set up for LOGON group for autom. load balancing<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1892354">1892354 - SAP Strategy for Cluster and Pool Tables<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/16083">16083 - Standard jobs, reorganization jobs<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/584434">584434 - CO-OM tools: Special function SE16N<span class="s3"><span class="Apple-converted-space"> </span></span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2913617">2913617 - SAP Readiness Check 2.0<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/371023">371023 - OS07/ST06: Monitoring operating system data<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/436186">436186 - Installing saposcol as a service<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/588668">588668 - FAQ: Database statistics.<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/403713">403713 - BRCONNECT: Parallel updating of statistics<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/548699">548699 - FAQ: OS collector SAPOSCOL<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1250278">1250278 - Low "Hit Ratio" for "Initial Records" buffer<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/63347">63347 - List: CPIC error codes<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2180736">2180736 - TSV_TNEW_PAGE_ALLOC_FAILED<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2169881">2169881 - How to trace background job using ST12<span class="Apple-converted-space"> </span></a></span></p>
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>NETWEAVER Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2501860">2501860 - Documentation for SAP NetWeaver Application Server for ABAP 7.52<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2524430">2524430 - SAP NetWeaver Application Server for ABAP 7.52: Release Information Note<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2505321">2505321 - Release Restrictions - SAP NetWeaver Application Server for ABAP 7.52<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2172935">2172935 - Installation - SAP Systems based on SAP NetWeaver : Oracle Database 7.52<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1984787">1984787 - SUSE LINUX Enterprise Server 12: Installation notes<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2699298">2699298 - SAP Support Package Stack Kernel 7.53 Patch Level 300<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/480692">480692 - SAP IGS support strategy, Internet Graphics Service (IGS)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1391070">1391070 - Linux UUID solutions<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/69455">69455 - Servicetools for Applications ST-A/PI (ST14, RTCCTOOL, ST12)<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2791203">2791203 - SCWN:819 Download of note <number> failed as user or cu<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #0f7001; -webkit-text-stroke: #0f7001"><span class="s1"><b>Gateway&Odata Related</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2323678">2323678 - SAP Gateway SAP_GWFND in SAP NetWeaver 7.50 SP04 for OData V4 Implementation - Collective note<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/2322624">2322624 - SAP Gateway SAP_GWFND OData V4 protocol - Known Constraints<span class="Apple-converted-space"> </span></a></span></p>
+
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Message</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://support.wdf.sap.corp/sap/support/message/002075129500002987992017&amp;saprole=ZCSSNEXTPROC">298799 / 2017 / SLT log tables in Source, 1:N view with selection filter transfer, data in logging table not removed as expected<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://support.wdf.sap.corp/sap/support/message/002075129500005241942018&amp;saprole=ZCSSNEXTPROC">524194 / 2018 / Notification not work / SAP Delivered Support<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://support.wdf.sap.corp/sap/support/message/002075129500004099332018&amp;saprole=ZCSSNEXTPROC">409933 / 2018 / Need more info on Compatibility/redirect View in SLT / SAP Delivered Support<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://support.wdf.sap.corp/sap/support/message/002075129500004235132018&amp;saprole=ZCSSNEXTPROC">423513 / 2018 / Showstopper for Go-Live - Real time Replication Documents missing / SAP Delivered Support<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>Good links</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://apps.support.sap.com/sap(bD1lbiZjPTAwMQ==)/support/pam/pam.html?smpsrv=https%3a%2f%2fwebsmp102.sap-ag.de#ts=3&amp;s=SAP%20LANDSCAPE%20TRANSFORMATION%20RE&amp;o=most_viewed%7Cdesc&amp;st=l&amp;rpp=20&amp;page=1&amp;pvnr=73554900100900003054&amp;pt=g%7Cr">SAP LT REPLICATION SERVER 3.0 Product Availability Matrix<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://blogs.sap.com/2014/02/25/how-to-filter-on-the-initial-load-parallelize-replication/">How To filter on the initial load &amp; parallelize replication DMIS 2011 SP06 or higher<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://blogs.sap.com/2013/10/04/how-to-enable-parallel-replication/">How to enable parallel replication before DMIS 2011 SP6<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://blogs.sap.com/2014/02/25/how-to-filter-on-the-initial-load-parallelize-replication/">How To filter on the initial load &amp; parallelize replication DMIS 2011 SP06 or higher<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://help.sap.com/saphelp_nw70/helpdata/en/af/73563c1e734f0fe10000000a114084/content.htm?no_cache=true">SMTP Configuration Guide<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://blogs.sap.com/2013/08/27/slt-email-notification/">SLT Email Notification<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://archive.sap.com/discussions/thread/3792477">SLT Replication vs SDI Smart Data Intergration<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://visualbi.com/blogs/business-intelligence/sdi-vs-bods-vs-slt-comparison-part-1/">BODS vs SLT vs SDI A Comparison [Part 1]<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p3"><span class="s2"><a href="https://help.sap.com/doc/abapdocu_752_index_htm/7.52/en-US/abenbuffer_synchro.htm">Table Buffering - Buffer Synchronization<span class="Apple-converted-space"> </span></a></span></p>
+
+</br>
+<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 14.0px Arial; color: #6b006d; -webkit-text-stroke: #6b006d"><span class="s1"><b>ABAP Development</b></span></h4>
+<p class="p3"><span class="s2"><a href="https://launchpad.support.sap.com/#/notes/1954169">1954169 - BWMT(ABAP Development Tools) - Installation details<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p9"><span class="s1">Component : Monitoring Solution : https://service.sap.com/sap/support/notes/1265134 (SAP Service marketplace login required) Key words : DBACOCKPIT, DBCON, DB2, SQLServer, SQL Server, SAP-DB, MaxDB, Oracle, SAP HANA, Informix, Windows, Linux, Unix, SAP Solution Manager solution manager, remote database, manager system, client software, database connection Related Notes : 1736373 SAP GV/EW Service for MDM/SRM-MDM: Technical Preparation 1664432 DBA Cockpit: SAP HANA database as remote database 1458291 SolMan 7.1 Database Warehouse &amp; Alerting for MSSQL 1453217 CCMS-based Monitoring for SAP Convergent Charging 1388700 SQL Server Remote Database Monitor in Solution Manager 400 1382952 DB2-z/OS:CCMS: DBA Cockpit: DB2 for z/OS as Remote Database 1357901 RCA: Managed System Setup for SAP BusinessObjects Enterprise 1267189 DBA Cockpit: DB2 for LUW as Remote Database 1261329 DBA Cockpit: Oracle as a remote database 1251022 SAP Remote Services for MDM: Technical preparation 1027512 MSSQL: DBA cockpit for basis release 7.00 and later 181989 Multiconnect on EXEC SQL Informix</span></p>
+
+
+·     SLT Replication Server (SLT) - any scenario:  CA-LT-SLT
+·     MWB-Projects / OSDB Migration: CA-LT-MIG
+·     Data Intelligence ABAP Integration: CA-DI-IS-ABA
+·     Subscription-based Change Data Capture Mechanism (CDS View Extraction): CA-DI-IS-ABA-CDC
+
+</html>

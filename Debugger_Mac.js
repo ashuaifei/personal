@@ -1,0 +1,1 @@
+session.sendCommand("/h");
