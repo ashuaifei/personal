@@ -29,6 +29,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Custom",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Custom",CBS News
+https://dai.google.com/linear/hls/pa/event/zcWPVCfURNSPxeidcckQLA/stream/dd57d9ac-cf4f-45e1-af40-540018aa4bab:MRN2/variant/99174a73d80602c69b9eed48af82ce91/bandwidth/3072938.m3u8
 #EXTINF:-1 group-title="Custom",BBC News
 http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 #EXTINF:-1 group-title="Custom",Discovery HD
