@@ -9,8 +9,8 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Custom",ESPN
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 group-title="Custom",爱尔达体育1
-http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1 group-title="Custom",FX
+https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Custom",爱尔达体育2
 http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 #EXTINF:-1 group-title="Custom",TNT
@@ -29,6 +29,15 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 #EXTINF:-1 group-title="Custom",Discovery HD
 http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+#EXTINF:-1 group-title="Custom",Animal Planet
+http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Custom",Cinemax
+http://170.254.18.106/CINEMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Custom",凤凰中文
+http://210.210.155.37/session/4049e222-0436-11ef-8575-aeb38bc31066/uq2663/h/h157/S4/mnf.m3u8
+http://210.210.155.37/session/5b70dd1c-0436-11ef-8670-86d38ec54721/uq2663/h/h157/S4/mnf.m3u8
+#EXTINF:-1 group-title="Custom",东森美国
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="Custom",东森电影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 group-title="Custom",东森综合
