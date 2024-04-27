@@ -9,6 +9,10 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Custom",ESPN
 http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 group-title="Custom",ESPN2
+http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Custom",Euro Sports
+http://54.39.17.6/eurosport/mono.m3u8
 #EXTINF:-1 group-title="Custom",FX
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Custom",爱尔达体育2
@@ -34,7 +38,10 @@ http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Custom",Cinemax
 http://170.254.18.106/CINEMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Custom",凤凰中文
+http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="Custom",凤凰中文2
 http://210.210.155.37/session/4049e222-0436-11ef-8575-aeb38bc31066/uq2663/h/h157/S4/mnf.m3u8
+#EXTINF:-1 group-title="Custom",凤凰中文3
 http://210.210.155.37/session/5b70dd1c-0436-11ef-8670-86d38ec54721/uq2663/h/h157/S4/mnf.m3u8
 #EXTINF:-1 group-title="Custom",东森美国
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
