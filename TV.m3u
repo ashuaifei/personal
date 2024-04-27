@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Custom",HBO Signature
-http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 group-title="Custom",HBO Signature 2
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 group-title="Custom",HBO HD
 http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 #EXTINF:-1 group-title="Custom",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 group-title="Custom",HBO Family
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Custom",ESPN
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 group-title="Custom",爱尔达体育1
