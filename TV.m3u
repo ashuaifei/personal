@@ -21,8 +21,12 @@ https://stream01.vnet.am/Fox/mono.m3u8
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 group-title="Custom",TNT-1
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Custom",CBS Philadelphia
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:-1 group-title="Custom",CNN
 http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1 group-title="Custom",CNN-1
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Custom",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 group-title="Custom",CNN US 2
@@ -37,8 +41,14 @@ https://dai.google.com/linear/hls/pa/event/zcWPVCfURNSPxeidcckQLA/stream/dd57d9a
 http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 #EXTINF:-1 group-title="Custom",Discovery HD
 http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+#EXTINF:-1 group-title="Custom",Discovery HD-1
+http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Custom",Animal Planet
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Custom",National Geographic Wild
+http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
+#EXTINF:-1 group-title="Custom",Wild
+http://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/national.geographic.wild.us.m3u8
 #EXTINF:-1 group-title="Custom",Cinemax
 http://170.254.18.106/CINEMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Custom",凤凰中文
