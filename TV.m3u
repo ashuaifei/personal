@@ -1,23 +1,25 @@
 #EXTM3U
+#EXTINF:-1 group-title="Custom",HBO Xtreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 group-title="Custom",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
-#EXTINF:-1 group-title="Custom",HBO HD
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+#EXTINF:-1 group-title="Custom",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 group-title="Custom",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 group-title="Custom",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Custom",ESPN
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 group-title="Custom",ESPN2
+#EXTINF:-1 group-title="Custom",ESPN-2
 http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Custom",Euro Sports
 http://54.39.17.6/eurosport/mono.m3u8
 #EXTINF:-1 group-title="Custom",FX
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 group-title="Custom",爱尔达体育2
-http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 #EXTINF:-1 group-title="Custom",TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 group-title="Custom",TNT-1
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Custom",CNN
 http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
@@ -69,6 +71,12 @@ http://198.16.100.90:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&ts
 http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 #EXTINF:-1 group-title="Custom",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="Custom",CCTV 3
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41139/index.m3u8
+#EXTINF:-1 group-title="Custom",CCTV 13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+
+
 
 #EXTINF:-1 group-title="Plex",USA Today
 https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/cb543d1e786c648a98d43e62d0ef47a4f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7f2a95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5b31e1cc77944e1875fc8dd1ab89dd55acb179b7ef146cc8ff98981178ad3c760fc05b332532c48178c934683db54a0db99704bfa1b4c175318abf9c294293d82540d58f1fbb9f90fbb46988b7587626fee4d9b18d436c73ef95ffeac17f1fceb9241133af196586074f0bdf5dca15b59da67ffb1a7d97d68eb957e19179315b24c2a3c83b3de07bbd3079fa02286ad1b7b52a4c008d6d0e8c985c08c4e8f6bf28ac494385a03570b098353d0ec07af1ac54fe5e61a37571a6f9ec261d49c8e48295456dccb34b9121faa95888bde0035cf6c325e9a1ab323533cc8323f79b475acce6d3ddd755ad5673ba85a6dd612ab8a289fd4b33e8729cfbcf465bd06dcbc04d5f712a67f392b6dd9900d6c3587f94d8c1c69116aca449ebca23df61b7285c4c4f0c75228082b121868e180b628c9cba8a17a67123f37ac9fab83c97d50361bbf979617e954bd8d1a7d84491224e8a03e4d557e93f260e0edc3e74baf76dfc3fc767a750923f51e042567dda2824af5630b5774498503246ebc041a6dd9d5f1a5c8d0519fc95bfd71223573d5fc12760c50586a1ed4c53b8010b1c55df1b0e268e1c3c152498c37a641379bd3d763b1ada2cf5d009daf184837c49d778b23639757e72a8ed362d1ff00554b72131eb0e13e9b708a9fa2b54ccb7c921e5641bd02fcf68594d96951eb9438561219451b7a281b0f04aad5d8614036ac9314a665a48c71ac515f273057dce87238ec8c2651d1780400afc39adbf4e73b34cf7fd52ee74b7fba11649fc9d9/109/720x404_1513600/index.m3u8
