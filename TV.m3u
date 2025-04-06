@@ -7,8 +7,6 @@ http://41.205.93.154/ESPN/index.m3u8
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="Custom",AXN Sports
 http://50.7.234.10:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
-#EXTINF:-1 group-title="Custom",Euro Sports
-http://54.39.17.6/eurosport/mono.m3u8
 #EXTINF:-1 group-title="Custom",Star Movie
 http://50.7.234.10:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
 #EXTINF:-1 group-title="Custom",Bloomberg
