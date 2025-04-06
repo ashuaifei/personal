@@ -44,7 +44,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 http://122.117.71.103:8517/http/220.130.87.218:8081/hls/68/810/ch032.m3u8
 #EXTINF:-1 group-title="Custom",纬来电影
 http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
-#EXTINF:-1 group-title="Custom",AXN
+#EXTINF:-1 group-title="Custom",AXN台湾
 http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 #EXTINF:-1 group-title="Custom",TVBS
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
