@@ -31,7 +31,9 @@ http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 
 
 #EXTINF:-1 group-title="China",CCTV5
-http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
+http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 group-title="China",CCTV5-2
 https://cdn16.163189.xyz/163189/cctv5
+
+
 
