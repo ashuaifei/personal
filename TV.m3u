@@ -38,7 +38,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #EXTINF:-1 group-title="US",CNBC
 http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 group-title="US",Fox
-https://proxied.magicplay.biz/footabll_qatarvsswitzerland/index.m3u8?DVR&token=c974d51038c7f66bf30c9bac4adeaf0d9c660417-2e22beb8b1586194451ea2bb782665b1-1781390589-1781379789
+https://proxied.magicplay.biz/footabll_qatarvsswitzerland/tracks-v1a1/mono.m3u8?DVR&token=a50d4dccf730a6bd6b667e797d04b4c58357627a-e97192e38c5709e333243b60980d9328-1781393137-1781382337
 #EXTINF:-1 group-title="US",NBC
 https://proxied.magicplay.biz/769/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",NBC NewYork
