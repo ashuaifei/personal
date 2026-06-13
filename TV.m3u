@@ -39,8 +39,6 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 group-title="US",Fox
 https://proxied.magicplay.biz/footabll_qatarvsswitzerland/index.m3u8?DVR&token=c974d51038c7f66bf30c9bac4adeaf0d9c660417-2e22beb8b1586194451ea2bb782665b1-1781390589-1781379789
-#EXTINF:-1 group-title="US",Fox-2
-https://rb2.stream-unlimited.digital/1024577/tracks-v1a1/mono.m3u8?DVR&token=d0e10479aee8e4b9b9ca4ed94f363942c5e4fa51-6e3fb5200d037af665c75cf7f0af5fb0-1781391019-1781380219
 #EXTINF:-1 group-title="US",NBC
 https://proxied.magicplay.biz/769/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",NBC NewYork
@@ -63,7 +61,6 @@ https://proxied.magicplay.biz/338/index.m3u8?DVR&token=0ee132051f66da09988075166
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="US",CN
 https://proxied.magicplay.biz/339/index.m3u8?DVR&token=091a3d4375991c6acd6e687c74c8623f1c6ac1c4-04992f0e6cfbfe3af23330487cbcbe70-1781390260-1781379460
-
 #EXTINF:-1 group-title="Taiwan",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="Taiwan",民视新闻
