@@ -1,14 +1,44 @@
 #EXTM3U
 #EXTINF:-1 group-title="US",ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 group-title="US",Fox Sports
+#EXTINF:-1 group-title="US",ESPN-2
+https://proxied.magicplay.biz/44/index.m3u8?DVR&token=3a72ae5bbdb42bb35350b62333ed9940a8072148-36c5c34c6189f75639078572c76ecd88-1781388838-1781378038
+#EXTINF:-1 group-title="US",ESPN 2
+https://proxied.magicplay.biz/45/index.m3u8?DVR&token=6767e4ba48e4dc5adb2e87cd07f3e7a2dbe82dca-bce2ac5249a4603ef8b6d76b42179307-1781388940-1781378140
+#EXTINF:-1 group-title="US",Fox Sports 1
 https://rb2.stream-unlimited.digital/1024577/tracks-v1a1/mono.m3u8?DVR&token=06f813350a5ebcd076a1a5549ac7290c0eb84054-7842baef0dae05870f4dad9c51e80e80-1781242053-1781231253
+#EXTINF:-1 group-title="US",Fox Sports 1-2
+https://proxied.magicplay.biz/1024577/index.m3u8?DVR&token=396289dbf2057f6bf60d8c8c231f5e267cd8c8cd-901187e75e1051aa6912b51a45f4e6c2-1781390133-1781379333
+#EXTINF:-1 group-title="US",TNT Sports
+https://proxied.magicplay.biz/31/index.m3u8?DVR&token=340c8645265ce459643ecc6993c8bda55be1b9fb-fa04a07171e3c023dfc056d5d87599dc-1781389551-1781378751
+#EXTINF:-1 group-title="US",TNT Sports 2
+https://proxied.magicplay.biz/32/index.m3u8?DVR&token=6063e188aa61a325b8c282b6b969a86b43e32fba-a6a95687be16f1c522df16fe81ce4ce6-1781389402-1781378602
 #EXTINF:-1 group-title="US",TSN Sports
 https://proxied.magicplay.biz/1151608/index.m3u8?DVR&token=6bfe78ce04661964a8b52ba5623f33996af11f92-088162e5d34a4523cf053d7ee0a91c9f-1781323380-1781312580
+#EXTINF:-1 group-title="US",CBS Sports
+https://proxied.magicplay.biz/308/index.m3u8?DVR&token=7cb48d9b88394c34d57de991e3db1225d44ec8d8-a61dc54de62a7c8dde12872245418d48-1781390207-1781379407
+#EXTINF:-1 group-title="US",Sky Sports Soccer
+https://proxied.magicplay.biz/56/index.m3u8?DVR&token=d30e1daf58f1d0a0b2999a5e143ad19b634e4999-1c688dcc19f1c243e0f37e2af6be82ea-1781389921-1781379121
+#EXTINF:-1 group-title="US",Sky Sports Tennis
+https://proxied.magicplay.biz/2265216/index.m3u8?DVR&token=71515cc2156c53a4569d19cc1ad9c4fd43806fa0-af725a1bef0193297916dfb5e94cc561-1781389615-1781378815
+#EXTINF:-1 group-title="US",Sky Sports Main Event
+https://proxied.magicplay.biz/1013181/index.m3u8?DVR&token=5006ba731185f8f76418495cfae758189dbe6d19-dee02b3a4c15267558d3945341a62408-1781389690-1781378890
+#EXTINF:-1 group-title="US",Sky Sports F1
+https://proxied.magicplay.biz/1013179/index.m3u8?DVR&token=d061d80569815f1243de7ff964ae20ff01c4ef4d-1ec50f28e46c7ef3cccbab91656f6837-1781390022-1781379222
+#EXTINF:-1 group-title="US",NBA
+https://proxied.magicplay.biz/404/index.m3u8?DVR&token=128a2893a3ac3ffc44c0d467c8ef8fa023d94499-f1d06ffde600d3539a1221ae20166c60-1781389149-1781378349
+#EXTINF:-1 group-title="US",NFL
+https://proxied.magicplay.biz/1009186/index.m3u8?DVR&token=0f521fed537d84f0e9a11ac165aedaa4372c1930-e824d65f1e475276d0ec38d06c8cbcd3-1781389193-1781378393
+#EXTINF:-1 group-title="US",MLB
+https://proxied.magicplay.biz/399/tracks-v1a1/mono.m3u8?DVR&token=191308e0684635c50306ad2798c164e1294f8db9-4641ab3df54f2fced6a14130b31bc4bb-1781389225-1781378425
+#EXTINF:-1 group-title="US",USA
+https://proxied.magicplay.biz/1042839/index.m3u8?DVR&token=71a150b9d377519350124b29bdbb4bf54bb92d2a-cec4d92841fa54401c39b2a3e0f77ced-1781389096-1781378296
 #EXTINF:-1 group-title="US",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="US",CNBC
 http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:-1 group-title="US",NBC
+https://proxied.magicplay.biz/769/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",NBC NewYork
 http://38.96.178.201/live/NBCHD/index.m3u8
 #EXTINF:-1 group-title="US",Fox News
@@ -17,12 +47,18 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:-1 group-title="US",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="US",ABC
+https://proxied.magicplay.biz/51/index.m3u8?DVR&token=e7c9917f205ba5c95995dc41043aabc255827d46-25ce0b2214e146d43bab0ff5077df889-1781390304-1781379504
 #EXTINF:-1 group-title="US",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="US",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="US",TNT-2
+https://proxied.magicplay.biz/338/index.m3u8?DVR&token=0ee132051f66da09988075166605288e885b0e4b-e04e292d50ce5b255b51d719bdbdab43-1781389345-1781378545
 #EXTINF:-1 group-title="US",Animal Planet
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="US",CN
+https://proxied.magicplay.biz/339/index.m3u8?DVR&token=091a3d4375991c6acd6e687c74c8623f1c6ac1c4-04992f0e6cfbfe3af23330487cbcbe70-1781390260-1781379460
 
 #EXTINF:-1 group-title="Taiwan",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
