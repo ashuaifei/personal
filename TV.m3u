@@ -37,8 +37,6 @@ https://proxied.magicplay.biz/2265216/index.m3u8?DVR&token=71515cc2156c53a4569d1
 https://proxied.magicplay.biz/1013181/index.m3u8?DVR&token=5006ba731185f8f76418495cfae758189dbe6d19-dee02b3a4c15267558d3945341a62408-1781389690-1781378890
 #EXTINF:-1 group-title="US",Sky Sports F1
 https://proxied.magicplay.biz/1013179/index.m3u8?DVR&token=d061d80569815f1243de7ff964ae20ff01c4ef4d-1ec50f28e46c7ef3cccbab91656f6837-1781390022-1781379222
-#EXTINF:-1 group-title="US",ABC Sports
-https://proxied.magicplay.biz/766/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",ABC 7
 https://proxied.magicplay.biz/765/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",NBA
@@ -61,8 +59,6 @@ http://41.205.93.154/CNBC/index.m3u8
 https://proxied.magicplay.biz/footabll_qatarvsswitzerland/index.m3u8?DVR&token=c974d51038c7f66bf30c9bac4adeaf0d9c660417-2e22beb8b1586194451ea2bb782665b1-1781390589-1781379789
 #EXTINF:-1 group-title="US",Fox 5
 https://proxied.magicplay.biz/768/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
-#EXTINF:-1 group-title="US",NBC
-https://proxied.magicplay.biz/769/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",NBC NewYork
 https://proxied.magicplay.biz/769/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",Fox News
