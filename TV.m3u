@@ -23,8 +23,12 @@ https://proxied.magicplay.biz/32/index.m3u8?DVR&token=6063e188aa61a325b8c282b6b9
 https://proxied.magicplay.biz/1151608/tracks-v1a1/mono.m3u8?DVR&token=e2cb27c8588e1e17b6555fcb02b675387dd47caf-f18f34c8e8416a2957556b406ef3d03b-1781392792-1781381992
 #EXTINF:-1 group-title="US",CBS Sports
 https://proxied.magicplay.biz/308/index.m3u8?DVR&token=7cb48d9b88394c34d57de991e3db1225d44ec8d8-a61dc54de62a7c8dde12872245418d48-1781390207-1781379407
+#EXTINF:-1 group-title="US",NBC Sports Philidelphia
+https://proxied.magicplay.biz/777/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",NBC Sports Boston
 https://proxied.magicplay.biz/754/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
+#EXTINF:-1 group-title="US",NBC Sports Chicago
+https://proxied.magicplay.biz/53/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",Sky Sports Soccer
 https://proxied.magicplay.biz/56/index.m3u8?DVR&token=d30e1daf58f1d0a0b2999a5e143ad19b634e4999-1c688dcc19f1c243e0f37e2af6be82ea-1781389921-1781379121
 #EXTINF:-1 group-title="US",Sky Sports Tennis
@@ -47,6 +51,8 @@ https://proxied.magicplay.biz/399/tracks-v1a1/mono.m3u8?DVR&token=191308e0684635
 https://proxied.magicplay.biz/1042839/index.m3u8?DVR&token=71a150b9d377519350124b29bdbb4bf54bb92d2a-cec4d92841fa54401c39b2a3e0f77ced-1781389096-1781378296
 #EXTINF:-1 group-title="US",CBS
 https://proxied.magicplay.biz/767/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
+#EXTINF:-1 group-title="US",CBS 2
+https://proxied.magicplay.biz/767/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="US",CNBC
@@ -58,7 +64,7 @@ https://proxied.magicplay.biz/768/index.m3u8?DVR&token=f6da9628f0f4d14e5ca801012
 #EXTINF:-1 group-title="US",NBC
 https://proxied.magicplay.biz/769/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",NBC NewYork
-http://38.96.178.201/live/NBCHD/index.m3u8
+https://proxied.magicplay.biz/769/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="US",CBS Philadelphia
@@ -77,6 +83,10 @@ https://proxied.magicplay.biz/338/index.m3u8?DVR&token=0ee132051f66da09988075166
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="US",CN
 https://proxied.magicplay.biz/339/index.m3u8?DVR&token=091a3d4375991c6acd6e687c74c8623f1c6ac1c4-04992f0e6cfbfe3af23330487cbcbe70-1781390260-1781379460
+#EXTINF:-1 group-title="US",ION
+https://proxied.magicplay.biz/325/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
+
+
 #EXTINF:-1 group-title="Taiwan",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="Taiwan",民视新闻
