@@ -9,6 +9,8 @@ https://proxied.magicplay.biz/45/index.m3u8?DVR&token=6767e4ba48e4dc5adb2e87cd07
 https://proxied.magicplay.biz/761/index.m3u8?DVR&token=f6da9628f0f4d14e5ca8010129532a7fa1416305-7dfe8c662c8b50bbcb76b5f0e7368dda-1781390072-1781379272
 #EXTINF:-1 group-title="US",Fox Sports
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.m3u8
+#EXTINF:-1 group-title="US",Fox Deportes
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="US",Fox Sports 1
 https://rb2.stream-unlimited.digital/1024577/tracks-v1a1/mono.m3u8?DVR&token=06f813350a5ebcd076a1a5549ac7290c0eb84054-7842baef0dae05870f4dad9c51e80e80-1781242053-1781231253
 #EXTINF:-1 group-title="US",Fox Sports 1-2
