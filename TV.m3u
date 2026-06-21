@@ -307,3 +307,710 @@ http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1 tvg-id="US2900017P2" tvg-name="UFC" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/ufc/channels/ufc-domestic400x200.png" group-title="国际",UFC
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
 
+
+#EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV-1综合
+http://207.56.13.146:81/cdnlive/cctv1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2财经
+http://207.56.13.146:81/cdnlive/cctv2.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺
+http://207.56.13.146:81/cdnlive/cctv3.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4中文国际
+http://207.56.13.146:81/cdnlive/cctv4.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5体育
+http://207.56.13.146:81/cdnlive/cctv5.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6电影
+http://207.56.13.146:81/cdnlive/cctv6.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7国防军事
+http://207.56.13.146:81/cdnlive/cctv7.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧
+http://207.56.13.146:81/cdnlive/cctv8.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9纪录
+http://207.56.13.146:81/cdnlive/cctv9.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10科教
+http://207.56.13.146:81/cdnlive/cctv10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
+http://207.56.13.146:81/cdnlive/cctv11.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法
+http://207.56.13.146:81/cdnlive/cctv12.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻
+http://207.56.13.146:81/cdnlive/cctv13.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14少儿
+http://207.56.13.146:81/cdnlive/cctv14.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15音乐
+http://207.56.13.146:81/cdnlive/cctv15.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16奥林匹克
+http://207.56.13.146:81/cdnlive/cctv16.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17农业农村
+http://207.56.13.146:81/cdnlive/cctv17.m3u8
+#EXTINF:-1 group-title="央视频道",体育赛事
+http://207.56.13.146:81/cdnlive/cctv5p.m3u8
+#EXTINF:-1 group-title="央视频道",兵器科技
+http://207.56.13.146:81/cdnlive/gfjs.m3u8
+#EXTINF:-1 group-title="央视频道",女性时尚
+http://207.56.13.146:81/cdnlive/nxss.m3u8
+#EXTINF:-1 group-title="央视频道",世界地理
+http://207.56.13.146:81/cdnlive/sjdl.m3u8
+#EXTINF:-1 group-title="央视频道",卫生健康
+http://207.56.13.146:81/cdnlive/wsjk.m3u8
+#EXTINF:-1 group-title="央视频道",文化精品
+http://207.56.13.146:81/cdnlive/ysjp.m3u8
+#EXTINF:-1 group-title="央视频道",第一剧场
+http://207.56.13.146:81/cdnlive/dyjc.m3u8
+#EXTINF:-1 group-title="央视频道",怀旧剧场
+http://207.56.13.146:81/cdnlive/hjjc.m3u8
+#EXTINF:-1 group-title="央视频道",风云剧场
+http://207.56.13.146:81/cdnlive/fyjc.m3u8
+#EXTINF:-1 group-title="央视频道",风云足球
+http://207.56.13.146:81/cdnlive/fyzq.m3u8
+#EXTINF:-1 group-title="央视频道",风云音乐
+http://207.56.13.146:81/cdnlive/fyyy.m3u8
+#EXTINF:-1 group-title="央视频道",央视台球
+http://207.56.13.146:81/cdnlive/ystq.m3u8
+#EXTINF:-1 group-title="央视频道",高尔夫网球
+http://207.56.13.146:81/cdnlive/gefwq.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN英语
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN纪录
+http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN西语
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN法语
+http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN俄语
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN阿语
+http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://207.56.13.146:81/cdnlive/ahws.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://207.56.13.146:81/cdnlive/bjws.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://207.56.13.146:81/cdnlive/dfws.m3u8
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://207.56.13.146:81/cdnlive/dnws.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://207.56.13.146:81/cdnlive/gdws.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://207.56.13.146:81/cdnlive/hnws.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://207.56.13.146:81/cdnlive/jsws.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://207.56.13.146:81/cdnlive/jxws.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://207.56.13.146:81/cdnlive/lnws.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://207.56.13.146:81/cdnlive/sdws.m3u8
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://207.56.13.146:81/cdnlive/szws.m3u8
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://207.56.13.146:81/cdnlive/tjws.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://207.56.13.146:81/cdnlive/zjws.m3u8
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://207.56.13.146:81/cdnlive/xzws.m3u8
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://207.56.13.146:81/cdnlive/xjws.m3u8
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://207.56.13.146:81/cdnlive/nmgws.m3u8
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://207.56.13.146:81/cdnlive/gsws.m3u8
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://207.56.13.146:81/cdnlive/hews.m3u8
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://207.56.13.146:81/cdnlive/scws.m3u8
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://207.56.13.146:81/cdnlive/snws.m3u8
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://207.56.13.146:81/cdnlive/ynws.m3u8
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://207.56.13.146:81/cdnlive/gxws.m3u8
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://207.56.13.146:81/cdnlive/cqws.m3u8
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://207.56.13.146:81/cdnlive/gzws.m3u8
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://207.56.13.146:81/cdnlive/hbws.m3u8
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://207.56.13.146:81/cdnlive/haws.m3u8
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://207.56.13.146:81/cdnlive/jlws.m3u8
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://207.56.13.146:81/cdnlive/lyws.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://207.56.13.146:81/cdnlive/hljws.m3u8
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://207.56.13.146:81/cdnlive/sxws.m3u8
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://207.56.13.146:81/cdnlive/qhws.m3u8
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://207.56.13.146:81/cdnlive/nxws.m3u8
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="港台频道",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="港台频道",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 group-title="港台频道",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 group-title="港台频道",无线新闻
+http://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 group-title="港台频道",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",NOW新闻
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="港台频道",CH5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="港台频道",CH8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="港台频道",CHU
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="港台频道",翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="港台频道",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="港台频道",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="港台频道",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="港台频道",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="港台频道",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港台频道",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="港台频道",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="港台频道",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="港台频道",香港面包
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港台频道",八度空间
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 group-title="港台频道",龙华偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 group-title="港台频道",龙华日韩
+http://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 group-title="港台频道",龙华戏剧
+http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 group-title="港台频道",龙华电影
+https://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 group-title="港台频道",龙华经典
+https://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 group-title="港台频道",澳视澳门
+http://cdn6.163189.xyz/163189/asam
+#EXTINF:-1 group-title="港台频道",澳门综艺
+http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 group-title="港台频道",澳门体育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 group-title="港台频道",澳门莲花
+http://cdn6.163189.xyz/163189/amlh
+#EXTINF:-1 group-title="港台频道",重温经典
+http://cdn6.163189.xyz/163189/cwjd
+#EXTINF:-1 group-title="港台频道",TVB武侠
+http://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 group-title="港台频道",TVB星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="港台频道",TVB Plus
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 group-title="港台频道",千禧经典
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="港台频道",天映频道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 group-title="港台频道",HOY77
+http://cdn6.163189.xyz/163189/hoy
+#EXTINF:-1 group-title="港台频道",HOY78
+http://cdn.163189.xyz/163189/hoy78
+#EXTINF:-1 group-title="港台频道",RTHK 32
+http://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 group-title="港台频道",ASTRO爱奇艺
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 group-title="港台频道",ViuTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 group-title="港台频道",ViuTVsix
+https://cdn10.163189.xyz/stream/163189/viu6/
+#EXTINF:-1 group-title="港台频道",邵氏动作
+http://feilong123.vip/409990236/tv.php?id=ssdz
+#EXTINF:-1 group-title="港台频道",邵氏电影
+http://feilong123.vip/409990236/tv.php?id=ssdy
+#EXTINF:-1 group-title="港台频道",邵氏武侠
+http://feilong123.vip/409990236/tv.php?id=sswx
+#EXTINF:-1 group-title="港台频道",邵氏喜剧
+http://feilong123.vip/409990236/tv.php?id=ssxj
+#EXTINF:-1 group-title="港台频道",AMC电影台
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+#EXTINF:-1 group-title="港台频道",HBO喜剧
+http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",HBO
+http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",CN卡通
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",LMN
+http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",HBO精选
+http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",Cinemax精选
+http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+#EXTINF:-1 group-title="港台频道",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",HBO王牌
+http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="地方频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 group-title="地方频道",看东方4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 group-title="地方频道",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="地方频道",钱江都市
+http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+#EXTINF:-1 group-title="地方频道",经济生活
+http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+#EXTINF:-1 group-title="地方频道",教科影院
+http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+#EXTINF:-1 group-title="地方频道",民生休闲
+http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+#EXTINF:-1 group-title="地方频道",浙江新闻
+http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+#EXTINF:-1 group-title="地方频道",少儿频道
+http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+#EXTINF:-1 group-title="地方频道",浙江国际
+http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+#EXTINF:-1 group-title="地方频道",之江纪录
+http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
+#EXTINF:-1 group-title="地方频道",广州影视
+http://r.jdshipin.com/sFw4S
+#EXTINF:-1 group-title="地方频道",广州综合
+https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
+#EXTINF:-1 group-title="地方频道",南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 group-title="地方频道",苏州娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 group-title="地方频道",南京少儿
+http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+#EXTINF:-1 group-title="地方频道",南宁新闻
+https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+#EXTINF:-1 group-title="地方频道",南宁公共
+https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+#EXTINF:-1 group-title="地方频道",南宁文旅
+https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+#EXTINF:-1 group-title="地方频道",南宁娱乐
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+#EXTINF:-1 group-title="地方频道",宁夏公共
+https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+#EXTINF:-1 group-title="地方频道",宁夏经济
+https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+#EXTINF:-1 group-title="地方频道",宁夏文旅
+https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+#EXTINF:-1 group-title="地方频道",宁夏少儿
+https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+#EXTINF:-1 group-title="地方频道",云南都市
+https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+#EXTINF:-1 group-title="地方频道",云南娱乐
+https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+#EXTINF:-1 tvg-id="内蒙古新闻综合" group-title="地方频道",新闻综合
+http://play1-qk.nmtv.cn/live/2316general.m3u8
+#EXTINF:-1 tvg-id="内蒙古经济生活" group-title="地方频道",经济生活
+http://play1-qk.nmtv.cn/live/2326general.m3u8
+#EXTINF:-1 tvg-id="内蒙古少儿" group-title="地方频道",少儿频道
+http://play1-qk.nmtv.cn/live/2327general.m3u8
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" group-title="地方频道",文体娱乐
+http://play1-qk.nmtv.cn/live/2319general.m3u8
+#EXTINF:-1 tvg-id="内蒙古农牧" group-title="地方频道",农牧频道
+http://play1-qk.nmtv.cn/live/2329general.m3u8
+#EXTINF:-1 group-title="地方频道",梨园频道
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1966aa8a0405e1541cff782f56c75447&wsTime=1770400669
+#EXTINF:-1 group-title="地方频道",文物宝库
+https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
+#EXTINF:-1 group-title="地方频道",武术频道
+https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
+#EXTINF:-1 group-title="地方频道",河南曲艺
+https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
+#EXTINF:-1 group-title="地方频道",移动戏曲
+https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=b2484c40280981b4050b148e22943b0e&wsTime=1770400669
+
+
+#EXTM3U
+#EXTINF:-1 channel-number="1" tvg-id="1" tvg-name="CCTV-1高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-1.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225880/10000100000000060000000000025506_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-1 综合
+rtp://239.3.1.129:8008
+#EXTINF:-1 channel-number="2" tvg-id="2" tvg-name="CCTV-2高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-2.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226036/10000100000000060000000000285832_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-2 财经
+rtp://239.3.1.60:8084
+#EXTINF:-1 channel-number="3" tvg-id="3" tvg-name="CCTV-3高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-3.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226100/10000100000000060000000000831268_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-3 综艺
+rtp://239.3.1.172:8001
+#EXTINF:-1 channel-number="4" tvg-id="4" tvg-name="CCTV-4高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226081/10000100000000060000000000545704_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际
+rtp://239.3.1.105:8092
+#EXTINF:-1 channel-number="341" tvg-id="341" tvg-name="CCTV-4欧洲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4-EUO.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226138/10000100000000060000000001154838_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际欧洲
+rtp://239.3.1.213:4220
+#EXTINF:-1 channel-number="342" tvg-id="342" tvg-name="CCTV-4美洲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4-AME.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226149/10000100000000060000000001154841_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际美洲
+rtp://239.3.1.214:4220
+#EXTINF:-1 channel-number="5" tvg-id="5" tvg-name="CCTV-5高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-5.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226113/10000100000000060000000000831269_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5 体育
+rtp://239.3.1.173:8001
+#EXTINF:-1 channel-number="18" tvg-id="18" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-5+.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225819/10000100000000060000000000025043_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5+ 体育赛事
+rtp://239.3.1.130:8004
+#EXTINF:-1 channel-number="6" tvg-id="6" tvg-name="CCTV-6高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-6.png" group-title="央视" zz-definition="HD",CCTV-6 电影
+rtp://239.3.1.174:8001
+#EXTINF:-1 channel-number="7" tvg-id="7" tvg-name="CCTV-7高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-7.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226031/10000100000000060000000000285833_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-7 国防军事
+rtp://239.3.1.61:8104
+#EXTINF:-1 channel-number="8" tvg-id="8" tvg-name="CCTV-8高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-8.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226115/10000100000000060000000000831271_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-8 电视剧
+rtp://239.3.1.175:8001
+#EXTINF:-1 channel-number="9" tvg-id="9" tvg-name="CCTV-9高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-9.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226038/10000100000000060000000000285834_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-9 纪录
+rtp://239.3.1.62:8112
+#EXTINF:-1 channel-number="10" tvg-id="10" tvg-name="CCTV-10高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-10.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226033/10000100000000060000000000285835_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-10 科教
+rtp://239.3.1.63:8116
+#EXTINF:-1 channel-number="11" tvg-id="11" tvg-name="CCTV-11高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-11.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226086/10000100000000060000000000753288_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-11 戏曲
+rtp://239.3.1.152:8120
+#EXTINF:-1 channel-number="12" tvg-id="12" tvg-name="CCTV-12高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-12.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226040/10000100000000060000000000285836_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-12 社会与法
+rtp://239.3.1.64:8124
+#EXTINF:-1 channel-number="13" tvg-id="13" tvg-name="CCTV-13高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-13.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226145/10000100000000060000000001103864_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-13 新闻
+rtp://239.3.1.124:8128
+#EXTINF:-1 channel-number="14" tvg-id="14" tvg-name="CCTV-14高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-14.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226035/10000100000000060000000000285837_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-14 少儿
+rtp://239.3.1.65:8132
+#EXTINF:-1 channel-number="15" tvg-id="15" tvg-name="CCTV-15高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-15.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226099/10000100000000060000000000753287_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-15 音乐
+rtp://239.3.1.153:8136
+#EXTINF:-1 channel-number="16" tvg-id="16" tvg-name="CCTV-16高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226148/10000100000000060000000001234273_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 奥林匹克
+rtp://239.3.1.184:8001
+#EXTINF:-1 channel-number="17" tvg-id="17" tvg-name="CCTV-17高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-17.png" group-title="央视" zz-definition="HD" zz-raw-name="CCTV17-高清" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226095/10000100000000060000000000705941_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-17 农业农村
+rtp://239.3.1.151:8144
+#EXTINF:-1 channel-number="86" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视" zz-definition="UHD",CCTV-4K
+rtp://239.3.1.245:2000
+#EXTINF:-1 channel-number="21" tvg-id="21" tvg-name="BRTV北京卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225870/10000100000000060000000000025099_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视
+rtp://239.3.1.22:8001
+#EXTINF:-1 channel-number="22" tvg-id="22" tvg-name="BRTV文艺高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_WenYi.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225868/10000100000000060000000000025097_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京文艺
+rtp://239.3.1.242:8000
+#EXTINF:-1 channel-number="26" tvg-id="26" tvg-name="BRTV体育休闲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="卫视" zz-definition="HD",体育休闲
+rtp://239.3.1.243:8000
+#EXTINF:-1 channel-number="24" tvg-id="24" tvg-name="BRTV影视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_YingShi.png" group-title="卫视" zz-definition=HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226094/10000100000000060000000000804258_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京影视
+rtp://239.3.1.158:8000
+#EXTINF:-1 channel-number="29" tvg-id="29" tvg-name="BRTV新闻高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_XinWen.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226092/10000100000000060000000000804251_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京新闻
+rtp://239.3.1.159:8000 
+#EXTINF:-1 channel-number="25" tvg-id="25" tvg-name="BRTV财经高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_CaiJing.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226134/10000100000000060000000001010593_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京财经
+rtp://239.3.1.116:8000
+#EXTINF:-1 channel-number="27" tvg-id="27" tvg-name="BRTV生活高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_ShengHuo.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226141/10000100000000060000000001010592_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京生活
+rtp://239.3.1.117:8000
+#EXTINF:-1 channel-number="131" tvg-id="131" tvg-name="BTV国际频道" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_International.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225804/10000100000000060000000000025033_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京国际
+rtp://239.3.1.235:8000
+#EXTINF:-1 channel-number="23" tvg-id="23" tvg-name="BRTV纪实科教高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_JiShiKeJiao.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226143/10000100000000060000000001010594_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",纪实科教
+rtp://239.3.1.115:8000
+#EXTINF:-1 channel-number="28" tvg-id="28" tvg-name="BRTV卡酷少儿高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_KakuShaoEr.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226133/10000100000000060000000000943150_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",卡酷少儿
+rtp://239.3.1.189:8000
+#EXTINF:-1 channel-number="41" tvg-id="41" tvg-name="湖南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225871/10000100000000060000000000025095_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视
+rtp://239.3.1.112:3002
+#EXTINF:-1 channel-number="44" tvg-id="44" tvg-name="江苏卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangSu.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225881/10000100000000060000000000025507_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视
+rtp://239.3.1.113:3003
+#EXTINF:-1 channel-number="45" tvg-id="45" tvg-name="东方卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225883/10000100000000060000000000025534_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视
+rtp://239.3.1.119:3006
+#EXTINF:-1 channel-number="46" tvg-id="46" tvg-name="浙江卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ZheJiang.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225957/10000100000000060000000000146902_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视
+rtp://239.3.1.114:3004
+#EXTINF:-1 channel-number="50" tvg-id="50" tvg-name="山东卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShanDong.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221226002/10000100000000060000000000205202_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视
+rtp://239.3.1.144:3005
+#EXTINF:-1 channel-number="72" tvg-id="72" tvg-name="广东卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225983/10000100000000060000000000176932_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视
+rtp://239.3.1.27:2000
+#EXTINF:-1 channel-number="74" tvg-id="74" tvg-name="深圳卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225869/10000100000000060000000000025093_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视
+rtp://239.3.1.28:2000
+#EXTINF:-1 channel-number="142" tvg-id="142" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SiChuan.png" group-title="卫视" zz-definition="SD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225831/10000100000000060000000000025055_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视
+rtp://239.3.1.131:3001
+#EXTINF:-1 channel-number="58" tvg-id="58" tvg-name="江西卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangXi.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226136/10000100000000060000000001103865_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视
+rtp://239.3.1.123:8164
+#EXTINF:-1 channel-number="73" tvg-id="73" tvg-name="河北卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeBei.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226082/10000100000000060000000000736149_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河北卫视
+rtp://239.3.1.148:8072
+#EXTINF:-1 channel-number="59" tvg-id="59" tvg-name="河南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeNan.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226189/382569577.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南卫视
+rtp://239.3.1.50:8184
+#EXTINF:-1 channel-number="48" tvg-id="48" tvg-name="天津卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/TianJin.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225984/10000100000000060000000000176931_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视
+rtp://239.3.1.141:1234
+#EXTINF:-1 channel-number="52" tvg-id="52" tvg-name="安徽卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/AnHui.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225999/10000100000000060000000000205203_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",安徽卫视
+rtp://239.3.1.211:8064
+#EXTINF:-1 channel-number="47" tvg-id="47" tvg-name="湖北卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuBei.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225956/10000100000000060000000000146903_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖北卫视
+rtp://239.3.1.138:8044
+#EXTINF:-1 channel-number="56" tvg-id="56" tvg-name="东南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongNan.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226101/10000100000000060000000000793946_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东南卫视
+rtp://239.3.1.156:8148
+#EXTINF:-1 channel-number="55" tvg-id="55" tvg-name="贵州卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuiZhou.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226097/10000100000000060000000000736148_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",贵州卫视
+rtp://239.3.1.149:8076
+#EXTINF:-1 channel-number="51" tvg-id="51" tvg-name="辽宁卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/LiaoNing.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226000/10000100000000060000000000205199_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",辽宁卫视
+rtp://239.3.1.210:8056
+#EXTINF:-1 channel-number="57" tvg-id="57" tvg-name="重庆卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ChongQing.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226147/10000100000000060000000001103866_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",重庆卫视
+rtp://239.3.1.122:8160
+#EXTINF:-1 channel-number="53" tvg-id="53" tvg-name="黑龙江卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeiLongJiang.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225864/10000100000000060000000000025092_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",黑龙江卫视
+rtp://239.3.1.133:8016
+#EXTINF:-1 channel-number="78" tvg-id="78" tvg-name="吉林卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiLin.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226161/10000100000000060000000001233339_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",吉林卫视
+rtp://239.3.1.240:8172
+#EXTINF:-1 channel-number="62" tvg-id="62" tvg-name="甘肃卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GanSu.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226197/397709753.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",甘肃卫视
+rtp://239.3.1.201:8180
+#EXTINF:-1 channel-number="71" tvg-id="71" tvg-name="宁夏卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NingXia.png" group-title="卫视" zz-definition="HD",宁夏卫视
+rtp://239.3.1.169:8212
+#EXTINF:-1 channel-number="64" tvg-id="64" tvg-name="新疆卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/XinJiang.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226201/400975092.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新疆卫视
+rtp://239.3.1.167:8192
+#EXTINF:-1 channel-number="63" tvg-id="63" tvg-name="西藏卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/XiZang.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226192/400975121.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",西藏卫视
+rtp://239.3.1.166:8188
+#EXTINF:-1 channel-number="65" tvg-id="65" tvg-name="兵团卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BingTuan.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226199/400975082.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",兵团卫视
+rtp://239.3.1.168:8196
+#EXTINF:-1 channel-number="343" tvg-id="343" tvg-name="CGTN 英语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN.png" group-title="数字" zz-definition="HD" zz-raw-name="CGTN英语" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226151/10000100000000060000000001154843_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN英语
+rtp://239.3.1.215:4220
+#EXTINF:-1 channel-number="344" tvg-id="344" tvg-name="CGTN 英文纪录高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Doc.png" group-title="数字" zz-definition="HD" zz-raw-name="CGTN英文纪录" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226153/10000100000000060000000001154845_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN纪录
+rtp://239.3.1.216:4220
+#EXTINF:-1 channel-number="345" tvg-id="345" tvg-name="CGTN 西班牙语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Espanol.png" group-title="数字" zz-definition="HD" zz-raw-name="CGTN西班牙语" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226140/10000100000000060000000001154848_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN西语
+rtp://239.3.1.217:4220
+#EXTINF:-1 channel-number="346" tvg-id="346" tvg-name="CGTN 法语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Francis.png" group-title="数字" zz-definition="HD" zz-raw-name="CGTN法语" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226142/10000100000000060000000001154852_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN法语
+rtp://239.3.1.218:4220
+#EXTINF:-1 channel-number="347" tvg-id="347" tvg-name="CGTN 阿拉伯语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Arabic.png" group-title="数字" zz-definition="HD" zz-raw-name="CGTN阿拉伯语" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226155/10000100000000060000000001154853_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN阿语
+rtp://239.3.1.219:4220
+#EXTINF:-1 channel-number="348" tvg-id="348" tvg-name="CGTN 俄语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Russian.png" group-title="数字" zz-definition="HD" zz-raw-name="CGTN俄语" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226144/10000100000000060000000001154854_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN俄语
+rtp://239.3.1.220:4220
+#EXTINF:-1 channel-number="76" tvg-id="76" tvg-name="CETV1高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-1.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226065/10000100000000060000000000384776_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国教育
+rtp://239.3.1.57:8152
+#EXTINF:-1 channel-number="79" tvg-id="79" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/ZhongGuoJiaoTong.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226173/10000100000000060000000001341044_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国交通
+rtp://239.3.1.188:8001
+#EXTINF:-1 group-title="数字" zz-definition="HD",中国天气
+rtp://239.3.1.165:8001
+#EXTINF:-1 group-title="数字" zz-definition="HD",四海钓鱼
+rtp://239.3.1.164:8001
+#EXTINF:-1 channel-number="77" tvg-id="77" tvg-name="金鹰纪实高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan_JingYingJiShi.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226050/10000100000000060000000000384062_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰纪实
+rtp://239.3.1.58:8156
+#EXTINF:-1 channel-number="80" tvg-id="80" tvg-name="证券服务" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",证券服务
+rtp://239.3.1.24:8001
+#EXTINF:-1 channel-number="66" tvg-id="66" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiJingJi.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226160/10000100000000060000000001464323_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩竞技
+rtp://239.3.1.125:8001
+#EXTINF:-1 channel-number="67" tvg-id="67" tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiLanQiu.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226162/10000100000000060000000001464344_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩篮球
+rtp://239.3.1.126:8001
+#EXTINF:-1 channel-number="68" tvg-id="68" tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiQingShao.png" group-title="数字" zz-definition="HD" zz-raw-name="睛彩羽毛球" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226175/10000100000000060000000001464349_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩青少
+rtp://239.3.1.127:8001
+#EXTINF:-1 channel-number="69" tvg-id="69" tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiGuangChangWu.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226164/10000100000000060000000001464351_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩广场舞
+rtp://239.3.1.128:8001
+#EXTINF:-1 channel-number="401" tvg-id="401" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/AiShang4K.png" group-title="数字" zz-definition="UHD",爱上4K
+rtp://239.3.1.236:2000
+#EXTINF:-1 channel-number="40" tvg-id="40" tvg-name="4K超清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_4KChaoQing.png" group-title="数字" zz-definition="UHD",4K超清
+rtp://239.3.1.249:8001
+#EXTINF:-1 channel-number="351" tvg-id="351" tvg-name="城市剧场" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226037/10000100000000060000000000285839_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",城市剧场
+rtp://239.3.1.67:4120
+#EXTINF:-1 channel-number="352" tvg-id="352" tvg-name="军旅剧场" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226007/10000100000000060000000000285639_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",军旅剧场
+rtp://239.3.1.68:4120
+#EXTINF:-1 channel-number="353" tvg-id="353" tvg-name="古装剧场" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226012/10000100000000060000000000285640_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",古装剧场
+rtp://239.3.1.69:4120
+#EXTINF:-1 channel-number="358" tvg-id="358" tvg-name="精选" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226018/10000100000000060000000000285646_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",精选高清
+rtp://239.3.1.74:4120
+#EXTINF:-1 channel-number="374" tvg-id="374" tvg-name="武侠剧场" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226041/10000100000000060000000000286228_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",武侠剧场
+rtp://239.3.1.90:4120
+#EXTINF:-1 channel-number="375" tvg-id="375" tvg-name="喜剧影院" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226044/10000100000000060000000000286227_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",喜剧影院
+rtp://239.3.1.91:4120
+#EXTINF:-1 channel-number="376" tvg-id="376" tvg-name="动作影院" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226039/10000100000000060000000000286226_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",,动作影院
+rtp://239.3.1.92:4120
+#EXTINF:-1 channel-number="377" tvg-id="377" tvg-name="家庭影院" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226034/10000100000000060000000000285685_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",家庭影院
+rtp://239.3.1.93:4120
+#EXTINF:-1 channel-number="378" tvg-id="378" tvg-name="星影" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226029/10000100000000060000000000285686_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",星影高清
+rtp://239.3.1.94:4120
+#EXTINF:-1 channel-number="368" tvg-id="368" tvg-name="光影" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226028/10000100000000060000000000285656_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",光影高清
+rtp://239.3.1.84:4120
+#EXTINF:-1 channel-number="203" tvg-id="203" tvg-name="经典电影" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225857/10000100000000060000000000025082_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",经典电影
+rtp://239.3.1.195:9024
+#EXTINF:-1 channel-number="349" tvg-id="349" tvg-name="重温经典",group-title="数字" zz-definition="HD",重温经典
+rtp://239.3.1.25:8001
+#EXTINF:-1 channel-number="202" tvg-id="202" tvg-name="热播剧场" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225855/10000100000000060000000000025078_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",热播剧场
+rtp://239.3.1.194:9020
+#EXTINF:-1 channel-number="204" tvg-id="204" tvg-name="魅力时尚" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225850/10000100000000060000000000025079_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",魅力时尚
+rtp://239.3.1.196:9012
+#EXTINF:-1 channel-number="207" tvg-id="207" tvg-name="少儿动画" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225859/10000100000000060000000000025083_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",少儿动画
+rtp://239.3.1.199:9000
+#EXTINF:-1 channel-number="364" tvg-id="364" tvg-name="动画" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226024/10000100000000060000000000285652_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",动画高清
+rtp://239.3.1.80:4120
+
+#EXTM3U
+#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
+https://radio.0472.org/?id=639
+#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",CNR经济之声
+https://radio.0472.org/?id=640
+#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="综合广播",CNR环球资讯
+https://radio.0472.org/?id=692
+#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="综合广播",CNR音乐之声
+https://radio.0472.org/?id=641
+#EXTINF:-1 tvg-name="中国交通广播" tvg-logo="https://radio.0472.org/?id=653&logo" group-title="综合广播",CNR交通广播
+https://radio.0472.org/?id=653
+#EXTINF:-1 tvg-name="文艺之声" tvg-logo="https://radio.0472.org/?id=648&logo" group-title="综合广播",CNR文艺之声
+https://radio.0472.org/?id=648
+#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="综合广播",CNR湾区之声
+https://radio.0472.org/?id=645
+#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="综合广播",CNR经典音乐
+https://radio.0472.org/?id=642
+#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://radio.0472.org/?id=643&logo" group-title="综合广播",CNR台海之声
+https://radio.0472.org/?id=643
+#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://radio.0472.org/?id=644&logo" group-title="综合广播",CNR神州之声
+https://radio.0472.org/?id=644
+#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://radio.0472.org/?id=646&logo" group-title="综合广播",CNR香港之声
+https://radio.0472.org/?id=646
+#EXTINF:-1 tvg-name="民族之声" tvg-logo="https://radio.0472.org/?id=647&logo" group-title="综合广播",CNR民族之声
+https://radio.0472.org/?id=647
+#EXTINF:-1 tvg-name="老年之声" tvg-logo="https://radio.0472.org/?id=649&logo" group-title="综合广播",CNR老年之声
+https://radio.0472.org/?id=649
+#EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://radio.0472.org/?id=654&logo" group-title="综合广播",CNR乡村之声
+https://radio.0472.org/?id=654
+#EXTINF:-1 tvg-name="南海之声" tvg-logo="https://radio.0472.org/?id=664&logo" group-title="综合广播",CNR南海之声
+https://radio.0472.org/?id=664
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="综合广播",北京交通广播
+http://ls.qingting.fm/live/336.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJXWGB.png" group-title="综合广播",北京新闻广播
+http://ls.qingting.fm/live/339.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJWYGB.png" group-title="综合广播",北京文艺广播
+http://ls.qingting.fm/live/333.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj974.png" group-title="音乐广播",北京音乐广播
+http://ls.qingting.fm/live/332.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJCSGB.png" group-title="综合广播",北京城市广播
+https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJTYGB.png" group-title="综合广播",北京体育广播
+https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj969.png" group-title="综合广播",北京阳光调频
+https://lhttp.qtfm.cn/live/5021739/64k.mp3
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=1254&logo" group-title="综合广播",北京经典调频
+https://radio.0472.org/?id=1254
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hyhq.png" group-title="综合广播",CRI华语环球
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="综合广播",CRI环球资讯
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/nhzs.png" group-title="综合广播",CRI南海之声
+https://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cgtnradio.png" group-title="综合广播",CRI英语资讯
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="综合广播",RTHK3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="综合广播",RTHK普通话
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+#EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://radio.0472.org/?id=1056&logo" group-title="综合广播",湖南经济广播
+https://radio.0472.org/?id=1056
+#EXTINF:-1 tvg-name="湖南新闻频道" tvg-logo="https://radio.0472.org/?id=525&logo" group-title="综合广播",湖南新闻频道
+https://radio.0472.org/?id=525
+#EXTINF:-1 tvg-name="湖南电台潇湘之声" tvg-logo="https://radio.0472.org/?id=526&logo" group-title="综合广播",湖南潇湘之声
+https://radio.0472.org/?id=526
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/重庆文艺广播.png" group-title="综合广播",重庆文艺广播
+http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/shgsgb.png" group-title="综合广播",上海故事广播
+http://live.cooltv.top/tv/news1296.php?id=10
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SXWYGB.png" group-title="综合广播",山西文艺广播
+http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/JSWYGB.png" group-title="综合广播",江苏文艺广播
+http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/JSGSGB.png" group-title="综合广播",江苏故事广播
+http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="上海戏曲广播" tvg-logo="https://radio.0472.org/?id=1314&logo" group-title="综合广播",上海戏曲广播
+https://radio.0472.org/?id=1314
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=1133&logo" group-title="综合广播",陕西故事广播
+https://radio.0472.org/?id=1133
+#EXTINF:-1 tvg-name="湖南金鹰955" tvg-logo="https://radio.0472.org/?id=523&logo" group-title="音乐广播",湖南金鹰之声
+https://radio.0472.org/?id=523
+#EXTINF:-1 tvg-name="芒果时空音乐台" tvg-logo="https://radio.0472.org/?id=524&logo" group-title="音乐广播",芒果时空音乐
+https://radio.0472.org/?id=524
+#EXTINF:-1 tvg-name="湖南交通广播" tvg-logo="https://radio.0472.org/?id=1059&logo" group-title="音乐广播",湖南交通广播
+https://radio.0472.org/?id=1059
+#EXTINF:-1 tvg-name="湖南音乐之声" tvg-logo="https://radio.0472.org/?id=1060&logo" group-title="音乐广播",湖南音乐之声
+https://radio.0472.org/?id=1060
+#EXTINF:-1 tvg-name="长沙交通广播" tvg-logo="https://radio.0472.org/?id=1061&logo" group-title="音乐广播",长沙交通广播
+https://radio.0472.org/?id=1061
+#EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="https://radio.0472.org/?id=1531&logo" group-title="音乐广播",长沙音乐广播
+https://radio.0472.org/?id=1531
+#EXTINF:-1 tvg-name="广东音乐之声" tvg-logo="https://radio.0472.org/?id=1060&logo" group-title="音乐广播",广东音乐之声
+http://ls.qingting.fm/live/1260.m3u8
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=381&logo" group-title="音乐广播",江西音乐广播
+http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=381&logo" group-title="音乐广播",河北音乐广播
+https://radio.0472.org/?id=381
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=498&logo" group-title="音乐广播",深圳音乐频率
+https://radio.0472.org/?id=498
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njyygb.png" group-title="音乐广播",南京音乐广播
+http://hls.njgb.com/live_hls/4/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏音乐广播" tvg-logo="https://radio.0472.org/?id=415&logo" group-title="音乐广播",江苏音乐广播
+https://radio.0472.org/?id=415
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hbqcyyt.png" group-title="音乐广播",河北汽车音乐
+https://radio.pull.hebtv.com/live/hebqcyy.m3u8
+#EXTINF:-1 tvg-name="重庆音乐广播" tvg-logo="https://radio.0472.org/?id=372&logo" group-title="音乐广播",重庆音乐广播
+https://radio.0472.org/?id=372
+#EXTINF:-1 tvg-name="黑龙江音乐广播" tvg-logo="https://radio.0472.org/?id=552&logo" group-title="音乐广播",龙江音乐广播
+https://radio.0472.org/?id=552
+#EXTINF:-1 tvg-name="内蒙古音乐之声" tvg-logo="https://radio.0472.org/?id=572&logo" group-title="音乐广播",内蒙音乐之声
+https://radio.0472.org/?id=572
+#EXTINF:-1 tvg-name="宁夏音乐广播" tvg-logo="https://radio.0472.org/?id=1701&logo" group-title="音乐广播",宁夏音乐广播
+https://radio.0472.org/?id=1701
+#EXTINF:-1 tvg-name="陕西音乐广播" tvg-logo="https://radio.0472.org/?id=561&logo" group-title="音乐广播",陕西音乐广播
+https://radio.0472.org/?id=561
+#EXTINF:-1 tvg-name="青海交通音乐广播" tvg-logo="https://radio.0472.org/?id=616&logo" group-title="音乐广播",青海音乐广播
+https://radio.0472.org/?id=616
+#EXTINF:-1 tvg-name="山西音乐广播" tvg-logo="https://radio.0472.org/?id=637&logo" group-title="音乐广播",山西音乐广播
+https://radio.0472.org/?id=637
+#EXTINF:-1 tvg-name="山东音乐广播" tvg-logo="https://radio.0472.org/?id=702&logo" group-title="音乐广播",山东音乐广播
+https://radio.0472.org/?id=702
+#EXTINF:-1 tvg-name="安徽音乐广播" tvg-logo="https://radio.0472.org/?id=601&logo" group-title="音乐广播",安徽音乐广播
+https://radio.0472.org/?id=601
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江苏经典流行音乐广播.png" group-title="音乐广播",江苏经典流行
+http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江音乐调频" tvg-logo="https://radio.0472.org/?id=928&logo" group-title="音乐广播",浙江音乐调频
+https://radio.0472.org/?id=928
+#EXTINF:-1 tvg-name="厦门音乐广播" tvg-logo="https://radio.0472.org/?id=1897&logo" group-title="音乐广播",厦门音乐广播
+https://radio.0472.org/?id=1897
+#EXTINF:-1 tvg-name="云南音乐广播" tvg-logo="https://radio.0472.org/?id=592&logo" group-title="音乐广播",云南音乐广播
+https://radio.0472.org/?id=592
+#EXTINF:-1 tvg-name="广西音乐台" tvg-logo="https://radio.0472.org/?id=590&logo" group-title="音乐广播",广西音乐台
+https://radio.0472.org/?id=590
+#EXTINF:-1 tvg-name="贵州音乐广播" tvg-logo="https://radio.0472.org/?id=435&logo" group-title="音乐广播",贵州音乐广播
+https://radio.0472.org/?id=435
+#EXTINF:-1 tvg-name="新疆音乐广播" tvg-logo="https://radio.0472.org/?id=1158&logo" group-title="音乐广播",新疆音乐广播
+https://radio.0472.org/?id=1158
+#EXTINF:-1 tvg-name="海南音乐广播" tvg-logo="https://radio.0472.org/?id=543&logo" group-title="音乐广播",海南音乐广播
+https://radio.0472.org/?id=543
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
+http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rfi.png" group-title="境外广播",Radio France Interntional
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中广新闻网.png" group-title="境外广播",BCC News Network
+http://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 group-title="境外广播",BBC World Service
+http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",CNN
+https://tunein.cdnstream1.com/3519_96.aac
+#EXTINF:-1 group-title="境外广播",CNA
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 group-title="境外广播",GB News
+https://listen-gbnews.sharp-stream.com/gbnews.mp3
+#EXTINF:-1 group-title="境外广播",LBC News
+https://icecast.thisisdax.com/LBCNewsUKMP3
+#EXTINF:-1 group-title="境外广播",Times Radio
+http://timesradio.wireless.radio/stream
+#EXTINF:-1 group-title="境外广播",Talk Radio
+https://radio.talkradio.co.uk/stream
+#EXTINF:-1 group-title="境外广播",Capital FM
+https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1 group-title="境外广播",Hao FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
+#EXTINF:-1 group-title="境外广播",Gold FM
+http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+#EXTINF:-1 group-title="境外广播",Money FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+#EXTINF:-1 group-title="境外广播",Yes FM
+https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 group-title="境外广播",Kiss FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
+#EXTINF:-1 group-title="境外广播",NPR News
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1 group-title="境外广播",ABC News Radio
+https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8
+#EXTINF:-1 group-title="境外广播",Newstalk ZB
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.aac
+#EXTINF:-1 group-title="境外广播",Power FM
+https://crystalout.surfernetwork.com:8001/KVSP_MP3
+#EXTINF:-1 group-title="境外广播",Classic FM
+https://ice-sov.musicradio.com/ClassicFMMP3
+#EXTINF:-1 group-title="境外广播",BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",BBC Radio 1 Xtra
+http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",BBC Radio 1 Dance
+http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",BBC Radio 3
+http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",BBC Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",BBC Radio 5 Live
+http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",BBC Radio Asian Network
+http://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
