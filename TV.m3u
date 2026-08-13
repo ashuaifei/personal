@@ -52,7 +52,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 group-title="US",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="US",NBA TV
 #EXTINF:-1 group-title="US",tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="US",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="US",tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="US",HBO 2
