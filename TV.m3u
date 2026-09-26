@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/476rnmegmzup5qpwnekg" x-generator="https://m3u4u.com/"
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/U1E7n-2dT21tlIhUtfagQw6ozq6a4jz1Z-dyhqqE8nq3VovZxRUkwvReoXjaXP1_As5Z678y584uLXiNsDHwl-JZyQvwWQOirQ" tvg-id="TNT.us (m3u4u)",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-id="TNT.us",TNT1
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/SswkjXsqpCRznw7g8Sm7o9VkgVX7XviVE7kEKxGVA2gOBYFTEeCWwzsUvw_QDew_jpEgcRYEnfunQVNGpXlL0BQ_BdI8B3wHoGnn9QKY_QZr6w" tvg-id="APL.us (m3u4u)",Animal Planet
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/VqfhtIfM9pd_qlEDGTvmlS-93k6tGTT5EX0eBoVn5OHQknDd7YvRWcSA545KDiZouRnFB-iJ-ZJbD6doPv-8DDfDCoK4RWqcQ7U" tvg-id="CNNHD.us (m3u4u)",CNN
