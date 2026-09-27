@@ -1848,7 +1848,7 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790492400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-126bc181560874d047b60dacf1d4eb50&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 http://107.150.60.122/live/cctv4hd.m3u8
 
-#EXTINF:-1 group-title="China" tvg-logo="" tvg-id="",CCTV-5体育
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="CCTV-5",CCTV-5体育
 http://207.56.13.146:81/cdnlive/cctv5.m3u8
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视频道",CCTV-6
