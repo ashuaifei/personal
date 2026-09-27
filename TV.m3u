@@ -605,9 +605,9 @@ https://tvsen6.aynaott.com/foxnews/index.m3u8
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="" tvg-id="FoxNewsRadio.us@SD" ,,Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-id="FoxSports1.us@HD" ,,Fox Sports 1 (720p)
+#EXTINF:-1 group-title="US" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-id="Fox Sports 1 HD.us (src09)" ,,Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-id="FoxSports1.us@HD" ,,Fox Sports 1 (720p) (2)
+#EXTINF:-1 group-title="US" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-id="Fox Sports 1 HD.us (src09)" ,,Fox Sports 1 (720p) (2)
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" tvg-id="FoxSports2.us@HD" ,,Fox Sports 2 (720p)
 https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2
