@@ -2058,6 +2058,56 @@ http://27.8.239.57:8009/rtp/225.0.4.179:7980
 http://116.168.205.72:4022/rtp/225.0.4.179:7980
 http://27.8.239.57:8010/rtp/225.0.4.179:7980
 
+
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="山西频道",山西卫视
+http://112.123.243.37:50085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+http://218.13.170.98:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.198.95.220:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1
+http://36.136.38.87:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+http://59.39.89.130:60901/tsfile/live/0125_20.m3u8?key=txiptv&playlive=1&authid=0
+http://207.56.13.146:81/cdnlive/sxws.m3u8
+
+
+#EXTINF:-1 tvg-id="山西影视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86SD.png" group-title="山西频道",山西影视SD
+http://118.80.83.228:12315/rtp/226.0.2.14:8024
+#EXTINF:-1 tvg-id="山西文体生活SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E6%96%87%E4%BD%93%E7%94%9F%E6%B4%BBSD.png" group-title="山西频道",山西文体生活SD
+http://118.80.83.228:12315/rtp/226.0.2.190:9432
+#EXTINF:-1 tvg-id="山西社会与法治SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BBSD.png" group-title="山西频道",山西社会与法治SD
+http://118.80.83.228:12315/rtp/226.0.2.15:8032
+#EXTINF:-1 tvg-id="山西黄河SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E9%BB%84%E6%B2%B3SD.png" group-title="山西频道",山西黄河SD
+http://118.80.83.228:12315/rtp/226.0.2.12:8008
+#EXTINF:-1 tvg-id="太原1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AA%E5%8E%9F1SD.png" group-title="山西频道",太原1SD
+http://118.80.83.228:12315/rtp/226.0.2.201:9520
+#EXTINF:-1 tvg-id="太原2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AA%E5%8E%9F2SD.png" group-title="山西频道",太原2SD
+http://118.80.83.228:12315/rtp/226.0.2.202:9528
+#EXTINF:-1 tvg-id="太原3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AA%E5%8E%9F3SD.png" group-title="山西频道",太原3SD
+http://118.80.83.228:12315/rtp/226.0.2.203:9536
+#EXTINF:-1 tvg-id="太原4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AA%E5%8E%9F4SD.png" group-title="山西频道",太原4SD
+http://118.80.83.228:12315/rtp/226.0.2.204:9544
+#EXTINF:-1 tvg-id="太原5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AA%E5%8E%9F5SD.png" group-title="山西频道",太原5SD
+http://118.80.83.228:12315/rtp/226.0.2.205:9552
+#EXTINF:-1 tvg-id="太原佰乐购SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AA%E5%8E%9F%E4%BD%B0%E4%B9%90%E8%B4%ADSD.png" group-title="山西频道",太原佰乐购SD
+http://118.80.83.228:12315/rtp/226.0.2.215:9632
+#EXTINF:-1 tvg-id="太原教育SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AA%E5%8E%9F%E6%95%99%E8%82%B2SD.png" group-title="山西频道",太原教育SD
+http://118.80.83.228:12315/rtp/226.0.2.206:9560
+#EXTINF:-1 tvg-id="古交电视台SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%A4%E4%BA%A4%E7%94%B5%E8%A7%86%E5%8F%B0SD.png" group-title="山西频道",古交电视台SD
+http://118.80.83.228:12315/rtp/226.0.2.192:9448
+#EXTINF:-1 tvg-id="晋能控股SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%99%8B%E8%83%BD%E6%8E%A7%E8%82%A1SD.png" group-title="山西频道",晋能控股SD
+http://118.80.83.228:12315/rtp/226.0.2.229:9744
+#EXTINF:-1 tvg-id="朔州-1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%94%E5%B7%9E-1SD.png" group-title="山西频道",朔州-1SD
+http://118.80.83.228:12315/rtp/226.0.2.185:9392
+#EXTINF:-1 tvg-id="朔州-2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%94%E5%B7%9E-2SD.png" group-title="山西频道",朔州-2SD
+http://118.80.83.228:12315/rtp/226.0.2.186:9400
+#EXTINF:-1 tvg-id="经济与科技SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%8F%E6%B5%8E%E4%B8%8E%E7%A7%91%E6%8A%80SD.png" group-title="山西频道",经济与科技SD
+http://118.80.83.228:12315/rtp/226.0.2.13:8016
+#EXTINF:-1 tvg-id="阳曲SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%98%B3%E6%9B%B2SD.png" group-title="山西频道",阳曲SD
+http://118.80.83.228:12315/rtp/226.0.2.196:9480
+#EXTINF:-1 tvg-id="阳泉科教SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%98%B3%E6%B3%89%E7%A7%91%E6%95%99SD.png" group-title="山西频道",阳泉科教SD
+http://118.80.83.228:12315/rtp/226.0.2.234:9784
+#EXTINF:-1 tvg-id="阳泉综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%98%B3%E6%B3%89%E7%BB%BC%E5%90%88SD.png" group-title="山西频道",阳泉综合SD
+http://118.80.83.228:12315/rtp/226.0.2.233:9776
+
+
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://112.123.243.37:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 http://36.136.38.87:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2131,14 +2181,6 @@ http://207.56.13.146:81/cdnlive/szws.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://112.123.243.37:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 http://207.56.13.146:81/cdnlive/hbws.m3u8
-
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="卫视频道",山西卫视
-http://112.123.243.37:50085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-http://218.13.170.98:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-http://120.198.95.220:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1
-http://36.136.38.87:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-http://59.39.89.130:60901/tsfile/live/0125_20.m3u8?key=txiptv&playlive=1&authid=0
-http://207.56.13.146:81/cdnlive/sxws.m3u8
 
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="卫视频道",东南卫视
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
