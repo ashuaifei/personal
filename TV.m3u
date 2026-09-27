@@ -5,8 +5,12 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/VqfhtIfM9pd_qlEDGTvmlS-93k6tGTT5EX0eBoVn5OHQknDd7YvRWcSA545KDiZouRnFB-iJ-ZJbD6doPv-8DDfDCoK4RWqcQ7U" tvg-id="CNN.us (src09)",CNN
 http://lordstreams.live:80/Alicia42/1915991510/277193
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/TYM3KJ2DYpzwMpIB9_oOkPM_yR5Qo4iR-sassn8NMvoLL6ixiWOTgiJpmk68Y-zcUb2xaagYqQ-xzJWYnUGqds6pOAKNY8nk33QxloycVATC5y3jbugNZzw" tvg-id="BBC NEWS.tw (src09)",BBC News
 http://lordstreams.live:80/Alicia42/1915991510/277195
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/TYM3KJ2DYpzwMpIB9_oOkPM_yR5Qo4iR-sassn8NMvoLL6ixiWOTgiJpmk68Y-zcUb2xaagYqQ-xzJWYnUGqds6pOAKNY8nk33QxloycVATC5y3jbugNZzw" tvg-id="ABC NEWS.tw (src09)",ABC News
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 group-title="US" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" tvg-id="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118853_dark_360w_270h.png" tvg-id="GBNews.uk (src09)",GB News
@@ -21,6 +25,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/ijszXN78BYEDuwGol6D4p5NkkfPkpPdfSObDZK2O1azyFajeMBVygfc4myComoD9bt7U3NhiIsVyGRFYJH9fGGA5C-BIxvl6GBKZMPlxCnOnMVWe" tvg-id="SkyNews.uk (src01)",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/h-wzShY-N9g6v3RPbiwP_zv1bQriNpnSFRBj2csWfZ6UoDXtMktZVDUKdlZDgIQoNsKBjoiEysIy6NDES8MbuV_Jp0-L6aixix-jrk-0Uw" tvg-id="ALJAZE.uk (m3u4u)",Al Jazeera
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105269_white_360w_270h.png" tvg-id="TRTWorld.uk (src01)",TRT World
@@ -33,6 +38,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/fZEAUk368BbKFCp5i3gNSL861a4FXo1jzzgQcZrmuFFN3cZaSehIZxS4V5vmVyk9K-qYBTDq7G8fSABysaDmCu6NwT1Zr_EUSY6MwKtQVz2tuF7gAsg4" tvg-id="NBCNN.us (m3u4u)",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+
 #EXTINF:-1 group-title="US" tvg-logo="" tvg-id="",One American News
 https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/FOdiYvPT_Ru_BDmj08IJY5GUuzIpM8M_UABswrqtA5u627O9sdcgI5YxDv6TD5wYLckRpg0X4NNygcui12x55pTa5YGAZNFbF7KWhF2t11XStViIYKs" tvg-id="Discovery.Channel.hk (src05)",Discovery Channel
@@ -1920,6 +1926,7 @@ http://36.136.38.87:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 http://207.56.13.146:81/cdnlive/hnws.m3u8
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="卫视频道",东方卫视
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 http://207.56.13.146:81/cdnlive/dfws.m3u8
 
@@ -2093,6 +2100,7 @@ https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2
 #EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
 https://cdn6.163189.xyz/live/fhzw/stream.m3u8
+http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx
@@ -2101,6 +2109,8 @@ https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",凤凰香港
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+http://www.negative.top:50000/udp/233.50.202.36:5140
 http://cdn6.163189.xyz/163189/fhhk
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 https://epg.pw/stream/27b49ba568efc8dcc9af6a79ec06ffd4a2e354e3e2060143be83fca695edf46e.m3u8
@@ -2110,6 +2120,9 @@ https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",Astro 欢喜台
+https://cdn3.indevs.in/stream/live/hxt/
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" tvg-id="",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
@@ -2151,12 +2164,19 @@ rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",台视
 rtmp://f13h.mine.nu/sat/tv071
 rtmp://f13h.mine.nu:1935/sat/tv071
+http://211.72.174.95:8112/0.ts
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",中视
 rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu:1935/sat/tv091
 http://37.27.111.214:8080/live/7/hls.m3u8
 https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",民视
+http://211.72.174.95:8115/0.ts
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",星影台
+http://173.208.234.146/live/nowxy.m3u8
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="",纬来综合
 https://epg.pw/stream/03ebc1a8a33908af343e09da79d9d8d08246222c793931c98184be5818a788a1.m3u8
