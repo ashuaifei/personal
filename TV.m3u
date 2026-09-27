@@ -1841,30 +1841,41 @@ https://aegis-cloudfront-1.tubi.video/4cfc30dc-1431-46b6-aea7-89a2e7d35823/playl
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV1
 http://74.91.26.218:82/live/cctv1hd.m3u8
 http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.196.130.52:20000/rtp/239.3.1.129:8008
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV-2
+http://111.196.130.52:20000/rtp/239.3.1.60:8084
 http://74.91.26.218:82/live/cctv2hd.m3u8
 http://173.208.234.146/live/cctv2.m3u8
 http://36.136.38.87:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视频道",CCTV-3
+http://111.196.130.52:20000/rtp/239.3.1.172:8001
 http://74.91.26.218:82/live/cctv3hd.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790492400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-126bc181560874d047b60dacf1d4eb50&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 http://107.150.60.122/live/cctv4hd.m3u8
+http://111.196.130.52:20000/rtp/239.3.1.105:8092
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="CCTV-5",CCTV-5体育
+http://111.196.130.52:20000/rtp/239.3.1.173:8001
 http://207.56.13.146:81/cdnlive/cctv5.m3u8
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" tvg-id="CCTV-5+",CCTV-5+
+http://111.196.130.52:20000/rtp/239.3.1.130:8004
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视频道",CCTV-6
 http://69.30.245.50/live/cctv6.m3u8
 http://173.208.212.130:8181/1080p/cctv6.m3u8
+http://111.196.130.52:20000/rtp/239.3.1.174:8001
+
 
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视频道",CCTV7
 http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 http://74.91.26.218:82/live/cctv7hd.m3u8
 http://36.136.38.87:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.196.130.52:20000/rtp/239.3.1.61:8104
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="央视频道",CCTV8
 http://112.123.243.37:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1873,33 +1884,39 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 http://207.56.13.146:81/cdnlive/cctv8.m3u8
 http://173.208.212.130:8181/720p/cctv8.m3u8
 http://120.198.95.220:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&down=1
+http://111.196.130.52:20000/rtp/239.3.1.175:8001
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视频道",CCTV9
 http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2f5f2e5889170018f039ce0d56c2087f
 https://xykt-fix.github.io/Y77.m3u8
 https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=910f793dda12a80a16c0b266355a113f
+http://111.196.130.52:20000/rtp/239.3.1.62:8112
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="央视频道",CCTV10
 http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 http://221.226.51.220:50081/newlive/live/hls/11/live.m3u8
 http://74.91.26.218:82/live/cctv10hd.m3u8
 http://36.136.38.87:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.196.130.52:20000/rtp/239.3.1.63:8116
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="央视频道",CCTV11
 http://112.123.243.37:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 http://74.91.26.218:82/live/cctv11hd.m3u8
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+http://111.196.130.52:20000/rtp/239.3.1.152:8120
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="央视频道",CCTV12
 http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 http://107.150.60.122/live/cctv12hd.m3u8
 http://74.91.26.218:82/live/cctv12hd.m3u8
+http://111.196.130.52:20000/rtp/239.3.1.64:8124
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视频道",CCTV13
 http://112.123.243.37:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 http://74.91.26.218:82/live/cctv13hd.m3u8
 https://event.pull.hebtv.com/jishi/cp1.m3u8
+http://111.196.130.52:20000/rtp/239.3.1.124:8128
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="央视频道",CCTV14
 http://112.123.243.37:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1907,13 +1924,19 @@ http://74.91.26.218:82/live/cctv14hd.m3u8
 https://event.pull.hebtv.com/jishi/cp2.m3u8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 http://198.204.228.26/live/cctv14hd.m3u8
+http://111.196.130.52:20000/rtp/239.3.1.65:8132
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="央视频道",CCTV15
 http://112.123.243.37:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 http://198.204.228.26/live/cctv15hd.m3u8
+http://111.196.130.52:20000/rtp/239.3.1.153:8136
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视频道",CCTV16
 http://173.208.234.146/live/cctv16.m3u8
+http://111.196.130.52:20000/rtp/239.3.1.184:8001
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视频道",CCTV17
+http://111.196.130.52:20000/rtp/239.3.1.151:8144
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="卫视频道",北京卫视
 http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
