@@ -3,8 +3,9 @@
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/SswkjXsqpCRznw7g8Sm7o9VkgVX7XviVE7kEKxGVA2gOBYFTEeCWwzsUvw_QDew_jpEgcRYEnfunQVNGpXlL0BQ_BdI8B3wHoGnn9QKY_QZr6w" tvg-id="AnimalPlanet.uk (src01)",Animal Planet
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/VqfhtIfM9pd_qlEDGTvmlS-93k6tGTT5EX0eBoVn5OHQknDd7YvRWcSA545KDiZouRnFB-iJ-ZJbD6doPv-8DDfDCoK4RWqcQ7U" tvg-id="CNN.us (src09)",CNN
+#EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/VqfhtIfM9pd_qlEDGTvmlS-93k6tGTT5EX0eBoVn5OHQknDd7YvRWcSA545KDiZouRnFB-iJ-ZJbD6doPv-8DDfDCoK4RWqcQ7U" tvg-id="CNN.us (src09)",CNN US
 http://lordstreams.live:80/Alicia42/1915991510/277193
+#EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/VqfhtIfM9pd_qlEDGTvmlS-93k6tGTT5EX0eBoVn5OHQknDd7YvRWcSA545KDiZouRnFB-iJ-ZJbD6doPv-8DDfDCoK4RWqcQ7U" tvg-id="CNN.us (src09)",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://iptv-epg.org/images/TYM3KJ2DYpzwMpIB9_oOkPM_yR5Qo4iR-sassn8NMvoLL6ixiWOTgiJpmk68Y-zcUb2xaagYqQ-xzJWYnUGqds6pOAKNY8nk33QxloycVATC5y3jbugNZzw" tvg-id="BBC NEWS.tw (src09)",BBC News
 http://lordstreams.live:80/Alicia42/1915991510/277195
