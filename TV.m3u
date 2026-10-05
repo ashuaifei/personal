@@ -1841,6 +1841,8 @@ https://aegis-cloudfront-1.tubi.video/4cfc30dc-1431-46b6-aea7-89a2e7d35823/playl
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV1
 http://118.80.83.228:12315/rtp/226.0.2.153:9136
+http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
+http://120.198.95.220:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
 http://74.91.26.218:82/live/cctv1hd.m3u8
 http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.196.130.52:20000/rtp/239.3.1.129:8008
@@ -1893,6 +1895,7 @@ http://27.8.239.57:8010/rtp/225.0.4.176:7980
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="CCTV-5",CCTV-5体育
 http://118.80.83.228:12315/rtp/226.0.2.209:9584
+http://101.66.195.51:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 http://111.196.130.52:20000/rtp/239.3.1.173:8001
 http://125.92.101.45:6666/rtp/239.77.0.170:5146
 http://125.92.101.45:6666/rtp/239.77.1.8:5146
@@ -1903,6 +1906,7 @@ http://27.8.239.57:8010/rtp/225.0.4.143:7980
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" tvg-id="CCTV-5+",CCTV-5+
 http://118.80.83.228:12315/rtp/226.0.2.168:9256
+http://124.228.160.112:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.196.130.52:20000/rtp/239.3.1.130:8004
 http://125.92.101.45:6666/rtp/239.77.0.87:5146
 http://125.92.101.45:6666/rtp/239.77.1.31:5146
