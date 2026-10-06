@@ -1163,6 +1163,80 @@ https://epg.pw/stream/03ebc1a8a33908af343e09da79d9d8d08246222c793931c98184be5818
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/香港卫视.png" tvg-id="香港卫视",香港卫视
 https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育1.png" tvg-id="76632",DAZN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" tvg-id="76632",DAZN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/MOMOTV.png" tvg-id="MOMO TV",MOMO TV
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB3.png" tvg-id="460924",TVBJ2
+http://bziyunshao.synology.me:8890/bysid/82
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png" tvg-id="456556",TVBS新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" tvg-id="TVB星河",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" tvg-id="368366",TVB翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" tvg-id="368366",TVB翡翠台 1080P
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png" tvg-id="ViuTV.hk (src05)",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png" tvg-id="410274",VIUTV (2)
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png" tvg-id="456533",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI3.png" tvg-id="中天娱乐",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" tvg-id="中天新闻",中天新闻
+http://222.128.55.152:9080/live/fc.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" tvg-id="370141",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV.png" tvg-id="370141",中视 (2)
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" tvg-id="370251",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" tvg-id="495069",凤凰中文
+http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" tvg-id="495070",凤凰资讯
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" tvg-id="495071",凤凰香港
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" tvg-id="370143",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="港澳台" tvg-logo="" tvg-id="叁立戏剧",叁立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" tvg-id="456505",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" tvg-id="台视新闻",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" tvg-id="台视新闻",台视新闻 (2)
+http://222.128.55.152:9080/live/ts.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png" tvg-id="456622",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png" tvg-id="寰宇新闻",寰宇新闻
+http://222.128.55.152:9080/live/hy.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" tvg-id="明珠台.hk (src09)",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" tvg-id="370139",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" tvg-id="370172",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" tvg-id="环球电视",环球电视
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" tvg-id="456575",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai3.png" tvg-id="456579",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai7.png" tvg-id="纬来精采",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai6.png" tvg-id="纬来育乐",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" tvg-id="美亚C+",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/耀才财经.png" tvg-id="耀才财经",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" tvg-id="非凡新闻",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 group-title="综合广播" tvg-logo="http://live.cooltv.top/logo/nhzs.png" tvg-id="AlabamaCrimsonTide.ncaab",CRI南海之声
 https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 group-title="综合广播" tvg-logo="http://live.cooltv.top/logo/hqzx.png" tvg-id="AlabamaCrimsonTide.ncaab",CRI环球资讯
